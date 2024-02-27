@@ -1,5 +1,4 @@
-# SQL CRUD
+# Report for SQL CRUD Workshop
 
-An assignment to design relational database tables with particular applications in mind.
-
-The contents of this file will be deleted and replaced with the content described in the [instructions](./instructions.md)
+## Part 1: Restaurant finder
+I get 
