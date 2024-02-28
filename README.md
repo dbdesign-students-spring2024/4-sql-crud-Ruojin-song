@@ -26,24 +26,24 @@ sqlite3 restaurants.db
 Then I create two tables: `restaurants` and `reviews` in it.
 ```
 CREATE TABLE restaurants (
-    ID INTEGER PRIMARY KEY,
-    Name TEXT NOT NULL,
-    Category TEXT,
-    Price_Tier TEXT,
-    Neighborhood TEXT,
-    Opening_Hours TEXT,
-    Closing_Hours TEXT,
-    Average_Rating REAL,
-    Good_for_Kids BOOLEAN
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    category TEXT,
+    price_tier TEXT,
+    neighborhood TEXT,
+    opening_hours TEXT,
+    closing_hours TEXT,
+    average_rating REAL,
+    good_for_kids BOOLEAN
 );
 ```
 ```
 CREATE TABLE reviews (
-    Review_ID INTEGER PRIMARY KEY,
-    Restaurant_ID INTEGER,
-    Review_Text TEXT,
-    Rating INTEGER,
-    FOREIGN KEY (Restaurant_ID) REFERENCES restaurants(ID)
+    review_id INTEGER PRIMARY KEY,
+    restaurant_id INTEGER,
+    review_text TEXT,
+    rating INTEGER,
+    FOREIGN KEY (restaurant_id) REFERENCES restaurants(id)
 );
 ```
 Then I import my practice data restaurants.csv into it. 
@@ -57,10 +57,10 @@ Then I import my practice data restaurants.csv into it.
 
 I want to find all cheap restaurants in a neighborhood named "Lower East Side"
 ```
-SELECT * FROM restaurants WHERE Price_Tier = 'Cheap' AND Neighborhood = 'Lower East Side';
+SELECT * FROM restaurants WHERE price_tier = 'Cheap' AND neighborhood = 'Lower East Side';
 ```
 Here is a part of the result of this queries:
-| ID | Name             | Category   | Price Tier | Neighborhood    | Opening Hours | Closing Hours | Average Rating | Good for Kids |
+| id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
 | 2  | Charming Cafe    | Mexican    | Cheap      | Lower East Side | 15:30         | 17:30         | 4.0            | True          |
 | 29 | Moonlight Wine Bar | French | Cheap      | Lower East Side | 20:30         | 21:00         | 2.0            | True          |
@@ -75,13 +75,13 @@ I want to find Chinese food with 3 stars or more and ordered by the number of st
 
 Here is SQL code:
 ```
-SELECT * FROM restaurants WHERE Category = 'Chinese' AND Average_Rating >= 3 ORDER BY Average_Rating DESC;
+SELECT * FROM restaurants WHERE category = 'Chinese' AND average_rating >= 3 ORDER BY average_rating DESC;
 ```
 
 
 
 Here is a part of result of this queries:
-| ID | Name             | Category   | Price Tier | Neighborhood    | Opening Hours | Closing Hours | Average Rating | Good for Kids |
+| id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
 | 692 | Irresistible Alehouse | Chinese | Medium      | Fordham         | 18:30         | 19:00         | 5.0            | True          |
 | 731 | Authentic Tapas Bar | Chinese | Medium      | Pelham Bay      | 20:00         | 21:30         | 5.0            | False         |
@@ -95,10 +95,10 @@ My current time is 9:02 pm. So I want to find all restaurants that are open now.
 
 Here is SQL code:
 ```
-SELECT * FROM restaurants WHERE strftime('%H:%M', 'now', 'localtime') BETWEEN Opening_Hours AND Closing_Hours;
+SELECT * FROM restaurants WHERE strftime('%H:%M', 'now', 'localtime') BETWEEN opening_hours AND closing_hours;
 ```
 Here is a part of result of this queries:
-| ID | Name             | Category   | Price Tier | Neighborhood    | Opening Hours | Closing Hours | Average Rating | Good for Kids |
+| id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
 | 5  | Irresistible Juice Joint | Thai | Medium      | SoHo            | 21:00         | 22:00         | 4.0            | True          |
 | 6  | Aromatic Grill   | Mediterranean | Medium | Flatbush       | 19:00         | 21:30         | 4.0            | False         |
@@ -113,17 +113,20 @@ I want to leave a review 'Great ambiance and delicious food!' and 4 stars for th
 Here is SQL code:
 
 ```
-INSERT INTO reviews (Restaurant_ID, Review_Text, Rating) VALUES ((SELECT ID FROM restaurants WHERE Name = 'Classic Burger Joint'), 'Great ambiance and delicious food!', 4);
+INSERT INTO reviews (restaurant_id, review_text, rating) VALUES ((SELECT id FROM restaurants WHERE name = 'Classic Burger Joint'), 'Great ambiance and delicious food!', 4);
 ```
 
 Here is the result in reviews table:
-| Review_ID | Restaurant_ID | Review_Text                             | Rating |
+| review_id | restaurant_id | review_text                             | rating |
 |-----------|---------------|---------------------------------------|--------|
 | 1         | 1             | Great ambiance and delicious food!      | 4      |
 
 **Task 5: Delete all restaurants that are not good for kids.**
 
-
+Here is SQL code:
+```
+DELETE FROM restaurants WHERE good_for_kids = 0;
+```
 
 **Task 6: Find the number of restaurants in each NYC neighborhood.**
 
@@ -132,7 +135,7 @@ Here is the result in reviews table:
  SELECT Neighborhood, COUNT(*) FROM restaurants GROUP BY Neighborhood;
  ```
  Here is a part of result:
- | Neighborhood | Number of Restaurants |
+ | neighborhood | Number of Restaurants |
 |--------------|-----------------------|
 | Annadale     | 27                    |
 | Astoria      | 19                    |
