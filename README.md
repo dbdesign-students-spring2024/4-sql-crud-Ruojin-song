@@ -1,7 +1,7 @@
 # Report for SQL CRUD Workshop
 
 ## Part 1: Restaurant finder
-
+Design a database table named `restaurants` that would allow an application that uses it to find restaurants and a table named `reviews` that would hold reviews for any restaurant.
 ### Practice Data
 Here is my practive data which is a mock data named [restaurants.csv](https://github.com/dbdesign-students-spring2024/4-sql-crud-Ruojin-song/blob/main/data/restaurants.csv). In my practice data, there are 9 cloumns including: 
 
@@ -24,7 +24,7 @@ Firstly, I create a database called restaurants.db.
 sqlite3 restaurants.db
 ```
 Then I create two tables: `restaurants` and `reviews` in it.
-```
+```sql
 CREATE TABLE restaurants (
     id INTEGER PRIMARY KEY,
     name TEXT NOT NULL,
@@ -37,7 +37,7 @@ CREATE TABLE restaurants (
     good_for_kids BOOLEAN
 );
 ```
-```
+```sql
 CREATE TABLE reviews (
     review_id INTEGER PRIMARY KEY,
     restaurant_id INTEGER,
@@ -47,7 +47,7 @@ CREATE TABLE reviews (
 );
 ```
 Then I import my practice data restaurants.csv into it. 
-```
+```sql
 .mode csv
 .import /Users/apple/Desktop/workshop_sql/4-sql-crud-Ruojin-song/data/restaurants.csv restaurants
 ```
@@ -56,7 +56,7 @@ Then I import my practice data restaurants.csv into it.
 **Task 1: Find all cheap restaurants in a particular neighborhood (pick any neighborhood as an example).**
 
 I want to find all cheap restaurants in a neighborhood named "Lower East Side"
-```
+```sql
 SELECT * FROM restaurants WHERE price_tier = 'Cheap' AND neighborhood = 'Lower East Side';
 ```
 Here is a part of the result of this queries:
@@ -74,7 +74,7 @@ Here is a part of the result of this queries:
 I want to find Chinese food with 3 stars or more and ordered by the number of stars in descending order.
 
 Here is SQL code:
-```
+```sql
 SELECT * FROM restaurants WHERE category = 'Chinese' AND average_rating >= 3 ORDER BY average_rating DESC;
 ```
 
@@ -94,7 +94,7 @@ Here is a part of result of this queries:
 My current time is 9:02 pm. So I want to find all restaurants that are open now. 
 
 Here is SQL code:
-```
+```sql
 SELECT * FROM restaurants WHERE strftime('%H:%M', 'now', 'localtime') BETWEEN opening_hours AND closing_hours;
 ```
 Here is a part of result of this queries:
@@ -112,7 +112,7 @@ I want to leave a review 'Great ambiance and delicious food!' and 4 stars for th
 
 Here is SQL code:
 
-```
+```sql
 INSERT INTO reviews (restaurant_id, review_text, rating) VALUES ((SELECT id FROM restaurants WHERE name = 'Classic Burger Joint'), 'Great ambiance and delicious food!', 4);
 ```
 
@@ -124,14 +124,14 @@ Here is the result in reviews table:
 **Task 5: Delete all restaurants that are not good for kids.**
 
 Here is SQL code:
-```
+```sql
 DELETE FROM restaurants WHERE good_for_kids = 0;
 ```
 
 **Task 6: Find the number of restaurants in each NYC neighborhood.**
 
  Here is SQL code:
- ```
+ ```sql
  SELECT neighborhood, COUNT(*) FROM restaurants GROUP BY neighborhood;
  ```
  Here is a part of result:
