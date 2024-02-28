@@ -132,7 +132,7 @@ DELETE FROM restaurants WHERE good_for_kids = 0;
 
  Here is SQL code:
  ```
- SELECT Neighborhood, COUNT(*) FROM restaurants GROUP BY Neighborhood;
+ SELECT neighborhood, COUNT(*) FROM restaurants GROUP BY neighborhood;
  ```
  Here is a part of result:
  | neighborhood | Number of Restaurants |
@@ -147,6 +147,8 @@ DELETE FROM restaurants WHERE good_for_kids = 0;
 | Crown Heights | 28                    |
 | Eltingville  | 32                    |
 | Flatbush     | 29                    |
+
+## Part 2: Social media app
 
 
 
