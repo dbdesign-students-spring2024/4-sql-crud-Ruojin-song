@@ -9,7 +9,7 @@ Here is my practive data which is a mock data named [restaurants.csv](https://gi
 2. Name (name of restaurants)
 3. Category (e.g. Chinese)
 4. Price_Tier (divided into three different types: Cheap, Medium, and Expensive)
-5. 	Neighborhood (neighborhood where restaurant is located)
+5. 	Neighborhood (neighborhood where restaurants are located)
 6. Opening Hours
 7. Closing Hours
 8. Average Rating (integer from 0 to 5)
@@ -132,10 +132,10 @@ DELETE FROM restaurants WHERE good_for_kids = 0;
 
  Here is SQL code:
  ```sql
- SELECT neighborhood, COUNT(*) FROM restaurants GROUP BY neighborhood;
+SELECT neighborhood, COUNT(*) AS number_of_restaurants FROM restaurants GROUP BY neighborhood;
  ```
  Here is a part of result:
- | neighborhood | Number of Restaurants |
+ | neighborhood | number_of_restaurants |
 |--------------|-----------------------|
 | Annadale     | 27                    |
 | Astoria      | 19                    |
