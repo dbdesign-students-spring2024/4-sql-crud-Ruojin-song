@@ -10,7 +10,7 @@ Here is my practive data which is a mock data named [restaurants.csv](https://gi
 3. Category (e.g. Chinese, Thai)
 4. Price Tier (divided into three different types: Cheap, Medium, and Expensive)
 5. 	Neighborhood (neighborhood where restaurants are located in New York)
-6. Opening Hours (From 8:00-12:00)
+6. Opening Hours (From 8:00-12:30)
 7. Closing Hours (at least 6 hours after opening hours)
 8. Average Rating (integer from 0 to 5)
 9. Good for Kids (True or False)
