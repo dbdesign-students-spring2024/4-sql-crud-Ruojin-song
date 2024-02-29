@@ -1,1001 +1,1001 @@
-ID,Name,Category,Price_Tier,Neighborhood,Opening Hours,Closing Hours,Average Rating,Good for Kids
-1,Classic Burger Joint,Chinese,Medium,Eltingville,19:30,20:30,5,TRUE
-2,Charming Cafe,Mexican,Cheap,Lower East Side,15:30,17:30,4,TRUE
-3,Underground Ice Cream Parlor,Chinese,Expensive,Soundview,17:00,19:30,0,TRUE
-4,Tasty Noodle House,French,Expensive,Tompkinsville,14:00,16:30,0,FALSE
-5,Irresistible Juice Joint,Thai,Medium,SoHo,21:00,22:00,4,TRUE
-6,Aromatic Grill,Mediterranean,Medium,Flatbush,19:00,21:30,4,FALSE
-7,Sensational Pizzeria,American,Medium,Flatbush,8:00,10:30,3,FALSE
-8,Scrumptious Tearoom,Thai,Medium,Westerleigh,8:00,9:00,3,TRUE
-9,Maplewood Burger Joint,American,Expensive,St. George,21:30,22:30,2,TRUE
-10,Moonshine Lodge,American,Expensive,Mott Haven,8:00,9:30,4,FALSE
-11,Sunny Pub,Japanese,Cheap,Tribeca,12:00,14:00,3,FALSE
-12,Palm Tree Smokehouse,Mediterranean,Cheap,Great Kills,11:30,13:00,5,TRUE
-13,Coastal Tearoom,Mexican,Expensive,SoHo,11:30,12:30,5,TRUE
-14,Sizzling Gastropub,American,Cheap,Brooklyn Heights,21:30,22:30,0,TRUE
-15,Savory Oyster Bar,Chinese,Cheap,Eltingville,13:30,14:00,2,TRUE
-16,Oceanic Court,Japanese,Expensive,Greenwich Village,20:00,21:30,1,TRUE
-17,Fresh Tea Room,Indian,Medium,Westerleigh,21:00,22:30,4,FALSE
-18,Wholesome Parlor,Chinese,Expensive,Tompkinsville,12:00,13:00,4,FALSE
-19,Savory Gastropub,French,Expensive,Long Island City,11:30,13:00,2,TRUE
-20,Golden Harvest Cantina,French,Medium,Sunnyside,8:00,9:30,3,FALSE
-21,Highlands Bistro,Indian,Cheap,Morris Park,8:00,10:00,4,FALSE
-22,Brick Oven Lodge,Chinese,Medium,Crown Heights,17:30,18:00,3,FALSE
-23,Cozy Dive Bar,Italian,Cheap,Fordham,19:30,20:00,0,TRUE
-24,Rainforest Grill,Chinese,Expensive,Lower East Side,13:30,15:30,1,TRUE
-25,Crisp Brewery,Indian,Expensive,Harlem,19:30,20:30,5,TRUE
-26,Gastronomic Cuisine,Japanese,Expensive,St. George,19:30,20:30,0,TRUE
-27,Delicious Cider House,Indian,Medium,Morris Park,18:30,19:30,4,FALSE
-28,Delectable Crepery,Mexican,Medium,Upper West Side,13:00,14:00,2,TRUE
-29,Moonlight Wine Bar,French,Cheap,Lower East Side,20:30,21:00,2,TRUE
-30,Maplewood Cuisine,Japanese,Medium,Belmont,20:30,21:30,0,TRUE
-31,Under the Stars Cafeteria,Mexican,Expensive,Flushing,20:30,21:30,3,FALSE
-32,Countryside Tea Room,American,Medium,Morris Park,8:00,10:30,1,TRUE
-33,Savory Whiskey Bar,French,Expensive,Midtown Manhattan,13:30,15:00,0,TRUE
-34,Pineapple Doughnut Shop,Thai,Cheap,Belmont,8:00,9:00,5,TRUE
-35,Blue Bayou Burger Joint,Thai,Medium,Bedford-Stuyvesant,18:30,20:00,3,TRUE
-36,Satisfying Parlor,American,Expensive,Tompkinsville,18:30,20:30,3,TRUE
-37,Valley Brewery,Chinese,Cheap,Tribeca,15:00,17:00,2,TRUE
-38,Retro Yogurt Shop,Chinese,Medium,Great Kills,8:30,9:00,1,TRUE
-39,Scrumptious Court,Japanese,Cheap,Lower East Side,17:30,19:00,1,FALSE
-40,Golden Harvest Cake Shop,Indian,Cheap,Bushwick,14:30,15:30,0,TRUE
-41,Blue Bayou Juice Bar,American,Cheap,Jamaica,9:00,10:30,4,TRUE
-42,Aromatic Cuisine,Mexican,Expensive,Harlem,11:00,12:30,1,FALSE
-43,Riverside Parlor,Mexican,Expensive,Long Island City,11:30,12:30,2,TRUE
-44,Charming Pub,American,Cheap,Harlem,14:30,15:30,3,TRUE
-45,Vintage Pizzeria,Mediterranean,Medium,Astoria,9:00,11:00,0,TRUE
-46,Lakefront Restaurant,Chinese,Medium,Bedford-Stuyvesant,16:00,17:30,0,FALSE
-47,Scrumptious Bakery,Mexican,Medium,Chelsea,17:30,18:00,5,TRUE
-48,Gastronomic Cafeteria,Japanese,Expensive,Flatbush,16:30,17:30,1,TRUE
-49,Wholesome Brewery,French,Cheap,Harlem,15:00,16:00,4,FALSE
-50,Crisp Frozen Yogurt Shop,Chinese,Cheap,Williamsburg,18:00,20:30,4,FALSE
-51,Sizzling Lounge,Mediterranean,Expensive,Forest Hills,10:30,11:00,2,TRUE
-52,Scrumptious Yogurt Shop,Japanese,Medium,Harlem,10:00,11:00,0,TRUE
-53,Serenity Taphouse,Thai,Expensive,Upper East Side,20:00,21:00,1,FALSE
-54,Ivy League Seafood Shack,American,Cheap,Lower East Side,18:00,19:00,5,TRUE
-55,Highlands Steakhouse,Thai,Expensive,Upper West Side,18:00,20:00,3,FALSE
-56,Ivy League Candy Store,Thai,Expensive,Jamaica,8:30,10:30,1,TRUE
-57,Classic Dive Bar,Japanese,Medium,Mott Haven,9:30,11:00,5,FALSE
-58,Moonlight Deli,Japanese,Expensive,Bedford-Stuyvesant,17:00,19:30,1,FALSE
-59,Rustic Pizzeria,Indian,Cheap,Fordham,9:30,11:30,2,FALSE
-60,Gourmet Brewery,Mediterranean,Expensive,Annadale,13:30,14:00,3,TRUE
-61,Succulent Spot,Thai,Medium,Park Slope,12:30,14:30,0,FALSE
-62,Rustic Speakeasy,French,Expensive,Jackson Heights,12:30,14:00,0,FALSE
-63,Retro Tiki Bar,Chinese,Expensive,Eltingville,18:30,19:30,0,TRUE
-64,Palm Tree Ramen House,Indian,Cheap,Tribeca,8:30,9:30,1,FALSE
-65,Sunset Vineyard,Japanese,Medium,Tompkinsville,9:00,10:00,0,FALSE
-66,Mouthwatering Eatery,French,Expensive,Fordham,18:30,20:30,0,FALSE
-67,Oceanfront Smoothie Shop,Indian,Medium,Tottenville,17:00,19:30,4,FALSE
-68,Moonlight Restaurant,French,Medium,Riverdale,14:00,15:00,1,FALSE
-69,Coastal Kitchenette,Indian,Medium,Williamsburg,10:30,12:30,2,FALSE
-70,Wholesome Cafeteria,Chinese,Medium,Prospect Heights,9:30,11:30,2,TRUE
-71,Spicy Lodge,Mediterranean,Expensive,Stapleton,20:30,21:00,1,TRUE
-72,Savory Deli,Mediterranean,Medium,Annadale,20:30,22:00,0,FALSE
-73,Wholesome Brewpub,Italian,Expensive,Soundview,20:30,22:30,2,TRUE
-74,Delicious Tapas Bar,French,Cheap,Flatbush,11:30,13:00,2,TRUE
-75,Rainforest Tiki Bar,Mediterranean,Cheap,Sunnyside,16:30,18:00,5,TRUE
-76,Aromatic Grill & Bar,Chinese,Medium,Lower East Side,20:00,22:30,1,TRUE
-77,Firehouse Lodge,Italian,Expensive,Belmont,17:30,19:30,1,FALSE
-78,Moonlight Distillery,Italian,Medium,Upper West Side,14:30,15:30,0,TRUE
-79,Sensational Brasserie,Mediterranean,Expensive,Upper West Side,8:00,10:30,4,FALSE
-80,Fusion Cookie Shop,French,Expensive,New Dorp,17:30,19:00,3,TRUE
-81,Oceanic Distillery,Japanese,Expensive,Hunts Point,9:00,11:00,1,TRUE
-82,Delicious Cantina,French,Cheap,Westerleigh,15:30,16:00,0,TRUE
-83,Quaint Donut Store,Thai,Cheap,Harlem,10:00,12:00,5,FALSE
-84,Savory Pub,Mediterranean,Medium,Tribeca,13:00,15:30,4,TRUE
-85,Spicy Kitchenette,Mediterranean,Cheap,Upper West Side,20:00,21:00,5,TRUE
-86,Classic Noodle House,Japanese,Expensive,Park Slope,20:30,21:00,1,TRUE
-87,Coastal Cider House,Chinese,Medium,Forest Hills,14:30,15:30,4,FALSE
-88,Fresh Parlor,Thai,Medium,Westerleigh,18:30,19:00,2,TRUE
-89,Hilltop Taproom,Mediterranean,Cheap,Lower East Side,21:30,22:00,3,FALSE
-90,Scrumptious Cafeteria,Chinese,Cheap,Tottenville,9:30,11:00,4,FALSE
-91,Seaside Smoothie Bar,Mediterranean,Cheap,Park Slope,13:30,14:30,5,FALSE
-92,Elegant Taproom,Mexican,Medium,Eltingville,15:00,16:00,5,TRUE
-93,Lakefront Joint,French,Medium,Astoria,14:30,15:30,5,TRUE
-94,Fresh Brasserie,Thai,Expensive,Astoria,21:30,22:30,4,TRUE
-95,Sensational Boulangerie,Indian,Cheap,Crown Heights,8:00,9:30,0,TRUE
-96,Vintage Gastropub,Chinese,Medium,Lower East Side,17:30,18:30,1,TRUE
-97,Coconut Cove Taphouse,Thai,Medium,Great Kills,11:30,13:00,5,FALSE
-98,Orchid Brasserie,Italian,Expensive,Brooklyn Heights,21:00,22:00,4,FALSE
-99,Elegant Eatery,Chinese,Cheap,Westerleigh,18:00,20:30,5,FALSE
-100,Rainforest Cereal Bar,Japanese,Medium,Tompkinsville,17:30,18:30,0,TRUE
-101,Aromatic Vineyard,Mexican,Expensive,Chelsea,9:30,11:00,3,FALSE
-102,Sizzle Vietnamese Restaurant,Mexican,Medium,SoHo,16:30,18:00,1,FALSE
-103,Urban Diner,French,Expensive,Throgs Neck,21:30,22:00,0,FALSE
-104,Fresh Smoothie Shop,Chinese,Expensive,Westerleigh,17:00,19:30,1,FALSE
-105,Fresh Bakery,French,Medium,Riverdale,8:00,9:30,0,TRUE
-106,Mouthwatering Tearoom,American,Cheap,Harlem,15:00,16:30,0,FALSE
-107,Wholesome Spot,Mexican,Expensive,New Dorp,12:00,13:30,0,TRUE
-108,Homestyle Fish House,Chinese,Medium,Park Slope,19:30,21:30,2,FALSE
-109,Scrumptious Grill & Bar,American,Medium,Brooklyn Heights,9:00,10:30,2,TRUE
-110,Satisfying Noodle House,French,Cheap,Sunnyside,20:30,21:00,4,TRUE
-111,Riverside Doughnut Shop,Mexican,Cheap,Forest Hills,12:30,14:00,0,TRUE
-112,Divine Tapas Bar,Indian,Cheap,Riverdale,10:00,11:30,0,FALSE
-113,Lakefront Ice Cream Parlor,Mediterranean,Cheap,Sunnyside,11:30,12:30,5,TRUE
-114,Elegant Crepery,Mexican,Expensive,Stapleton,17:00,18:00,0,TRUE
-115,Wholesome Court,Japanese,Expensive,Stapleton,10:30,11:30,0,FALSE
-116,Firehouse Juice Joint,Mexican,Expensive,Greenpoint,12:30,13:30,2,FALSE
-117,Bamboo Grove Parlor,Chinese,Medium,Great Kills,21:30,22:30,1,FALSE
-118,Aromatic Bistro,Indian,Expensive,Forest Hills,10:30,11:30,0,FALSE
-119,Juicy Doughnut Shop,Mexican,Expensive,Long Island City,21:30,22:00,0,TRUE
-120,Zesty Doughnut Shop,Thai,Medium,Jackson Heights,15:30,16:30,0,FALSE
-121,Homestyle Donut Store,Italian,Expensive,Bedford-Stuyvesant,19:30,21:30,1,FALSE
-122,Island Lounge,French,Medium,Fordham,11:30,12:00,2,TRUE
-123,Sweet Pea Winery,Japanese,Medium,Morris Park,14:30,16:30,0,FALSE
-124,Island Coffeehouse,French,Medium,SoHo,16:00,17:00,3,FALSE
-125,Gastronomic Tiki Bar,Japanese,Medium,Westerleigh,11:00,12:30,3,FALSE
-126,Maplewood Speakeasy,Mexican,Cheap,Stapleton,9:30,10:30,2,TRUE
-127,Ivy League Tapas Bar,Japanese,Expensive,Jackson Heights,16:00,17:00,0,FALSE
-128,Ivy League Parlor,Indian,Cheap,Hunts Point,15:30,16:00,2,FALSE
-129,Oceanic Brasserie,Italian,Cheap,Harlem,15:00,17:00,3,TRUE
-130,Fresh Cookie Shop,Mediterranean,Expensive,Bedford-Stuyvesant,20:30,21:00,0,FALSE
-131,Moonshine Eatery,American,Cheap,Throgs Neck,21:00,22:00,3,FALSE
-132,Vintage Oyster Bar,Mexican,Medium,Crown Heights,8:00,10:30,2,TRUE
-133,Authentic Oyster House,Mediterranean,Medium,Forest Hills,8:00,9:30,2,FALSE
-134,Sunset Smokehouse,French,Medium,St. George,8:30,9:30,5,FALSE
-135,Tasty Fish House,Indian,Medium,Greenwich Village,9:00,11:00,5,FALSE
-136,Heavenly Joint,Italian,Expensive,Riverdale,8:30,9:30,4,FALSE
-137,Countryside Spot,Japanese,Cheap,Hunts Point,16:30,17:00,2,TRUE
-138,Divine Cafeteria,American,Cheap,Throgs Neck,14:30,15:30,1,FALSE
-139,Quaint Donut Store,Italian,Medium,Harlem,9:30,10:00,0,TRUE
-140,Golden Harvest Cuisine,Thai,Cheap,Annadale,12:30,13:00,4,TRUE
-141,Spicy Bakery Cafe,Chinese,Expensive,Midtown Manhattan,19:00,21:30,3,TRUE
-142,Coconut Cove Fish House,French,Cheap,Brooklyn Heights,10:00,12:30,2,TRUE
-143,Blue Bayou Taproom,American,Medium,Jackson Heights,17:00,19:00,0,TRUE
-144,Bamboo Grove Ramen House,Japanese,Cheap,Tribeca,12:00,14:30,1,FALSE
-145,Sapphire Burger Joint,Japanese,Cheap,Lower East Side,11:30,13:00,3,FALSE
-146,Rooftop Eatery,Mexican,Cheap,Williamsburg,18:30,19:30,2,TRUE
-147,Tender Coffeehouse,Chinese,Expensive,Jackson Heights,10:00,12:30,1,TRUE
-148,Satisfying Fish House,Chinese,Cheap,Throgs Neck,14:00,16:00,4,TRUE
-149,Delicious Inn,American,Medium,Prospect Heights,10:30,12:00,1,TRUE
-150,Tropical Spot,Italian,Expensive,Williamsburg,20:30,22:00,0,FALSE
-151,Classic Coffeehouse,Mediterranean,Medium,Woodside,21:00,22:30,2,FALSE
-152,Spicy Spot,Chinese,Cheap,Mott Haven,20:30,21:30,4,TRUE
-153,Rooftop Brewpub,Mexican,Cheap,Morris Park,19:00,20:30,2,FALSE
-154,Zesty Noodle House,Mediterranean,Medium,Upper West Side,14:00,16:30,3,TRUE
-155,Flavorful Smoothie Shop,Mexican,Cheap,New Dorp,12:00,14:00,0,TRUE
-156,Under the Stars Winery,Mediterranean,Cheap,Prospect Heights,21:30,22:00,4,TRUE
-157,Oceanfront Cider House,Mexican,Medium,Riverdale,19:00,20:30,2,TRUE
-158,Bamboo Grove Smokehouse,Mediterranean,Cheap,St. George,15:00,17:00,2,TRUE
-159,Savor Tiki Bar,Italian,Medium,Tompkinsville,21:00,22:00,4,TRUE
-160,Zesty Boulangerie,Mediterranean,Cheap,Jackson Heights,8:00,9:30,0,FALSE
-161,Yummy Hideaway,Japanese,Cheap,Bedford-Stuyvesant,13:00,15:30,1,FALSE
-162,Juicy Pizzeria,American,Medium,Brooklyn Heights,12:00,14:30,0,FALSE
-163,Gastronomic Tiki Bar,French,Medium,Tompkinsville,20:00,22:30,4,FALSE
-164,Golden Harvest BBQ Joint,Mediterranean,Expensive,Tompkinsville,13:00,15:30,5,TRUE
-165,Tasty Diner,American,Expensive,Riverdale,20:00,21:30,1,FALSE
-166,Authentic Bakery Cafe,American,Medium,Belmont,19:00,21:00,4,FALSE
-167,Savory Eatery,Mexican,Expensive,Annadale,9:00,10:00,3,TRUE
-168,Homestyle Kitchenette,French,Expensive,Mott Haven,8:00,9:30,1,FALSE
-169,Wholesome Steakhouse,Thai,Cheap,SoHo,8:30,10:30,5,FALSE
-170,Yummy Eatery,Mexican,Expensive,Chelsea,17:00,19:00,2,TRUE
-171,Zesty Coffeehouse,American,Cheap,Morris Park,16:00,17:30,4,FALSE
-172,Zen Vineyard,Japanese,Medium,Prospect Heights,13:00,14:00,0,FALSE
-173,Delectable Bistro,American,Medium,Eltingville,17:30,19:00,1,TRUE
-174,Yummy Candy Store,Chinese,Cheap,Park Slope,16:30,17:30,3,FALSE
-175,Pineapple Burger Joint,Mexican,Medium,Flatbush,21:00,22:00,3,FALSE
-176,Tender Cake Shop,Mexican,Cheap,Flushing,12:30,13:30,0,FALSE
-177,Irresistible Kitchenette,Chinese,Medium,Williamsburg,19:30,20:30,5,FALSE
-178,Zesty Grill & Bar,American,Expensive,Astoria,13:30,14:30,3,TRUE
-179,Serenity Taco Shack,Mediterranean,Medium,Tottenville,9:00,11:00,4,FALSE
-180,Fresh Dive Bar,Mexican,Expensive,SoHo,11:30,13:00,1,FALSE
-181,Fresh Coffeehouse,Japanese,Expensive,Crown Heights,10:00,11:00,1,TRUE
-182,Blue Bayou Cantina,Indian,Medium,Eltingville,13:30,14:00,3,TRUE
-183,Wholesome Fish House,Indian,Medium,Westerleigh,13:00,14:00,5,FALSE
-184,Divine Taphouse,Chinese,Medium,Tribeca,20:00,21:30,3,TRUE
-185,Flavorful Steakhouse,American,Expensive,New Dorp,16:00,18:00,1,TRUE
-186,Flavorful Parlor,Thai,Cheap,Stapleton,12:00,13:30,4,TRUE
-187,Vintage BBQ Joint,Mediterranean,Expensive,Brooklyn Heights,10:00,12:00,5,TRUE
-188,Homestyle Bakery,Thai,Expensive,Flushing,17:30,18:00,4,TRUE
-189,Divine Tiki Bar,Indian,Cheap,Fordham,9:30,10:00,5,FALSE
-190,Quaint Fish House,French,Medium,St. George,12:00,14:30,3,FALSE
-191,Quaint Bar & Grill,French,Expensive,Belmont,18:30,20:30,2,TRUE
-192,Divine Cafeteria,Mediterranean,Cheap,Tottenville,14:00,16:30,4,FALSE
-193,Sensational Pastry Shop,Mediterranean,Medium,Woodside,15:30,17:00,2,TRUE
-194,Pineapple Restaurant,Thai,Expensive,Astoria,12:30,14:00,3,TRUE
-195,Mountain View Ramen House,Japanese,Medium,Westerleigh,19:00,20:00,4,FALSE
-196,Sunny BBQ Joint,Thai,Expensive,Chelsea,15:30,17:00,0,TRUE
-197,Spicy Pub,French,Medium,Forest Hills,10:30,12:00,5,TRUE
-198,Exquisite Fish House,Thai,Cheap,Williamsburg,11:30,13:30,1,FALSE
-199,Valley Grill,Italian,Expensive,Tottenville,21:30,22:00,3,FALSE
-200,Ivy League Chophouse,Mediterranean,Cheap,Midtown Manhattan,13:00,15:30,3,FALSE
-201,Coastal Tea Room,Chinese,Cheap,New Dorp,19:30,21:00,1,TRUE
-202,Charming Joint,Thai,Medium,Tribeca,14:00,15:00,3,TRUE
-203,Satisfying Bakery Cafe,Thai,Expensive,Tribeca,9:00,10:30,1,TRUE
-204,Cherry Blossom Noodle House,French,Cheap,Pelham Bay,17:00,18:30,0,TRUE
-205,Delicious Gelato Shop,Mexican,Medium,Ridgewood,10:00,11:30,2,FALSE
-206,Wholesome Cafeteria,French,Medium,Fordham,13:30,14:30,2,TRUE
-207,Savory Dive Bar,Italian,Cheap,Throgs Neck,9:00,11:30,3,TRUE
-208,Sweet Pea Coffeehouse,Mexican,Medium,Great Kills,12:30,13:30,0,FALSE
-209,Gourmet Ice Cream Parlor,Italian,Cheap,Bushwick,9:00,11:00,3,TRUE
-210,Coastal Cuisine,Japanese,Cheap,St. George,12:00,13:00,1,FALSE
-211,Palm Tree Kitchenette,Japanese,Medium,Hunts Point,13:00,14:00,5,TRUE
-212,Wholesome Juice Joint,American,Expensive,Greenwich Village,16:00,17:30,5,FALSE
-213,Highlands Sushi Bar,Indian,Expensive,Long Island City,16:00,18:00,2,TRUE
-214,Hearty Tavern,Chinese,Expensive,Jamaica,14:00,16:00,5,FALSE
-215,Tender Eatery,Chinese,Medium,Brooklyn Heights,19:00,20:30,4,TRUE
-216,Maplewood Donut Store,Chinese,Medium,Soundview,8:30,9:30,5,FALSE
-217,Tender Bar & Grill,Thai,Medium,Woodside,13:30,15:30,2,FALSE
-218,Tender Brewery,Italian,Expensive,Riverdale,9:30,10:00,2,FALSE
-219,Cozy Court,Mediterranean,Medium,Mott Haven,16:00,17:00,0,TRUE
-220,Harbor View Wine Bar,Chinese,Cheap,Crown Heights,10:00,11:30,1,FALSE
-221,Flavorful Tea Room,French,Medium,Jackson Heights,18:30,20:00,1,FALSE
-222,Palatable Grill,Chinese,Medium,Flatbush,18:00,20:30,2,FALSE
-223,Juicy Bakery,Indian,Medium,Lower East Side,15:30,16:30,0,TRUE
-224,Spicy Cider House,Mexican,Expensive,Lower East Side,16:00,18:30,0,FALSE
-225,Highlands Fish House,Italian,Medium,Lower East Side,16:30,17:30,4,TRUE
-226,Hilltop Cafe,Japanese,Medium,Park Slope,17:00,19:00,5,FALSE
-227,Cherry Blossom Seafood Shack,French,Medium,Woodside,16:30,17:30,4,TRUE
-228,Tasty Cafeteria,Chinese,Medium,Flatbush,21:00,22:00,3,FALSE
-229,Gourmet Taproom,Indian,Cheap,Lower East Side,17:30,19:00,0,FALSE
-230,Harbor View Inn,Mediterranean,Expensive,Lower East Side,8:30,9:00,3,FALSE
-231,Juicy Distillery,Thai,Expensive,Ridgewood,19:00,21:00,3,TRUE
-232,Flavorful Pub,Indian,Cheap,Lower East Side,14:30,16:00,2,FALSE
-233,Palatable Inn,Indian,Cheap,Jackson Heights,21:00,22:00,3,TRUE
-234,Hearty Bistro,Mexican,Expensive,Lower East Side,10:00,12:00,4,TRUE
-235,Wholesome Deli,Thai,Medium,Midtown Manhattan,14:00,15:30,0,TRUE
-236,Juicy Cake Shop,Mexican,Expensive,Great Kills,14:00,16:30,5,FALSE
-237,Foggy Vietnamese Restaurant,Chinese,Expensive,Stapleton,9:30,11:00,2,FALSE
-238,Cozy Juice Joint,Mexican,Expensive,Tottenville,20:30,21:00,0,TRUE
-239,Zesty Pub,Italian,Cheap,Jackson Heights,15:00,17:30,1,FALSE
-240,Palm Tree Cafeteria,Mediterranean,Medium,Tompkinsville,20:00,22:00,3,FALSE
-241,Aromatic Diner,Italian,Cheap,Midtown Manhattan,10:00,12:00,1,TRUE
-242,Island Kitchen,Japanese,Cheap,Bedford-Stuyvesant,10:30,12:30,4,FALSE
-243,Tasty Chocolate Shop,Chinese,Expensive,Annadale,12:00,14:00,1,TRUE
-244,Juicy Seafood Shack,Italian,Expensive,Tribeca,12:00,14:00,1,FALSE
-245,Tender BBQ Joint,Mexican,Expensive,Jackson Heights,15:30,17:30,4,TRUE
-246,Vintage Court,French,Expensive,Great Kills,17:00,19:30,0,TRUE
-247,Quaint Smoothie Shop,Mediterranean,Cheap,Morris Park,12:30,13:30,0,TRUE
-248,Delicious Noodle House,Thai,Cheap,Bedford-Stuyvesant,13:00,14:30,0,TRUE
-249,Summit Tearoom,Mexican,Cheap,Riverdale,10:00,12:00,0,TRUE
-250,Lakefront Smokehouse,Italian,Expensive,Annadale,21:00,22:30,5,TRUE
-251,Vintage Chophouse,American,Cheap,Mott Haven,14:30,15:30,0,TRUE
-252,Elegant Joint,Thai,Medium,Pelham Bay,12:30,13:00,0,TRUE
-253,Pineapple Brasserie,Indian,Expensive,Hunts Point,8:30,10:30,4,TRUE
-254,Golden Gate Cereal Bar,Chinese,Expensive,Flatbush,19:30,21:00,0,TRUE
-255,Spicy Spot,Thai,Cheap,Sunnyside,21:00,22:00,1,FALSE
-256,Aromatic Pub,Mediterranean,Cheap,Fordham,17:30,18:00,4,TRUE
-257,Aromatic Donut Store,Italian,Medium,St. George,10:00,12:30,2,TRUE
-258,Coastal Chophouse,Mexican,Cheap,Soundview,15:30,16:30,4,FALSE
-259,Wholesome Brewery,Mediterranean,Expensive,Great Kills,13:00,15:00,2,TRUE
-260,Sizzling Joint,Mexican,Cheap,Riverdale,12:00,13:00,1,TRUE
-261,Rustic Juice Bar,French,Medium,St. George,9:30,11:30,2,TRUE
-262,Sensational Hideaway,Chinese,Expensive,Bedford-Stuyvesant,21:30,22:30,0,TRUE
-263,Tropical Gelato Shop,Thai,Medium,Upper East Side,11:00,13:30,5,TRUE
-264,Sunny Distillery,Indian,Expensive,Eltingville,13:00,14:30,2,FALSE
-265,Palatable Doughnut Shop,French,Expensive,Eltingville,19:30,21:30,3,TRUE
-266,Rooftop Palace,Mexican,Expensive,Brooklyn Heights,8:30,10:00,0,TRUE
-267,Cherry Blossom Noodle House,Mexican,Cheap,Astoria,19:30,20:00,0,TRUE
-268,Divine Cafeteria,French,Cheap,Astoria,16:30,17:00,4,FALSE
-269,Highlands Brewpub,Mexican,Medium,Lower East Side,12:00,14:00,0,TRUE
-270,Aromatic Deli,Indian,Medium,Tompkinsville,16:00,18:00,4,FALSE
-271,Zesty BBQ Joint,Mexican,Medium,Belmont,13:30,14:30,5,TRUE
-272,Bamboo Grove Chophouse,Mediterranean,Expensive,Jackson Heights,14:00,15:00,2,TRUE
-273,Rustic Taphouse,Indian,Cheap,Riverdale,18:30,20:30,4,TRUE
-274,Tropical Whiskey Bar,French,Medium,Woodside,19:30,20:00,4,TRUE
-275,Aromatic House,Thai,Cheap,Astoria,8:00,9:30,4,TRUE
-276,Seaside Cookie Shop,American,Cheap,Throgs Neck,9:30,10:00,2,TRUE
-277,Bamboo Grove Pub,American,Cheap,Flatbush,14:30,15:00,5,TRUE
-278,Gourmet Cantina,Japanese,Medium,Williamsburg,20:00,22:00,4,FALSE
-279,Island Bistro,American,Cheap,Tottenville,12:30,13:00,3,TRUE
-280,Rustic Distillery,French,Expensive,New Dorp,9:00,11:30,2,FALSE
-281,Juicy Fish House,French,Expensive,Fordham,21:30,22:30,5,TRUE
-282,Hearty Cantina,French,Medium,Flatbush,9:00,11:30,3,FALSE
-283,Oceanfront Grill & Bar,Mediterranean,Medium,Williamsburg,17:30,19:30,2,TRUE
-284,Oceanic Dive Bar,Japanese,Expensive,Jamaica,20:30,21:30,2,FALSE
-285,Wholesome Brewery,Mediterranean,Cheap,Astoria,18:00,19:30,1,FALSE
-286,Vintage Taco Shack,Mexican,Cheap,Eltingville,9:00,10:00,3,TRUE
-287,Fresh House,American,Cheap,Riverdale,11:30,12:30,3,TRUE
-288,Sweet Pea Brasserie,Indian,Cheap,Greenwich Village,21:30,22:30,5,TRUE
-289,Sweet Pea Cocktail Lounge,Chinese,Medium,Williamsburg,15:00,16:00,4,TRUE
-290,Vintage Cantina,Italian,Expensive,Ridgewood,16:00,18:30,3,TRUE
-291,Riverside Donut Store,Mexican,Expensive,Stapleton,20:30,22:00,0,TRUE
-292,Fresh Kitchenette,Thai,Medium,Upper West Side,10:00,12:30,1,TRUE
-293,Wholesome Inn,Mediterranean,Expensive,Flushing,20:00,21:00,5,FALSE
-294,Sizzling Joint,Mexican,Cheap,Riverdale,10:30,12:30,1,TRUE
-295,Rooftop Eatery,Chinese,Expensive,St. George,11:00,13:00,3,FALSE
-296,Lakefront Lounge,Mediterranean,Cheap,Riverdale,10:30,11:00,4,TRUE
-297,Spicy Tea Room,Chinese,Expensive,Prospect Heights,8:00,10:00,3,TRUE
-298,Brick Oven Noodle House,Mexican,Medium,Flushing,18:30,20:00,2,FALSE
-299,Cherry Blossom Cafeteria,American,Medium,Jackson Heights,20:00,21:00,0,TRUE
-300,Heavenly Lounge,Indian,Medium,Hunts Point,18:30,19:00,1,TRUE
-301,Moonlight House,American,Expensive,Upper East Side,8:00,10:00,0,TRUE
-302,Authentic Cantina,American,Medium,Park Slope,15:00,17:00,4,FALSE
-303,Sizzle Oyster Bar,Italian,Medium,Astoria,11:00,13:00,0,FALSE
-304,Spice Route Ice Cream Parlor,Mediterranean,Cheap,Harlem,15:00,16:30,0,FALSE
-305,Spicy Oyster Bar,Thai,Medium,New Dorp,12:30,14:30,3,FALSE
-306,Rainforest Grill & Bar,Italian,Cheap,Upper East Side,14:00,16:30,1,FALSE
-307,Coconut Cove Eatery,Indian,Medium,Park Slope,17:30,19:30,2,TRUE
-308,Underground Chocolate Shop,Chinese,Cheap,Jackson Heights,10:30,11:00,2,FALSE
-309,Sandy Beach Cafeteria,Japanese,Medium,Williamsburg,21:00,22:30,2,FALSE
-310,Authentic Donut Store,Italian,Medium,Jamaica,21:00,22:00,3,TRUE
-311,Tender Cantina,French,Expensive,Harlem,14:30,16:30,2,TRUE
-312,Moonlight Sushi Bar,Chinese,Medium,Long Island City,13:00,14:30,0,FALSE
-313,Harbor View Tavern,Japanese,Cheap,Woodside,17:30,19:30,1,FALSE
-314,Oceanic Seafood Shack,American,Expensive,Astoria,10:00,11:30,0,TRUE
-315,Harbor View Inn,Japanese,Medium,Flatbush,11:30,13:30,2,TRUE
-316,Spicy Eatery,Chinese,Expensive,Williamsburg,14:30,15:30,4,FALSE
-317,Rustic Grill,Chinese,Cheap,Riverdale,13:30,15:30,1,TRUE
-318,Elegant Coffeehouse,Japanese,Expensive,Bedford-Stuyvesant,13:00,14:00,4,TRUE
-319,Savor Kitchenette,Mediterranean,Medium,Greenpoint,17:30,18:00,3,TRUE
-320,Family Smokehouse,Indian,Medium,Brooklyn Heights,21:00,22:00,4,TRUE
-321,Valley Smoothie Bar,French,Expensive,Greenwich Village,18:30,19:30,2,TRUE
-322,Serenity Eatery,Indian,Expensive,Stapleton,8:30,9:00,4,FALSE
-323,Delicious Noodle House,Japanese,Medium,Flushing,15:30,17:30,2,TRUE
-324,Tender Cafe,American,Cheap,Pelham Bay,10:30,11:00,0,TRUE
-325,Savory Diner,Mexican,Expensive,Bedford-Stuyvesant,8:00,10:30,2,FALSE
-326,Highlands Noodle House,American,Expensive,Upper East Side,16:00,17:00,2,FALSE
-327,Coconut Cove Cantina,American,Medium,Sunnyside,20:30,21:00,0,FALSE
-328,Hilltop Frozen Yogurt Shop,Mexican,Expensive,Park Slope,13:00,15:30,1,TRUE
-329,Savor Court,Indian,Medium,Harlem,8:30,9:00,0,FALSE
-330,Mountain View Winery,Chinese,Medium,Chelsea,14:30,16:30,0,TRUE
-331,Sunset Eatery,Indian,Expensive,Great Kills,18:30,19:00,0,TRUE
-332,Spice Route Palace,Indian,Expensive,St. George,18:30,20:00,5,FALSE
-333,Delicious Vineyard,Indian,Expensive,Throgs Neck,16:00,17:00,4,TRUE
-334,Harbor View Cantina,American,Medium,Bedford-Stuyvesant,21:00,22:00,5,FALSE
-335,Zesty Bagel Shop,French,Cheap,Flatbush,9:30,10:00,5,FALSE
-336,Savory Bakery,Mexican,Medium,Flatbush,19:00,21:00,4,TRUE
-337,Classic Gastropub,Indian,Medium,Greenwich Village,15:30,16:30,2,FALSE
-338,Exquisite Dive Bar,American,Cheap,Hunts Point,12:30,13:30,1,FALSE
-339,Zen Cocktail Lounge,Indian,Expensive,St. George,9:00,11:30,3,TRUE
-340,Under the Stars Bakery,Italian,Expensive,Fordham,20:00,21:30,2,TRUE
-341,Tender Tea Room,American,Medium,Soundview,8:00,10:00,5,TRUE
-342,Sizzling Bistro,Indian,Cheap,Forest Hills,21:30,22:00,0,TRUE
-343,Golden Gate Brewpub,Italian,Medium,Greenwich Village,15:30,17:30,2,FALSE
-344,Pineapple Chophouse,Thai,Expensive,Belmont,13:30,14:30,1,TRUE
-345,Yummy Bakery,Italian,Medium,Chelsea,11:30,12:30,5,TRUE
-346,Rainforest Joint,Thai,Expensive,Pelham Bay,21:30,22:00,2,TRUE
-347,Underground Noodle House,Indian,Expensive,Hunts Point,11:30,13:30,4,TRUE
-348,Vintage Bar & Grill,Italian,Cheap,Bushwick,14:30,15:00,0,FALSE
-349,Brick Oven Grill & Bar,Thai,Expensive,Upper East Side,21:30,22:00,1,FALSE
-350,Delectable Smoothie Shop,French,Expensive,Annadale,15:30,17:00,3,TRUE
-351,Summit Tea Room,American,Medium,Upper West Side,21:00,22:30,5,FALSE
-352,Wholesome BBQ Joint,Indian,Expensive,Westerleigh,17:00,19:30,5,FALSE
-353,Aromatic Lounge,French,Medium,Park Slope,19:30,20:00,5,TRUE
-354,Hilltop Bakery,Japanese,Cheap,Woodside,8:00,10:00,5,FALSE
-355,Rainforest Restaurant,French,Medium,Ridgewood,8:30,10:00,1,FALSE
-356,Zesty Candy Store,Mexican,Medium,Fordham,9:30,10:00,3,TRUE
-357,Summit Cantina,French,Cheap,Riverdale,9:00,10:00,0,TRUE
-358,Delicious Boulangerie,Chinese,Cheap,Mott Haven,15:30,16:30,2,TRUE
-359,Zesty Taproom,Indian,Expensive,St. George,15:00,16:30,2,TRUE
-360,Valley Oyster Bar,Thai,Medium,Belmont,17:00,19:00,4,FALSE
-361,Savory Bakery,Thai,Expensive,Lower East Side,12:30,14:30,3,FALSE
-362,Juicy Alehouse,Mexican,Expensive,Riverdale,8:00,10:30,1,TRUE
-363,Succulent Candy Store,French,Medium,Fordham,21:00,22:30,1,TRUE
-364,Palatable Burger Joint,Chinese,Cheap,Upper West Side,17:00,19:30,0,TRUE
-365,Charming Cake Shop,Chinese,Expensive,Soundview,18:00,19:30,2,TRUE
-366,Scrumptious Smokehouse,French,Cheap,Stapleton,17:30,18:30,3,FALSE
-367,Urban Dive Bar,Thai,Expensive,Eltingville,13:00,14:00,4,FALSE
-368,Foggy Crepery,Chinese,Expensive,Long Island City,13:00,15:00,0,FALSE
-369,Sunset Cafeteria,Mexican,Medium,Upper West Side,12:00,13:00,0,FALSE
-370,Delicious Bar & Grill,Japanese,Medium,Williamsburg,8:30,10:30,2,FALSE
-371,Savory Cantina,Mediterranean,Cheap,Westerleigh,20:00,21:00,2,FALSE
-372,Palatable Grill,American,Medium,Sunnyside,14:00,16:30,4,FALSE
-373,Highlands Cuisine,Indian,Expensive,Tottenville,15:00,16:00,4,FALSE
-374,Vintage Taphouse,Japanese,Medium,Flatbush,19:30,20:30,4,TRUE
-375,Juicy Grill,American,Cheap,Annadale,9:30,10:30,0,FALSE
-376,Sweet Pea Oyster House,American,Cheap,Woodside,15:30,17:00,1,FALSE
-377,Cozy Whiskey Bar,Thai,Expensive,Tribeca,10:00,12:30,3,TRUE
-378,Cherry Blossom Spot,Mediterranean,Cheap,Williamsburg,15:00,17:00,2,TRUE
-379,Divine Whiskey Bar,Italian,Cheap,Throgs Neck,17:30,19:30,5,TRUE
-380,Sandy Beach Cafeteria,American,Cheap,SoHo,15:30,16:00,3,TRUE
-381,Pineapple Pizzeria,Mexican,Expensive,Westerleigh,12:00,13:30,5,FALSE
-382,Delicious Place,Indian,Medium,Lower East Side,8:30,9:00,2,TRUE
-383,Sizzling Vineyard,Chinese,Expensive,Crown Heights,18:30,20:00,4,FALSE
-384,Hilltop Oyster Bar,Mexican,Expensive,Forest Hills,11:30,13:00,3,TRUE
-385,Blue Bayou Bakery,French,Expensive,Upper West Side,13:00,15:00,3,FALSE
-386,Summit Pub,Japanese,Medium,Tompkinsville,17:00,19:00,0,TRUE
-387,Charming House,Italian,Cheap,Flushing,15:00,16:00,1,FALSE
-388,Family Grill,Mediterranean,Medium,Upper East Side,10:00,11:30,0,TRUE
-389,Palatable Place,Chinese,Expensive,Long Island City,14:30,15:30,5,TRUE
-390,Rustic Cafeteria,Mediterranean,Medium,Mott Haven,16:30,17:00,4,FALSE
-391,Highlands Yogurt Shop,Chinese,Cheap,Williamsburg,13:00,14:30,3,TRUE
-392,Foggy Tapas Bar,Thai,Cheap,Stapleton,11:00,12:30,0,FALSE
-393,Rainforest Gastropub,American,Cheap,Brooklyn Heights,19:00,20:30,2,TRUE
-394,Tender Inn,Chinese,Medium,Lower East Side,19:00,20:30,1,TRUE
-395,Sensational Frozen Yogurt Shop,American,Medium,Forest Hills,21:00,22:30,3,TRUE
-396,Underground Chophouse,Japanese,Cheap,Hunts Point,14:30,15:00,2,TRUE
-397,Hilltop Cantina,Italian,Expensive,Riverdale,14:30,15:00,3,TRUE
-398,Retro Grill & Bar,Italian,Medium,Greenpoint,21:00,22:30,5,FALSE
-399,Retro Lounge,American,Medium,Morris Park,14:00,16:30,1,FALSE
-400,Pineapple Lounge,Thai,Cheap,Soundview,18:30,20:30,4,TRUE
-401,Crisp Distillery,Mexican,Expensive,Harlem,14:00,15:30,4,FALSE
-402,Rustic Tea Room,Indian,Expensive,Jamaica,11:30,12:30,3,TRUE
-403,Sunny Parlor,Thai,Medium,Astoria,11:30,13:00,3,TRUE
-404,Summit Seafood Shack,French,Medium,Jackson Heights,12:30,14:00,1,TRUE
-405,Tropical Creamery,Mexican,Medium,Mott Haven,16:30,17:30,1,FALSE
-406,Yummy Tavern,Mexican,Medium,Soundview,12:00,14:30,1,FALSE
-407,Blue Bayou Brewery,Thai,Expensive,Hunts Point,9:30,10:00,1,TRUE
-408,Ivy League Kitchen,Mediterranean,Cheap,Astoria,8:30,9:30,3,FALSE
-409,Classic Restaurant,French,Medium,Flatbush,18:30,20:00,1,FALSE
-410,Seaside Bistro,American,Cheap,Forest Hills,9:30,10:30,3,TRUE
-411,Rooftop Cantina,French,Expensive,SoHo,20:30,21:30,1,TRUE
-412,Sunny Steakhouse,French,Medium,Forest Hills,11:30,13:00,5,TRUE
-413,Tasty Noodle House,French,Cheap,New Dorp,9:00,11:00,1,FALSE
-414,Classic Brasserie,Italian,Expensive,Hunts Point,15:30,17:00,1,FALSE
-415,Delicious Gelato Shop,Mediterranean,Cheap,SoHo,8:30,9:00,0,FALSE
-416,Seaside Yogurt Shop,Indian,Medium,Fordham,8:30,9:00,1,FALSE
-417,Crisp Noodle House,American,Medium,Great Kills,15:30,16:30,2,TRUE
-418,Tender Spot,Japanese,Medium,Hunts Point,16:00,17:30,1,FALSE
-419,Vintage Burger Joint,Mexican,Cheap,Fordham,18:00,20:00,1,FALSE
-420,Fresh Parlor,Chinese,Cheap,Flatbush,12:00,14:30,3,TRUE
-421,Rainforest Taphouse,Italian,Medium,Upper West Side,15:00,17:30,0,FALSE
-422,Heavenly Fish House,French,Cheap,Lower East Side,8:00,9:30,1,TRUE
-423,Exquisite Winery,French,Cheap,SoHo,18:00,20:30,3,FALSE
-424,Hilltop Cantina,Japanese,Cheap,Crown Heights,18:30,19:30,5,TRUE
-425,Heavenly Burger Joint,Mediterranean,Cheap,Belmont,10:30,12:00,0,FALSE
-426,Sensational Gelato Shop,American,Cheap,Tottenville,18:30,19:00,0,TRUE
-427,Flavorful Taphouse,Thai,Cheap,Sunnyside,19:30,20:30,3,TRUE
-428,Harbor View Lounge,Italian,Expensive,Tompkinsville,12:00,13:30,2,TRUE
-429,Flavorful Eatery,Chinese,Medium,Harlem,21:30,22:30,0,FALSE
-430,Moonlight Sushi Bar,Mexican,Cheap,Harlem,11:30,13:30,5,FALSE
-431,Tasty Chophouse,Indian,Medium,Harlem,20:30,22:00,2,FALSE
-432,Fresh Juice Bar,French,Expensive,Woodside,15:30,16:00,4,FALSE
-433,Tender Creamery,Japanese,Expensive,Upper East Side,16:30,18:00,1,FALSE
-434,Harbor View Gelato Shop,French,Expensive,Mott Haven,14:30,16:30,0,TRUE
-435,Vintage Juice Bar,Italian,Medium,Sunnyside,19:00,20:00,3,TRUE
-436,Flavorful Brewpub,Italian,Expensive,Prospect Heights,14:30,16:30,4,TRUE
-437,Urban Joint,Japanese,Medium,New Dorp,21:00,22:30,5,FALSE
-438,Island Frozen Yogurt Shop,French,Medium,Tompkinsville,17:00,18:00,0,TRUE
-439,Sweet Pea Tea Room,Chinese,Cheap,Brooklyn Heights,16:30,17:30,5,TRUE
-440,Gourmet Smokehouse,Indian,Cheap,Forest Hills,21:00,22:30,5,FALSE
-441,Sapphire Ice Cream Parlor,Japanese,Expensive,Park Slope,12:00,13:00,4,TRUE
-442,Heavenly Grill,Mexican,Cheap,Ridgewood,10:00,11:30,4,TRUE
-443,Palatable Winery,American,Medium,Lower East Side,19:00,21:00,5,FALSE
-444,Rainforest Cereal Bar,American,Expensive,Stapleton,16:00,18:30,0,TRUE
-445,Hearty Tea Room,Thai,Medium,Greenwich Village,11:30,13:00,4,FALSE
-446,Sizzle Pub,Japanese,Cheap,Chelsea,21:00,22:30,0,TRUE
-447,Vintage Fish House,Mediterranean,Expensive,Bushwick,10:00,11:00,0,FALSE
-448,Sandy Beach Ramen House,Italian,Expensive,Soundview,10:30,12:00,3,FALSE
-449,Maplewood Tea Room,Indian,Expensive,Tribeca,13:00,14:00,5,FALSE
-450,Juicy Ice Cream Parlor,Chinese,Cheap,Bushwick,18:00,19:00,0,FALSE
-451,Cherry Blossom Pastry Shop,Italian,Cheap,Mott Haven,8:00,9:00,4,TRUE
-452,Gastronomic Smoothie Shop,American,Cheap,Jamaica,16:30,18:00,1,FALSE
-453,Highlands Eatery,French,Medium,Tribeca,15:30,17:30,0,FALSE
-454,Pineapple Cake Shop,Indian,Medium,Brooklyn Heights,14:00,16:00,1,TRUE
-455,Moonshine Steakhouse,American,Cheap,Annadale,13:30,14:00,0,TRUE
-456,Elegant Bistro,Mediterranean,Expensive,Sunnyside,10:30,12:30,1,TRUE
-457,Fusion Spot,Chinese,Medium,Tribeca,11:00,13:00,2,FALSE
-458,Exquisite Vineyard,Mediterranean,Expensive,Throgs Neck,9:30,10:30,2,TRUE
-459,Rustic Winery,Mediterranean,Expensive,Harlem,8:00,9:30,2,TRUE
-460,Juicy Taphouse,American,Cheap,Chelsea,18:00,20:00,0,TRUE
-461,Sandy Beach Brasserie,Mediterranean,Expensive,Chelsea,15:00,16:00,4,TRUE
-462,Palm Tree Doughnut Shop,Mexican,Expensive,Bedford-Stuyvesant,21:00,22:00,4,FALSE
-463,Aromatic Vietnamese Restaurant,Mexican,Medium,Chelsea,14:00,16:00,1,TRUE
-464,Island Parlor,American,Medium,Williamsburg,14:00,16:30,3,FALSE
-465,Countryside Restaurant,Japanese,Medium,Annadale,16:00,17:30,5,TRUE
-466,Tender Smoothie Bar,Mediterranean,Medium,Tribeca,10:30,12:30,1,TRUE
-467,Flavorful Brewpub,Chinese,Expensive,Great Kills,13:30,14:30,1,FALSE
-468,Flavorful Donut Store,French,Medium,Astoria,10:00,12:30,4,FALSE
-469,Moonlight Tearoom,Thai,Cheap,Belmont,14:00,16:30,1,TRUE
-470,Gastronomic Cafeteria,American,Expensive,Greenwich Village,10:00,12:00,3,TRUE
-471,Spice Route Coffeehouse,Mexican,Expensive,Pelham Bay,20:30,21:00,3,TRUE
-472,Yummy Noodle House,American,Expensive,Chelsea,10:00,12:00,0,TRUE
-473,Elegant Brewpub,Italian,Medium,Greenwich Village,11:00,12:00,1,FALSE
-474,Fusion Bagel Shop,Japanese,Cheap,Morris Park,13:30,15:00,4,TRUE
-475,Golden Harvest Deli,Italian,Expensive,Ridgewood,17:30,19:30,2,FALSE
-476,Sizzle Pub,Thai,Expensive,Ridgewood,21:00,22:00,2,TRUE
-477,Hearty Parlor,Indian,Cheap,Tompkinsville,8:30,9:00,2,FALSE
-478,Charming Sushi Bar,Indian,Cheap,SoHo,18:30,20:00,3,TRUE
-479,Underground Tavern,Italian,Medium,Jackson Heights,13:30,15:00,4,TRUE
-480,Scrumptious Restaurant,Chinese,Expensive,Crown Heights,9:30,11:30,3,TRUE
-481,Rustic Steakhouse,Italian,Expensive,Annadale,14:30,16:30,3,FALSE
-482,Cherry Blossom Cuisine,Italian,Medium,Sunnyside,18:30,19:00,0,FALSE
-483,Brick Oven Brasserie,Chinese,Medium,SoHo,15:00,17:00,0,TRUE
-484,Underground Pub,Mexican,Medium,Morris Park,20:30,21:00,0,FALSE
-485,Mountain View Fish House,Chinese,Medium,Upper West Side,16:00,18:00,3,TRUE
-486,Pineapple Bar & Grill,Japanese,Cheap,Jamaica,13:30,15:30,1,FALSE
-487,Royal Juice Bar,Mexican,Medium,St. George,12:30,14:00,0,FALSE
-488,Island Bagel Shop,Thai,Expensive,Tottenville,14:30,16:00,1,TRUE
-489,Maplewood Tea Room,Mediterranean,Medium,Eltingville,18:00,20:00,3,FALSE
-490,Cozy Steakhouse,Mexican,Expensive,SoHo,17:00,18:30,0,TRUE
-491,Palatable Place,Thai,Cheap,Woodside,16:30,17:00,4,FALSE
-492,Coastal Hideaway,Thai,Cheap,Flushing,15:00,16:00,5,FALSE
-493,Zen Inn,Italian,Medium,Prospect Heights,11:30,12:30,0,TRUE
-494,Oceanfront Wine Bar,Japanese,Expensive,Eltingville,10:00,12:00,1,TRUE
-495,Fresh Brewpub,Indian,Cheap,Crown Heights,21:00,22:00,3,FALSE
-496,Aromatic Cantina,Mediterranean,Cheap,Upper West Side,12:00,14:00,5,TRUE
-497,Family Cantina,Thai,Medium,Upper West Side,12:00,14:00,5,TRUE
-498,Vintage Deli,Chinese,Expensive,Flatbush,21:30,22:30,5,TRUE
-499,Divine Deli,Mexican,Cheap,Hunts Point,14:00,16:30,2,TRUE
-500,Foggy Smoothie Shop,Mexican,Medium,Belmont,21:00,22:00,3,FALSE
-501,Summit Oyster House,Italian,Cheap,Fordham,18:30,20:00,3,FALSE
-502,Fresh Chocolate Shop,French,Expensive,Fordham,16:30,18:30,5,FALSE
-503,Valley Parlor,Mediterranean,Medium,Midtown Manhattan,14:00,16:30,0,FALSE
-504,Fusion Brasserie,Indian,Medium,Soundview,9:30,11:30,4,FALSE
-505,Tasty Fish House,Japanese,Medium,SoHo,16:00,18:00,0,TRUE
-506,Sizzle Parlor,Japanese,Medium,Williamsburg,20:30,21:30,1,FALSE
-507,Delicious Ice Cream Parlor,Japanese,Expensive,Greenwich Village,12:30,14:00,4,TRUE
-508,Moonlight Noodle House,Mediterranean,Cheap,Sunnyside,14:30,15:00,5,FALSE
-509,Gourmet Deli,Thai,Expensive,Lower East Side,16:00,18:30,1,TRUE
-510,Rustic Grill,Mexican,Medium,Greenwich Village,19:00,21:00,5,TRUE
-511,Bamboo Grove Eatery,Indian,Expensive,Riverdale,9:30,10:30,4,FALSE
-512,Wholesome Cafeteria,Japanese,Cheap,Flushing,17:00,18:30,1,FALSE
-513,Moonlight Juice Joint,Italian,Medium,Great Kills,10:30,11:30,1,FALSE
-514,Sweet Pea Fish House,Mediterranean,Cheap,Williamsburg,19:00,20:30,0,TRUE
-515,Underground Frozen Yogurt Shop,American,Cheap,Riverdale,9:30,10:30,3,TRUE
-516,Savory Hideaway,Thai,Cheap,Chelsea,21:00,22:00,3,TRUE
-517,Wholesome Noodle House,Mexican,Medium,Jackson Heights,21:00,22:00,3,TRUE
-518,Flavorful Cantina,French,Expensive,Harlem,14:30,15:00,1,TRUE
-519,Urban Cantina,Thai,Cheap,Tottenville,19:30,20:00,1,FALSE
-520,Authentic Bar & Grill,Chinese,Medium,Midtown Manhattan,21:00,22:00,0,FALSE
-521,Delectable Taproom,Mediterranean,Medium,Forest Hills,18:00,19:30,1,TRUE
-522,Tasty Sushi Bar,Mediterranean,Medium,Great Kills,11:30,13:30,4,TRUE
-523,Fresh Cuisine,Japanese,Cheap,St. George,21:00,22:00,3,FALSE
-524,Sunny Wine Bar,Japanese,Expensive,Greenwich Village,15:00,17:30,2,FALSE
-525,Family Juice Bar,Indian,Medium,Jackson Heights,20:00,22:30,4,FALSE
-526,Classic Fish House,American,Expensive,Williamsburg,9:30,11:30,5,FALSE
-527,Tender Coffeehouse,American,Cheap,Tribeca,21:00,22:00,0,FALSE
-528,Rooftop Hideaway,Mexican,Cheap,Eltingville,12:30,14:00,4,TRUE
-529,Satisfying Brewery,Chinese,Expensive,Jackson Heights,21:30,22:30,4,TRUE
-530,Moonlight Noodle House,Indian,Medium,Stapleton,15:30,17:30,4,TRUE
-531,Summit Restaurant,Japanese,Medium,Sunnyside,19:30,21:30,0,TRUE
-532,Aromatic Gastropub,Italian,Cheap,New Dorp,8:00,9:00,4,FALSE
-533,Gourmet Cantina,Japanese,Expensive,Hunts Point,18:30,20:30,1,FALSE
-534,Vintage Burger Joint,Mexican,Cheap,Lower East Side,18:30,20:00,3,TRUE
-535,Sapphire Cantina,Thai,Cheap,Long Island City,21:00,22:30,2,FALSE
-536,Savory Pizzeria,Mexican,Expensive,Long Island City,15:00,16:00,0,TRUE
-537,Blue Bayou Donut Store,Indian,Cheap,Flatbush,20:00,21:00,4,TRUE
-538,Serenity Smoothie Bar,Chinese,Medium,Jamaica,21:30,22:00,1,FALSE
-539,Divine Brewpub,Japanese,Medium,St. George,20:30,21:00,1,FALSE
-540,Coconut Cove Donut Store,Japanese,Cheap,Fordham,21:00,22:30,4,TRUE
-541,Wholesome Yogurt Shop,Mediterranean,Cheap,Sunnyside,10:00,11:00,4,TRUE
-542,Family Cafe,Mediterranean,Cheap,SoHo,11:00,12:30,3,FALSE
-543,Valley Smokehouse,Mediterranean,Medium,Stapleton,13:30,15:00,3,TRUE
-544,Fresh Smoothie Shop,Mediterranean,Medium,Flushing,8:00,10:30,4,TRUE
-545,Wholesome Tavern,French,Medium,Eltingville,18:00,19:00,2,FALSE
-546,Homestyle Seafood Shack,Thai,Cheap,Belmont,19:30,21:00,0,TRUE
-547,Under the Stars Parlor,Japanese,Expensive,Bedford-Stuyvesant,10:30,12:00,5,FALSE
-548,Harbor View Burger Joint,French,Medium,Riverdale,9:30,11:30,3,TRUE
-549,Sapphire Palace,Indian,Medium,Ridgewood,9:00,10:00,5,TRUE
-550,Coastal Vineyard,Indian,Expensive,Williamsburg,10:30,11:30,3,FALSE
-551,Exquisite Ramen House,Chinese,Medium,Woodside,16:00,17:30,1,FALSE
-552,Island Brewpub,American,Medium,Hunts Point,16:00,18:00,2,TRUE
-553,Orchid Dessert Bar,French,Expensive,Belmont,16:00,18:00,2,FALSE
-554,Sizzling Juice Bar,French,Medium,Jackson Heights,18:30,20:30,1,FALSE
-555,Sunny Kitchenette,American,Expensive,Tompkinsville,9:00,11:30,0,FALSE
-556,Oceanic Cuisine,American,Expensive,Eltingville,17:00,19:30,2,FALSE
-557,Highlands Parlor,Chinese,Cheap,Ridgewood,10:00,12:00,5,TRUE
-558,Lakefront Fish House,Mexican,Cheap,Great Kills,15:00,16:00,0,TRUE
-559,Rainforest Yogurt Shop,Italian,Expensive,Jamaica,9:00,11:00,5,FALSE
-560,Aromatic Spot,Japanese,Cheap,Tribeca,16:30,18:30,4,FALSE
-561,Zesty Grill & Bar,Indian,Medium,Flushing,21:00,22:30,4,TRUE
-562,Savory Crepery,Thai,Medium,Ridgewood,14:00,15:00,5,FALSE
-563,Ivy League Steakhouse,Japanese,Medium,Morris Park,21:00,22:00,3,TRUE
-564,Rooftop Taproom,Mexican,Medium,Tottenville,12:30,13:30,4,FALSE
-565,Underground Bar & Grill,American,Expensive,New Dorp,16:30,18:00,5,TRUE
-566,Cozy Distillery,Thai,Medium,Park Slope,12:00,13:30,2,TRUE
-567,Fresh Bagel Shop,Chinese,Medium,Eltingville,19:30,21:00,1,TRUE
-568,Aromatic Place,American,Expensive,Throgs Neck,12:00,13:00,2,TRUE
-569,Coastal Chocolate Shop,American,Cheap,Annadale,19:00,20:30,5,TRUE
-570,Juicy Crepery,Japanese,Expensive,Eltingville,17:00,19:00,1,TRUE
-571,Satisfying Smoothie Shop,Japanese,Cheap,Annadale,17:00,19:00,2,TRUE
-572,Zen Cake Shop,American,Expensive,Upper East Side,14:30,16:00,3,FALSE
-573,Coastal House,Indian,Expensive,Park Slope,11:00,12:30,2,TRUE
-574,Harbor View Sushi Bar,Thai,Medium,Astoria,8:30,10:30,0,TRUE
-575,Savor Eatery,Japanese,Cheap,Harlem,18:30,19:30,0,FALSE
-576,Sizzling Cookie Shop,Mexican,Cheap,Riverdale,18:30,19:30,1,TRUE
-577,Rustic Burger Joint,Thai,Medium,Flushing,17:00,18:30,5,FALSE
-578,Hilltop Lodge,Mexican,Expensive,Midtown Manhattan,16:00,17:30,2,FALSE
-579,Irresistible Alehouse,French,Cheap,Prospect Heights,12:00,13:30,2,FALSE
-580,Mountain View House,Italian,Expensive,Annadale,17:00,19:30,1,TRUE
-581,Homestyle Bistro,Mediterranean,Medium,Chelsea,17:30,18:30,0,TRUE
-582,Moonlight Fish House,Japanese,Cheap,Forest Hills,14:30,16:30,1,TRUE
-583,Golden Gate Taphouse,Italian,Cheap,Crown Heights,10:30,12:30,3,TRUE
-584,Foggy Pub,Mediterranean,Cheap,Midtown Manhattan,20:00,21:00,2,FALSE
-585,Golden Harvest Fish House,Italian,Medium,Prospect Heights,11:30,12:00,3,FALSE
-586,Spicy Fish House,Mediterranean,Medium,Sunnyside,17:00,19:00,0,FALSE
-587,Mouthwatering Smoothie Shop,American,Expensive,Jamaica,21:30,22:30,1,TRUE
-588,Sunset Dive Bar,Mediterranean,Medium,Williamsburg,10:00,12:00,1,TRUE
-589,Palatable BBQ Joint,Mediterranean,Medium,Long Island City,11:30,12:30,1,FALSE
-590,Aromatic Brasserie,Chinese,Expensive,Pelham Bay,14:00,15:00,1,TRUE
-591,Rustic Cafeteria,Japanese,Cheap,Pelham Bay,8:00,9:30,4,FALSE
-592,Yummy Parlor,French,Cheap,Bushwick,16:00,17:00,5,FALSE
-593,Succulent Speakeasy,Mediterranean,Cheap,Long Island City,16:30,17:00,5,FALSE
-594,Family Fish House,Italian,Expensive,Williamsburg,16:00,18:30,0,TRUE
-595,Sizzling Cantina,Chinese,Cheap,Midtown Manhattan,10:00,12:00,0,FALSE
-596,Cherry Blossom Pastry Shop,Italian,Expensive,Forest Hills,10:00,11:30,5,TRUE
-597,Quaint Tapas Bar,Mediterranean,Cheap,Soundview,11:30,13:30,1,FALSE
-598,Quaint Cafeteria,Mexican,Medium,Throgs Neck,12:30,13:30,5,FALSE
-599,Savor Ramen House,Mediterranean,Expensive,Flatbush,10:30,11:30,5,TRUE
-600,Serenity Distillery,Indian,Expensive,Throgs Neck,12:00,13:30,0,TRUE
-601,Ivy League Steakhouse,Indian,Medium,Stapleton,12:30,14:00,0,FALSE
-602,Savory Lounge,American,Medium,Tompkinsville,17:00,19:00,3,TRUE
-603,Blue Bayou Ice Cream Parlor,Italian,Medium,Tottenville,8:30,10:00,2,TRUE
-604,Family Parlor,Indian,Expensive,Pelham Bay,10:00,11:00,5,TRUE
-605,Underground Kitchenette,Mediterranean,Expensive,Chelsea,12:30,13:30,3,TRUE
-606,Mountain View Bakery,Italian,Medium,Morris Park,13:00,14:00,4,TRUE
-607,Countryside Kitchenette,Italian,Cheap,St. George,9:00,11:00,1,FALSE
-608,Sapphire Burger Joint,Indian,Cheap,Upper East Side,15:00,17:30,1,TRUE
-609,Zesty Juice Joint,Japanese,Medium,Greenwich Village,10:30,11:30,1,FALSE
-610,Delectable Cuisine,American,Medium,Eltingville,12:00,13:30,4,FALSE
-611,Sandy Beach Pub,Italian,Cheap,Forest Hills,19:30,21:30,2,FALSE
-612,Succulent House,Italian,Medium,Riverdale,14:30,15:30,0,TRUE
-613,Family Vietnamese Restaurant,Mediterranean,Cheap,Belmont,8:30,10:30,1,TRUE
-614,Savory Brewery,French,Cheap,Greenwich Village,11:00,13:30,2,TRUE
-615,Tasty Steakhouse,Italian,Medium,Upper East Side,15:30,17:30,5,FALSE
-616,Gourmet Burger Joint,Mexican,Expensive,SoHo,12:30,14:30,0,TRUE
-617,Delicious Cafeteria,Mexican,Medium,Eltingville,21:30,22:00,2,TRUE
-618,Countryside Steakhouse,Mexican,Expensive,Harlem,16:00,17:00,2,FALSE
-619,Valley Speakeasy,American,Medium,Tribeca,17:30,19:30,3,TRUE
-620,Harbor View Ramen House,Mediterranean,Medium,Bushwick,16:30,17:30,3,FALSE
-621,Wholesome Kitchen,Mexican,Medium,Jamaica,11:00,13:00,3,TRUE
-622,Spice Route Kitchen,Mexican,Expensive,Tribeca,12:30,14:30,3,FALSE
-623,Divine Brasserie,Thai,Expensive,Eltingville,10:30,12:30,0,FALSE
-624,Flavorful Candy Store,Japanese,Cheap,Ridgewood,8:00,10:00,3,TRUE
-625,Highlands Brewpub,American,Expensive,Forest Hills,21:00,22:00,5,TRUE
-626,Bamboo Grove Brewpub,American,Medium,Pelham Bay,8:00,10:30,5,TRUE
-627,Vintage Tavern,Japanese,Cheap,Crown Heights,13:00,14:00,1,FALSE
-628,Flavorful Cocktail Lounge,Italian,Medium,Tottenville,9:30,11:30,3,FALSE
-629,Underground Fish House,Thai,Cheap,Bedford-Stuyvesant,17:00,19:30,3,FALSE
-630,Bamboo Grove Oyster Bar,Italian,Expensive,Westerleigh,17:30,19:30,5,FALSE
-631,Tasty Chophouse,Mexican,Cheap,Throgs Neck,11:30,12:00,4,TRUE
-632,Zesty Noodle House,Chinese,Medium,Long Island City,21:00,22:30,2,TRUE
-633,Blue Bayou Bakery,French,Cheap,Upper West Side,10:00,11:00,0,TRUE
-634,Gastronomic Grill & Bar,Thai,Cheap,Flushing,10:00,11:00,1,FALSE
-635,Riverside Taphouse,Thai,Cheap,Woodside,18:00,20:30,2,FALSE
-636,Gastronomic Cocktail Lounge,Mediterranean,Expensive,Upper West Side,9:00,11:30,4,FALSE
-637,Zesty Gastropub,Chinese,Cheap,Eltingville,17:00,19:30,1,TRUE
-638,Divine Oyster Bar,Thai,Medium,Midtown Manhattan,13:00,15:30,3,FALSE
-639,Elegant Fish House,French,Medium,SoHo,17:00,18:30,2,FALSE
-640,Classic Steakhouse,Thai,Expensive,Jamaica,19:30,21:30,1,FALSE
-641,Tender Parlor,Japanese,Cheap,Greenpoint,21:00,22:00,2,FALSE
-642,Flavorful BBQ Joint,Japanese,Cheap,Stapleton,14:00,15:30,0,FALSE
-643,Savory House,Indian,Medium,Prospect Heights,15:30,16:30,3,FALSE
-644,Moonlight House,Mediterranean,Expensive,Morris Park,9:30,10:00,5,FALSE
-645,Pineapple Cuisine,Italian,Expensive,Morris Park,21:00,22:00,2,TRUE
-646,Mountain View Lounge,Chinese,Medium,Forest Hills,18:30,20:30,0,FALSE
-647,Rainforest Eatery,Indian,Cheap,St. George,20:30,22:00,4,TRUE
-648,Wholesome Speakeasy,French,Cheap,Crown Heights,20:30,21:00,5,TRUE
-649,Sunny Whiskey Bar,Indian,Expensive,Tompkinsville,12:00,14:00,0,TRUE
-650,Spice Route Bakery,Japanese,Expensive,Bedford-Stuyvesant,14:30,15:00,0,FALSE
-651,Moonshine Pizzeria,Mediterranean,Cheap,Hunts Point,11:00,12:30,1,TRUE
-652,Countryside Seafood Shack,French,Cheap,Stapleton,12:30,13:30,4,FALSE
-653,Delectable Burger Joint,Chinese,Expensive,Eltingville,12:00,13:00,0,TRUE
-654,Sizzling Cantina,Thai,Cheap,Tribeca,12:00,13:30,3,TRUE
-655,Moonlight Crepery,Chinese,Expensive,Sunnyside,10:00,11:30,5,TRUE
-656,Oceanic Cantina,Italian,Cheap,Lower East Side,13:30,15:30,4,TRUE
-657,Juicy Tavern,Chinese,Medium,Williamsburg,12:30,14:30,2,TRUE
-658,Brick Oven Cantina,Italian,Medium,SoHo,13:30,14:00,5,FALSE
-659,Family Chophouse,Japanese,Cheap,Morris Park,17:00,18:00,4,FALSE
-660,Fresh Tea Room,Chinese,Cheap,Greenwich Village,21:00,22:00,1,TRUE
-661,Highlands Doughnut Shop,Mexican,Cheap,Sunnyside,18:00,20:00,4,TRUE
-662,Spicy Cookie Shop,Japanese,Medium,Flatbush,8:30,10:00,4,FALSE
-663,Savory Oyster Bar,Italian,Expensive,SoHo,21:00,22:00,3,FALSE
-664,Brick Oven Parlor,Indian,Cheap,Jackson Heights,18:30,19:30,0,FALSE
-665,Delectable Lodge,Chinese,Medium,Bedford-Stuyvesant,15:30,16:30,4,TRUE
-666,Vintage Cuisine,Chinese,Medium,New Dorp,10:30,11:30,4,FALSE
-667,Delicious Vineyard,Mexican,Medium,Jamaica,21:00,22:30,0,FALSE
-668,Retro Juice Bar,Chinese,Medium,Pelham Bay,11:00,13:30,3,TRUE
-669,Charming Cuisine,Mexican,Medium,Harlem,16:30,17:30,2,TRUE
-670,Delectable Lounge,Mediterranean,Cheap,Jamaica,20:00,21:00,1,TRUE
-671,Tender Burger Joint,Italian,Medium,New Dorp,18:00,20:30,3,FALSE
-672,Coconut Cove Brasserie,Japanese,Expensive,Riverdale,9:00,10:00,3,FALSE
-673,Countryside Smoothie Shop,Indian,Medium,Brooklyn Heights,12:00,13:00,3,FALSE
-674,Ivy League Noodle House,American,Cheap,Mott Haven,10:30,12:30,4,FALSE
-675,Exquisite Smoothie Bar,Thai,Medium,Throgs Neck,14:00,16:30,5,FALSE
-676,Classic Smoothie Shop,Japanese,Cheap,Williamsburg,19:00,21:00,2,FALSE
-677,Sunny Dessert Bar,Japanese,Cheap,Westerleigh,8:00,10:00,1,TRUE
-678,Golden Harvest Hideaway,Indian,Expensive,SoHo,10:30,11:30,5,TRUE
-679,Under the Stars Smoothie Bar,American,Expensive,Tottenville,15:00,16:00,5,TRUE
-680,Quaint Brewery,American,Medium,Westerleigh,11:30,13:30,3,FALSE
-681,Gourmet Donut Store,Mediterranean,Expensive,Brooklyn Heights,11:30,13:30,5,FALSE
-682,Sensational Pizzeria,Italian,Medium,Bedford-Stuyvesant,21:00,22:30,2,FALSE
-683,Hilltop Bakery Cafe,Indian,Cheap,Woodside,14:00,16:00,5,TRUE
-684,Gourmet Tapas Bar,Italian,Medium,Soundview,17:00,18:30,5,TRUE
-685,Sapphire Joint,Thai,Expensive,Greenwich Village,18:30,20:00,2,TRUE
-686,Savory Pub,French,Expensive,Chelsea,11:30,13:30,5,FALSE
-687,Rooftop Candy Store,Japanese,Cheap,Annadale,12:00,14:00,5,TRUE
-688,Seaside Frozen Yogurt Shop,Mexican,Expensive,Williamsburg,20:30,22:00,4,FALSE
-689,Pineapple Creamery,Mexican,Expensive,Flatbush,20:30,21:30,5,FALSE
-690,Oceanfront Cake Shop,Mexican,Expensive,Jackson Heights,15:00,16:30,0,TRUE
-691,Classic Joint,American,Expensive,Bedford-Stuyvesant,18:30,19:30,0,TRUE
-692,Irresistible Alehouse,Chinese,Medium,Fordham,18:30,19:00,5,TRUE
-693,Satisfying Kitchenette,Thai,Cheap,Fordham,17:30,19:00,1,TRUE
-694,Coconut Cove Vietnamese Restaurant,American,Expensive,Greenwich Village,14:00,15:30,2,TRUE
-695,Serenity Bakery,American,Medium,Brooklyn Heights,11:30,13:30,0,FALSE
-696,Sensational Seafood Shack,Thai,Cheap,Eltingville,10:30,12:30,5,TRUE
-697,Coastal Cake Shop,French,Cheap,Jackson Heights,16:00,17:00,0,TRUE
-698,Cherry Blossom Pub,Mexican,Expensive,Jamaica,19:00,21:30,3,TRUE
-699,Island Taco Shack,Mediterranean,Expensive,Mott Haven,19:00,20:00,4,FALSE
-700,Bamboo Grove House,American,Cheap,Greenwich Village,10:30,11:30,0,FALSE
-701,Rainforest Inn,Italian,Expensive,Sunnyside,18:30,19:00,3,TRUE
-702,Serenity Joint,Italian,Medium,Eltingville,14:30,16:00,5,FALSE
-703,Cherry Blossom Bakery,French,Expensive,Belmont,15:00,17:30,3,TRUE
-704,Under the Stars Ice Cream Parlor,Chinese,Cheap,Jackson Heights,13:30,14:30,1,TRUE
-705,Aromatic Candy Store,Indian,Medium,Hunts Point,21:00,22:30,1,FALSE
-706,Fresh House,Thai,Medium,Crown Heights,12:00,14:30,4,TRUE
-707,Family Creamery,Mexican,Medium,Sunnyside,13:00,14:00,2,TRUE
-708,Hilltop Sushi Bar,Indian,Expensive,Ridgewood,14:30,16:00,1,FALSE
-709,Authentic Court,Mexican,Expensive,Riverdale,11:00,13:30,2,TRUE
-710,Sunny Eatery,French,Expensive,Riverdale,21:30,22:00,5,TRUE
-711,Island Distillery,Mediterranean,Cheap,Mott Haven,20:30,21:00,1,TRUE
-712,Fresh Cafe,Indian,Expensive,Tribeca,10:30,12:00,2,TRUE
-713,Countryside Cantina,American,Medium,Harlem,9:30,11:00,1,FALSE
-714,Exquisite Bistro,Mediterranean,Expensive,Greenwich Village,12:00,13:30,4,TRUE
-715,Quaint Yogurt Shop,Mexican,Expensive,Jackson Heights,19:00,21:30,2,FALSE
-716,Lakefront Lounge,Japanese,Expensive,Park Slope,15:30,17:00,1,FALSE
-717,Moonlight Bar & Grill,Mexican,Cheap,Astoria,20:30,22:30,5,FALSE
-718,Irresistible Donut Store,American,Medium,Tottenville,8:30,9:30,2,TRUE
-719,Coastal Pastry Shop,American,Expensive,Hunts Point,10:00,12:30,4,TRUE
-720,Fresh Kitchen,Thai,Cheap,Midtown Manhattan,13:30,14:30,3,TRUE
-721,Underground Bakery Cafe,Italian,Medium,Westerleigh,16:00,17:00,5,TRUE
-722,Highlands Speakeasy,French,Medium,Chelsea,17:00,18:00,3,TRUE
-723,Underground Cantina,Mediterranean,Cheap,Prospect Heights,21:00,22:00,1,TRUE
-724,Yummy Taco Shack,Indian,Expensive,Upper West Side,21:30,22:30,3,FALSE
-725,Vintage Bakery,French,Medium,St. George,15:30,16:30,4,TRUE
-726,Underground Doughnut Shop,American,Expensive,Great Kills,17:00,19:30,5,FALSE
-727,Elegant Coffeehouse,Mediterranean,Cheap,Crown Heights,17:30,19:30,5,TRUE
-728,Gastronomic BBQ Joint,Mediterranean,Expensive,St. George,15:00,16:30,3,FALSE
-729,Family Seafood Shack,French,Medium,Crown Heights,16:30,17:30,3,FALSE
-730,Blue Bayou Oyster Bar,Indian,Expensive,Forest Hills,18:00,20:30,3,FALSE
-731,Authentic Tapas Bar,Chinese,Medium,Pelham Bay,20:00,21:30,5,FALSE
-732,Retro Taphouse,American,Expensive,Flatbush,12:00,13:30,0,TRUE
-733,Royal Bagel Shop,Mexican,Expensive,Stapleton,13:00,15:30,3,TRUE
-734,Oceanfront Distillery,French,Medium,Great Kills,16:30,17:00,0,FALSE
-735,Pineapple Joint,Thai,Medium,Bushwick,18:00,20:30,3,TRUE
-736,Oceanic Lounge,Japanese,Cheap,Mott Haven,12:00,13:30,0,TRUE
-737,Gourmet Speakeasy,Mediterranean,Expensive,Flushing,21:30,22:00,5,FALSE
-738,Riverside BBQ Joint,Italian,Medium,Greenpoint,12:00,14:00,0,FALSE
-739,Moonshine Joint,Japanese,Expensive,Upper East Side,17:00,18:30,3,FALSE
-740,Wholesome Smoothie Bar,Italian,Cheap,Westerleigh,15:00,16:30,5,TRUE
-741,Under the Stars Pastry Shop,Mexican,Medium,SoHo,10:00,11:00,1,TRUE
-742,Sunset Eatery,Mexican,Medium,Harlem,10:00,12:30,2,TRUE
-743,Delectable House,Indian,Medium,Annadale,10:30,12:30,0,TRUE
-744,Summit Cuisine,Indian,Cheap,Throgs Neck,19:30,21:00,4,TRUE
-745,Urban Taco Shack,Mediterranean,Medium,Sunnyside,17:30,19:30,4,FALSE
-746,Savory Chocolate Shop,Italian,Expensive,Throgs Neck,9:00,10:30,4,FALSE
-747,Sandy Beach Tapas Bar,Italian,Medium,Bedford-Stuyvesant,21:30,22:30,0,TRUE
-748,Sunset House,Japanese,Medium,Tottenville,10:30,11:00,3,FALSE
-749,Vintage Court,French,Cheap,Upper East Side,15:30,17:00,1,TRUE
-750,Urban Tea Room,Mediterranean,Medium,Long Island City,11:30,12:30,4,TRUE
-751,Zen Cookie Shop,American,Cheap,Long Island City,15:30,17:00,4,TRUE
-752,Divine Kitchenette,Indian,Cheap,Tompkinsville,15:30,16:30,5,TRUE
-753,Sapphire Doughnut Shop,French,Cheap,Tribeca,14:30,15:00,2,TRUE
-754,Juicy Pub,Thai,Cheap,Eltingville,16:30,18:30,1,TRUE
-755,Delicious Candy Store,Japanese,Cheap,Forest Hills,18:30,20:00,0,FALSE
-756,Ivy League Chocolate Shop,Mediterranean,Expensive,Annadale,9:30,11:30,4,FALSE
-757,Brick Oven Court,Thai,Cheap,SoHo,8:00,9:30,5,FALSE
-758,Exquisite Joint,Chinese,Cheap,Sunnyside,14:30,16:00,3,FALSE
-759,Authentic Bakery Cafe,Chinese,Medium,Tompkinsville,14:00,16:00,4,FALSE
-760,Savory Donut Store,Mexican,Expensive,Upper East Side,10:00,12:00,1,FALSE
-761,Tropical Oyster Bar,French,Medium,St. George,21:30,22:30,1,TRUE
-762,Tropical Dessert Bar,Mediterranean,Cheap,Mott Haven,12:30,14:30,2,TRUE
-763,Harbor View Juice Joint,American,Cheap,Flatbush,15:00,17:00,2,FALSE
-764,Quaint Brewery,Japanese,Medium,Ridgewood,16:30,18:30,5,FALSE
-765,Sunset Deli,Thai,Cheap,Ridgewood,12:30,13:00,3,FALSE
-766,Tasty Cantina,French,Medium,Crown Heights,20:00,21:00,4,TRUE
-767,Flavorful Ramen House,Mediterranean,Medium,Upper West Side,12:30,13:00,0,TRUE
-768,Rustic Creamery,French,Medium,Woodside,21:00,22:30,0,TRUE
-769,Succulent Vietnamese Restaurant,Italian,Expensive,Throgs Neck,14:30,16:30,4,TRUE
-770,Fresh Candy Store,Indian,Expensive,Great Kills,17:00,19:30,3,FALSE
-771,Mouthwatering Ice Cream Parlor,French,Medium,Soundview,9:00,10:30,2,FALSE
-772,Authentic Donut Store,Mexican,Medium,Jackson Heights,18:30,19:00,3,TRUE
-773,Succulent Whiskey Bar,Thai,Medium,Flatbush,9:30,11:30,2,FALSE
-774,Tender Bar & Grill,Italian,Expensive,Crown Heights,21:30,22:00,1,FALSE
-775,Sweet Pea Bagel Shop,Chinese,Cheap,Flatbush,10:00,12:00,2,TRUE
-776,Scrumptious Tiki Bar,Indian,Medium,Brooklyn Heights,18:30,20:00,2,TRUE
-777,Zen Court,Italian,Cheap,Hunts Point,17:30,18:00,0,TRUE
-778,Riverside Lounge,Thai,Cheap,Jamaica,14:00,15:30,2,TRUE
-779,Wholesome Oyster Bar,Indian,Expensive,Harlem,13:30,14:30,1,FALSE
-780,Tropical Cantina,Italian,Expensive,Riverdale,16:00,17:30,1,TRUE
-781,Ivy League Sushi Bar,Mediterranean,Medium,Westerleigh,10:30,11:30,3,TRUE
-782,Moonshine Speakeasy,Japanese,Medium,Woodside,11:00,13:30,3,TRUE
-783,Mountain View Dessert Bar,Chinese,Cheap,Upper East Side,10:30,12:30,4,TRUE
-784,Brick Oven Cantina,Mexican,Expensive,Hunts Point,17:30,18:00,0,FALSE
-785,Orchid Vineyard,Thai,Cheap,Long Island City,18:30,20:30,0,TRUE
-786,Vintage Inn,American,Expensive,Williamsburg,10:00,12:30,3,FALSE
-787,Royal Cantina,Chinese,Cheap,Crown Heights,14:30,16:30,3,FALSE
-788,Savory Bar & Grill,Mediterranean,Cheap,Crown Heights,20:00,21:30,4,TRUE
-789,Spicy House,American,Cheap,Greenwich Village,14:00,15:00,0,FALSE
-790,Sensational Grill & Bar,American,Expensive,Greenpoint,10:00,11:00,4,TRUE
-791,Underground BBQ Joint,French,Cheap,Harlem,19:30,21:00,4,TRUE
-792,Sapphire Smoothie Shop,American,Expensive,Throgs Neck,21:30,22:30,5,TRUE
-793,Orchid Oyster Bar,Mexican,Expensive,Soundview,11:00,13:30,2,TRUE
-794,Savory Bar & Grill,Indian,Expensive,Annadale,16:30,17:00,2,FALSE
-795,Mouthwatering Cantina,Italian,Cheap,Woodside,17:00,19:30,5,FALSE
-796,Sunny Court,Japanese,Medium,Westerleigh,12:00,14:30,1,TRUE
-797,Fresh Smokehouse,Italian,Medium,SoHo,8:00,9:00,0,TRUE
-798,Mountain View Smokehouse,American,Cheap,Riverdale,19:30,20:00,3,FALSE
-799,Rustic House,Mexican,Cheap,Throgs Neck,21:00,22:30,2,TRUE
-800,Yummy Smokehouse,Japanese,Expensive,Throgs Neck,13:00,15:30,4,TRUE
-801,Tropical Vineyard,American,Medium,Tompkinsville,12:00,13:30,4,FALSE
-802,Harbor View Noodle House,Chinese,Cheap,Forest Hills,12:30,13:30,4,FALSE
-803,Sizzling Noodle House,Thai,Expensive,St. George,8:30,9:30,2,FALSE
-804,Savor Lounge,Mediterranean,Medium,Hunts Point,16:00,18:30,5,TRUE
-805,Urban Juice Joint,French,Cheap,SoHo,19:00,20:00,0,FALSE
-806,Summit Donut Store,American,Expensive,Annadale,10:00,12:00,5,FALSE
-807,Rainforest Wine Bar,Chinese,Cheap,Upper West Side,15:00,16:30,4,FALSE
-808,Riverside Whiskey Bar,Indian,Expensive,SoHo,15:00,17:00,2,FALSE
-809,Yummy Tea Room,Mexican,Expensive,Soundview,15:00,17:00,1,FALSE
-810,Aromatic Alehouse,Chinese,Cheap,SoHo,8:00,10:00,2,TRUE
-811,Flavorful Taphouse,Mexican,Expensive,Ridgewood,13:00,15:00,0,FALSE
-812,Under the Stars Cereal Bar,American,Cheap,Belmont,9:30,10:30,1,FALSE
-813,Rainforest Bistro,Japanese,Medium,Mott Haven,8:00,10:00,0,TRUE
-814,Tasty Chocolate Shop,American,Medium,Great Kills,18:00,20:30,0,FALSE
-815,Riverside Alehouse,Chinese,Expensive,Morris Park,17:00,19:00,1,TRUE
-816,Spice Route Alehouse,Mexican,Cheap,Sunnyside,19:30,20:00,4,TRUE
-817,Savor Boulangerie,Indian,Cheap,Crown Heights,15:00,16:00,3,FALSE
-818,Tropical Court,American,Expensive,Brooklyn Heights,20:00,21:30,1,TRUE
-819,Vintage Cereal Bar,Chinese,Cheap,Bedford-Stuyvesant,20:30,22:00,2,FALSE
-820,Pineapple Eatery,Indian,Cheap,St. George,17:00,18:30,5,TRUE
-821,Golden Gate Taco Shack,French,Expensive,Riverdale,17:30,19:00,0,FALSE
-822,Palm Tree Court,Chinese,Cheap,Woodside,15:00,16:00,1,FALSE
-823,Lakefront Chocolate Shop,Japanese,Medium,Ridgewood,8:30,10:00,5,FALSE
-824,Charming Juice Joint,Japanese,Expensive,Pelham Bay,19:30,21:30,0,TRUE
-825,Sizzling Chophouse,Thai,Cheap,Morris Park,19:30,20:00,1,TRUE
-826,Hearty Oyster House,Mexican,Medium,Harlem,18:30,20:30,1,FALSE
-827,Elegant Joint,American,Cheap,Tompkinsville,20:00,21:00,0,FALSE
-828,Seaside Cafe,Thai,Expensive,Forest Hills,12:00,14:30,0,TRUE
-829,Blue Bayou Noodle House,Mexican,Medium,Stapleton,17:30,18:00,3,TRUE
-830,Scrumptious Doughnut Shop,Japanese,Medium,Eltingville,11:30,12:30,5,TRUE
-831,Vintage Candy Store,Thai,Cheap,Eltingville,9:30,10:00,5,FALSE
-832,Spicy Cafeteria,Thai,Cheap,Morris Park,14:00,16:30,0,TRUE
-833,Hilltop Alehouse,French,Medium,Greenwich Village,18:00,19:00,0,FALSE
-834,Sweet Pea Lounge,Japanese,Expensive,Forest Hills,10:00,11:30,1,TRUE
-835,Charming Grill & Bar,French,Expensive,Chelsea,13:00,15:30,1,FALSE
-836,Retro Cuisine,American,Medium,Tompkinsville,12:30,14:00,1,TRUE
-837,Golden Gate Burger Joint,Indian,Cheap,Stapleton,11:00,13:00,0,TRUE
-838,Flavorful Yogurt Shop,Italian,Cheap,Morris Park,10:30,12:30,5,TRUE
-839,Sunny Kitchenette,Chinese,Expensive,Fordham,9:00,10:00,1,FALSE
-840,Irresistible Alehouse,Italian,Expensive,Ridgewood,18:00,20:00,4,TRUE
-841,Mountain View Cantina,Thai,Cheap,Harlem,11:30,12:30,2,TRUE
-842,Zesty Restaurant,Indian,Expensive,Throgs Neck,10:30,11:30,2,FALSE
-843,Sapphire Seafood Shack,Mediterranean,Cheap,Ridgewood,9:00,10:00,2,FALSE
-844,Island Pastry Shop,French,Cheap,Riverdale,18:00,20:30,3,FALSE
-845,Homestyle Palace,Indian,Cheap,Ridgewood,11:30,13:30,1,TRUE
-846,Orchid Chocolate Shop,Mediterranean,Cheap,Upper West Side,10:30,11:00,0,TRUE
-847,Fusion Cantina,Mediterranean,Cheap,Stapleton,8:00,9:30,5,FALSE
-848,Blue Bayou Court,American,Expensive,Tribeca,8:00,9:30,0,TRUE
-849,Divine Burger Joint,Italian,Expensive,Bedford-Stuyvesant,14:30,15:00,1,FALSE
-850,Tropical Whiskey Bar,American,Expensive,Brooklyn Heights,17:30,18:00,1,FALSE
-851,Underground Diner,Thai,Cheap,Williamsburg,10:30,12:00,1,TRUE
-852,Divine Crepery,Mexican,Expensive,Mott Haven,20:30,21:30,1,FALSE
-853,Sandy Beach Winery,American,Expensive,Stapleton,21:00,22:00,2,TRUE
-854,Aromatic Diner,Japanese,Medium,Soundview,18:30,20:30,1,TRUE
-855,Golden Gate Candy Store,Mediterranean,Cheap,Annadale,14:00,16:30,0,TRUE
-856,Palatable Kitchenette,Mexican,Expensive,Tompkinsville,17:30,18:00,4,FALSE
-857,Valley Court,American,Medium,Midtown Manhattan,21:30,22:00,5,TRUE
-858,Tasty Bistro,Indian,Expensive,Annadale,12:30,14:30,3,FALSE
-859,Rainforest Inn,Mediterranean,Expensive,Upper West Side,17:00,18:00,3,FALSE
-860,Ivy League Taco Shack,Mediterranean,Expensive,Tribeca,18:00,20:30,5,FALSE
-861,Vintage Joint,Japanese,Expensive,Mott Haven,8:30,9:00,0,FALSE
-862,Sweet Pea Tiki Bar,Italian,Expensive,Williamsburg,14:00,15:30,3,TRUE
-863,Sizzle Deli,Mediterranean,Medium,Fordham,20:30,21:30,0,FALSE
-864,Harbor View Oyster Bar,Chinese,Expensive,Westerleigh,16:30,17:00,2,TRUE
-865,Quaint Juice Bar,Japanese,Cheap,Crown Heights,10:00,12:30,4,TRUE
-866,Mountain View Vietnamese Restaurant,French,Expensive,Annadale,21:00,22:30,4,FALSE
-867,Mouthwatering Burger Joint,Japanese,Medium,Crown Heights,11:00,13:00,4,TRUE
-868,Aromatic Spot,Thai,Medium,Greenpoint,21:30,22:00,4,TRUE
-869,Wholesome Place,Chinese,Medium,Eltingville,13:00,15:30,2,FALSE
-870,Golden Gate Dive Bar,American,Expensive,Annadale,18:00,19:30,3,TRUE
-871,Underground Restaurant,Indian,Cheap,Brooklyn Heights,11:00,12:00,0,FALSE
-872,Foggy Noodle House,Chinese,Expensive,Long Island City,20:30,22:00,4,FALSE
-873,Pineapple Doughnut Shop,Thai,Medium,Prospect Heights,17:30,19:00,0,FALSE
-874,Royal Palace,Mexican,Medium,Crown Heights,11:30,13:00,0,FALSE
-875,Sapphire Gastropub,French,Cheap,Soundview,18:30,20:30,4,FALSE
-876,Delectable Chocolate Shop,Mediterranean,Medium,Hunts Point,17:30,18:00,3,FALSE
-877,Golden Harvest House,Indian,Medium,Ridgewood,20:30,21:00,0,FALSE
-878,Bamboo Grove Tea Room,American,Cheap,Sunnyside,11:30,12:30,2,TRUE
-879,Cherry Blossom Palace,Indian,Expensive,Chelsea,11:30,13:00,5,FALSE
-880,Savory Seafood Shack,Italian,Expensive,Westerleigh,10:00,12:30,5,FALSE
-881,Oceanic Tapas Bar,Mediterranean,Medium,Annadale,18:00,19:00,5,TRUE
-882,Rustic House,American,Medium,Greenpoint,16:30,17:00,5,TRUE
-883,Sunny Oyster Bar,American,Cheap,Jackson Heights,21:00,22:30,5,FALSE
-884,Delicious Bar & Grill,Italian,Expensive,Sunnyside,9:00,11:00,2,FALSE
-885,Sizzling Vineyard,Mexican,Cheap,Crown Heights,8:30,9:30,5,TRUE
-886,Spicy Eatery,Mediterranean,Cheap,Bedford-Stuyvesant,17:00,19:30,4,TRUE
-887,Valley Noodle House,Japanese,Medium,Upper East Side,16:00,18:00,4,FALSE
-888,Bamboo Grove Bistro,American,Expensive,Prospect Heights,11:00,12:00,2,FALSE
-889,Coastal Ice Cream Parlor,Mexican,Medium,Riverdale,14:30,16:30,4,TRUE
-890,Seaside Juice Bar,Indian,Medium,Williamsburg,15:00,17:00,4,TRUE
-891,Sizzle Cookie Shop,French,Cheap,Great Kills,20:30,21:00,5,TRUE
-892,Countryside Cantina,American,Cheap,Flatbush,13:00,15:00,5,TRUE
-893,Heavenly Cookie Shop,Chinese,Cheap,Prospect Heights,17:30,19:00,3,TRUE
-894,Mountain View Pub,Japanese,Cheap,Prospect Heights,13:00,15:00,1,TRUE
-895,Hearty Distillery,Japanese,Expensive,Astoria,18:00,20:30,5,TRUE
-896,Sweet Pea Joint,Mediterranean,Expensive,Riverdale,17:00,18:00,5,FALSE
-897,Lakefront Cafe,Thai,Expensive,Annadale,12:30,14:30,3,TRUE
-898,Family Burger Joint,Mediterranean,Cheap,Bedford-Stuyvesant,8:00,10:30,0,TRUE
-899,Urban Cookie Shop,Mexican,Expensive,Soundview,20:30,21:30,4,TRUE
-900,Summit Coffeehouse,American,Medium,Belmont,12:00,14:30,1,FALSE
-901,Tender Smoothie Shop,French,Expensive,Upper East Side,12:30,13:00,3,FALSE
-902,Flavorful Taco Shack,Indian,Cheap,Bedford-Stuyvesant,11:00,12:30,3,TRUE
-903,Blue Bayou Ramen House,French,Cheap,Throgs Neck,14:30,16:30,4,FALSE
-904,Coastal Grill & Bar,Mediterranean,Cheap,Bedford-Stuyvesant,11:00,12:00,2,TRUE
-905,Divine Cantina,Italian,Expensive,St. George,14:30,16:00,0,FALSE
-906,Hilltop Grill,Chinese,Cheap,Midtown Manhattan,8:00,9:30,2,FALSE
-907,Pineapple Sushi Bar,Mediterranean,Expensive,Williamsburg,20:00,22:30,1,FALSE
-908,Fusion Chocolate Shop,Mediterranean,Medium,Mott Haven,9:00,11:30,3,TRUE
-909,Savory Tearoom,Mediterranean,Cheap,Great Kills,18:00,19:00,3,TRUE
-910,Sandy Beach Court,French,Expensive,Sunnyside,19:30,21:30,0,TRUE
-911,Zesty Parlor,Italian,Cheap,Woodside,14:00,16:00,2,FALSE
-912,Palm Tree Sushi Bar,American,Medium,Annadale,10:30,11:00,3,FALSE
-913,Oceanfront Noodle House,Mexican,Medium,Lower East Side,14:30,16:30,1,TRUE
-914,Sizzling Gelato Shop,Japanese,Expensive,Jackson Heights,18:00,19:30,3,TRUE
-915,Lakefront Court,Chinese,Expensive,Brooklyn Heights,18:00,19:00,0,TRUE
-916,Sunny Crepery,American,Expensive,Westerleigh,9:00,11:30,0,FALSE
-917,Rainforest Pastry Shop,Japanese,Cheap,Prospect Heights,15:00,17:30,2,TRUE
-918,Savor Pub,French,Medium,Chelsea,10:00,11:00,4,FALSE
-919,Crisp Juice Joint,French,Medium,Flatbush,19:00,20:30,1,TRUE
-920,Blue Bayou Restaurant,Mexican,Medium,Lower East Side,16:30,18:00,3,FALSE
-921,Countryside Lounge,Italian,Medium,Brooklyn Heights,19:00,21:30,0,FALSE
-922,Tender Eatery,Italian,Expensive,Soundview,9:00,11:00,2,FALSE
-923,Flavorful Joint,Indian,Medium,Woodside,18:30,20:30,4,FALSE
-924,Heavenly Bagel Shop,Indian,Cheap,Crown Heights,18:30,19:30,2,FALSE
-925,Sunset Sushi Bar,Italian,Cheap,Sunnyside,8:30,9:00,5,TRUE
-926,Zesty Noodle House,American,Cheap,Eltingville,14:30,15:00,2,TRUE
-927,Zen Juice Bar,Mexican,Medium,Morris Park,18:30,20:30,2,FALSE
-928,Brick Oven Court,Mexican,Expensive,Upper East Side,12:30,14:30,3,FALSE
-929,Elegant House,Italian,Expensive,Flushing,20:00,21:00,5,TRUE
-930,Seaside Grill,Japanese,Expensive,Prospect Heights,18:00,20:00,0,TRUE
-931,Heavenly Cookie Shop,Thai,Expensive,St. George,11:30,13:00,0,FALSE
-932,Delicious Cereal Bar,American,Expensive,Harlem,19:30,20:00,3,TRUE
-933,Mountain View Diner,French,Medium,Sunnyside,16:00,17:30,4,FALSE
-934,Delicious Tearoom,Indian,Cheap,Forest Hills,11:00,13:00,0,TRUE
-935,Savor Brasserie,Indian,Expensive,Long Island City,9:30,11:00,2,TRUE
-936,Classic Tea Room,Mexican,Medium,Crown Heights,11:30,13:00,0,TRUE
-937,Rustic Creamery,Indian,Expensive,Pelham Bay,18:00,19:00,2,TRUE
-938,Wholesome Lodge,Italian,Cheap,Park Slope,9:00,11:30,0,FALSE
-939,Hilltop Brewpub,Japanese,Medium,Harlem,8:30,10:30,0,FALSE
-940,Vintage Lodge,Japanese,Cheap,Flushing,17:00,19:30,3,TRUE
-941,Classic Dessert Bar,Mexican,Medium,Great Kills,8:30,10:00,2,FALSE
-942,Cozy Boulangerie,French,Medium,Chelsea,16:30,18:00,0,TRUE
-943,Irresistible Noodle House,American,Cheap,Chelsea,16:00,17:00,2,FALSE
-944,Countryside Parlor,Indian,Cheap,Jackson Heights,18:30,19:30,2,TRUE
-945,Riverside Deli,Italian,Medium,St. George,19:00,21:30,1,TRUE
-946,Spice Route Hideaway,Mediterranean,Cheap,Westerleigh,20:30,21:30,3,FALSE
-947,Sizzle Grill & Bar,Indian,Expensive,Williamsburg,10:30,11:30,1,FALSE
-948,Zesty Bagel Shop,American,Medium,Riverdale,10:00,11:30,5,FALSE
-949,Sweet Pea Bistro,Japanese,Cheap,Crown Heights,17:30,18:30,5,TRUE
-950,Ivy League Cookie Shop,Mediterranean,Expensive,Crown Heights,20:30,22:00,3,TRUE
-951,Golden Gate Cuisine,Chinese,Expensive,Bushwick,21:30,22:00,3,TRUE
-952,Succulent Chophouse,Indian,Medium,St. George,8:30,9:00,2,FALSE
-953,Crisp Gastropub,Chinese,Cheap,Upper West Side,10:00,11:00,3,TRUE
-954,Flavorful Bakery,Thai,Cheap,Riverdale,13:30,15:00,5,TRUE
-955,Sapphire Parlor,Chinese,Medium,Annadale,15:00,17:30,3,FALSE
-956,Wholesome Tearoom,Thai,Expensive,St. George,9:00,10:30,4,FALSE
-957,Harbor View Cantina,Thai,Expensive,Jackson Heights,13:30,15:30,4,TRUE
-958,Savor Vineyard,Italian,Expensive,Westerleigh,15:30,16:00,3,FALSE
-959,Scrumptious Eatery,French,Medium,St. George,19:00,21:30,2,FALSE
-960,Tropical Doughnut Shop,Italian,Medium,Tottenville,9:30,11:00,3,FALSE
-961,Flavorful Grill,American,Expensive,Woodside,15:30,16:00,2,TRUE
-962,Family Ice Cream Parlor,Italian,Expensive,Bedford-Stuyvesant,9:30,10:00,3,FALSE
-963,Highlands Eatery,Mediterranean,Expensive,Mott Haven,12:00,13:00,5,FALSE
-964,Flavorful Kitchen,Japanese,Medium,Park Slope,14:00,15:00,2,FALSE
-965,Wholesome Tearoom,Japanese,Cheap,Bedford-Stuyvesant,18:00,19:00,5,FALSE
-966,Valley Pizzeria,American,Medium,Forest Hills,20:30,21:30,0,TRUE
-967,Authentic Tearoom,Thai,Expensive,Chelsea,18:00,20:00,0,FALSE
-968,Oceanfront Crepery,French,Medium,Throgs Neck,21:00,22:00,2,TRUE
-969,Under the Stars Lounge,French,Expensive,Lower East Side,17:30,19:30,0,TRUE
-970,Vintage Noodle House,Italian,Cheap,Jackson Heights,16:30,18:30,4,FALSE
-971,Highlands Noodle House,French,Medium,Soundview,15:30,16:00,4,TRUE
-972,Satisfying Juice Bar,Indian,Cheap,SoHo,21:30,22:00,3,FALSE
-973,Tender Cantina,French,Expensive,Hunts Point,9:00,10:30,3,TRUE
-974,Moonshine Brasserie,Indian,Medium,Eltingville,13:00,14:00,4,TRUE
-975,Palm Tree Bakery,Thai,Expensive,Williamsburg,17:30,18:00,0,TRUE
-976,Lakefront Grill & Bar,Indian,Medium,SoHo,20:00,21:00,1,FALSE
-977,Satisfying Bakery,Mediterranean,Medium,Long Island City,18:00,19:00,5,FALSE
-978,Bamboo Grove Creamery,American,Expensive,New Dorp,14:00,16:30,1,FALSE
-979,Homestyle Grill,French,Medium,Tompkinsville,12:30,14:00,4,FALSE
-980,Sizzle Sushi Bar,Thai,Cheap,Eltingville,20:30,21:00,4,TRUE
-981,Moonlight Oyster Bar,Mediterranean,Expensive,Bushwick,12:00,14:30,0,TRUE
-982,Fusion Eatery,American,Expensive,Greenwich Village,17:00,18:00,1,TRUE
-983,Charming Bar & Grill,Mediterranean,Expensive,Flatbush,18:30,19:30,3,TRUE
-984,Yummy Burger Joint,Thai,Cheap,Astoria,16:00,17:00,2,FALSE
-985,Sizzling House,Mexican,Expensive,Park Slope,18:30,20:00,2,TRUE
-986,Scrumptious Fish House,French,Expensive,Woodside,15:00,16:30,4,TRUE
-987,Vintage Steakhouse,Indian,Cheap,Bedford-Stuyvesant,15:00,17:30,0,TRUE
-988,Rustic Cafe,Mediterranean,Cheap,Park Slope,20:30,21:30,5,FALSE
-989,Hearty Cuisine,Mediterranean,Cheap,Flatbush,11:00,12:30,5,TRUE
-990,Zen Chophouse,Japanese,Cheap,Eltingville,18:00,20:00,4,FALSE
-991,Under the Stars Smokehouse,Indian,Cheap,Bushwick,9:00,10:30,4,TRUE
-992,Under the Stars Chophouse,French,Expensive,Astoria,8:00,10:00,4,TRUE
-993,Crisp Court,American,Medium,Riverdale,12:00,14:00,0,TRUE
-994,Royal Coffeehouse,Mediterranean,Expensive,Greenpoint,14:30,16:30,0,FALSE
-995,Charming Wine Bar,Chinese,Expensive,Harlem,17:00,18:00,0,FALSE
-996,Fresh Fish House,Mexican,Expensive,Westerleigh,9:30,10:30,4,TRUE
-997,Scrumptious Bar & Grill,French,Medium,Jamaica,9:00,11:00,0,FALSE
-998,Palm Tree Eatery,Mexican,Medium,SoHo,11:30,12:00,4,TRUE
-999,Savory Winery,Japanese,Expensive,Mott Haven,17:00,18:30,0,FALSE
-1000,Cherry Blossom Ice Cream Parlor,Italian,Expensive,Sunnyside,9:30,10:00,3,FALSE
+ID,Name,Category,Price Tier,Neighborhood,Opening Hours,Closing Hours,Average Rating,Good for Kids
+1,Hearty Smoothie Bar,Thai,Medium,Tribeca,09:30,15:30,2,False
+2,Zesty Palace,Indian,Medium,Tribeca,11:30,21:00,3,True
+3,Urban Brasserie,French,Medium,Great Kills,11:00,19:30,3,True
+4,Tender Yogurt Shop,Italian,Expensive,Pelham Bay,08:30,17:30,1,False
+5,Yummy Smokehouse,Indian,Expensive,Mott Haven,08:30,18:30,4,True
+6,Harbor View Grill,Indian,Medium,Crown Heights,08:30,20:00,2,False
+7,Zen Speakeasy,Thai,Cheap,Throgs Neck,09:30,21:30,0,False
+8,Retro Oyster House,Mediterranean,Expensive,St. George,10:00,18:30,0,True
+9,Serenity Juice Bar,Italian,Cheap,Forest Hills,11:30,21:30,1,False
+10,Mountain View Gastropub,Thai,Cheap,Williamsburg,11:00,22:00,2,False
+11,Oceanfront Doughnut Shop,Thai,Cheap,Flushing,09:30,18:00,3,False
+12,Flavorful Fish House,Italian,Cheap,Chelsea,08:00,17:30,0,False
+13,Homestyle Yogurt Shop,American,Cheap,Harlem,08:00,21:00,2,True
+14,Fusion Tiki Bar,Japanese,Medium,Belmont,11:30,19:30,4,False
+15,Elegant Tavern,Indian,Expensive,Astoria,08:30,14:30,5,True
+16,Coconut Cove Candy Store,Mediterranean,Cheap,Mott Haven,10:00,23:30,0,False
+17,Flavorful Cider House,Thai,Expensive,Brooklyn Heights,08:00,15:00,2,False
+18,Bamboo Grove Pub,Japanese,Cheap,Lower East Side,08:30,18:30,1,False
+19,Underground Court,Thai,Cheap,Upper West Side,10:00,23:30,1,True
+20,Sensational Burger Joint,Japanese,Cheap,Sunnyside,09:30,23:30,5,True
+21,Elegant Parlor,Italian,Cheap,Long Island City,12:00,18:30,1,False
+22,Lakefront Court,American,Expensive,Eltingville,08:00,22:00,3,True
+23,Mouthwatering Tea Room,Thai,Expensive,Long Island City,11:00,18:30,2,True
+24,Rustic Ramen House,Japanese,Medium,Hunts Point,11:30,20:30,5,False
+25,Wholesome Juice Bar,Indian,Cheap,Upper West Side,11:30,22:00,1,True
+26,Harbor View Whiskey Bar,Indian,Medium,Fordham,09:30,16:30,3,True
+27,Serenity Chocolate Shop,French,Cheap,St. George,12:30,23:30,3,False
+28,Sunny Fish House,Thai,Cheap,Forest Hills,09:30,16:00,1,True
+29,Savory Eatery,Chinese,Medium,Crown Heights,11:30,22:00,0,True
+30,Mouthwatering Tea Room,Indian,Cheap,Tribeca,11:30,23:00,3,False
+31,Oceanic Cuisine,Italian,Cheap,Greenpoint,11:30,19:30,4,True
+32,Spice Route Spot,Italian,Medium,Tribeca,09:30,16:30,1,False
+33,Ivy League Juice Joint,Italian,Expensive,Mott Haven,11:00,22:30,3,False
+34,Flavorful Bakery,Italian,Medium,Eltingville,10:30,23:00,4,False
+35,Palatable Joint,Italian,Medium,Stapleton,11:00,17:00,4,True
+36,Elegant Cantina,Chinese,Cheap,Greenwich Village,11:00,21:00,1,True
+37,Cherry Blossom Taproom,American,Medium,Bedford-Stuyvesant,09:30,15:00,0,True
+38,Retro Bakery,Japanese,Medium,Westerleigh,12:00,19:00,4,False
+39,Royal Speakeasy,Chinese,Medium,Sunnyside,10:30,21:00,2,False
+40,Tender Brasserie,Japanese,Cheap,Williamsburg,10:00,20:00,0,False
+41,Harbor View Steakhouse,Mediterranean,Expensive,Flatbush,08:00,17:00,2,False
+42,Tender Smokehouse,American,Medium,Bedford-Stuyvesant,09:30,17:00,5,True
+43,Sweet Pea Creamery,Italian,Expensive,Williamsburg,08:30,19:00,3,False
+44,Firehouse Lounge,American,Expensive,Brooklyn Heights,11:00,18:30,3,True
+45,Sapphire Grill,Mexican,Expensive,Flatbush,08:30,19:00,0,False
+46,Coconut Cove Kitchenette,Japanese,Medium,Upper West Side,08:00,18:00,4,True
+47,Summit Grill,Italian,Expensive,Morris Park,09:30,16:00,5,True
+48,Vintage Cafeteria,Chinese,Cheap,SoHo,11:30,19:00,1,False
+49,Highlands House,Japanese,Expensive,Astoria,12:00,20:30,3,True
+50,Tender Brasserie,American,Medium,Tottenville,09:00,23:00,1,False
+51,Mouthwatering Ice Cream Parlor,Mexican,Medium,New Dorp,09:30,23:00,3,True
+52,Vintage Court,Mexican,Cheap,Midtown Manhattan,09:30,23:00,2,True
+53,Rustic Court,Indian,Medium,Greenpoint,11:00,21:30,1,False
+54,Hearty Eatery,Japanese,Expensive,Soundview,12:30,23:30,0,False
+55,Wholesome Cantina,American,Medium,Crown Heights,08:30,16:00,3,True
+56,Savory Bar & Grill,Japanese,Cheap,Crown Heights,10:30,21:00,4,True
+57,Ivy League Hideaway,Thai,Medium,Flatbush,11:00,21:30,4,False
+58,Riverside Coffeehouse,American,Cheap,Tribeca,09:30,19:30,4,True
+59,Zesty Pub,Indian,Cheap,Bedford-Stuyvesant,12:30,18:30,5,True
+60,Irresistible Bar & Grill,Mediterranean,Cheap,Throgs Neck,09:30,16:00,4,False
+61,Satisfying House,Thai,Medium,Fordham,11:00,20:30,1,True
+62,Family Tavern,Italian,Medium,Flushing,11:00,23:30,0,False
+63,Retro Gelato Shop,Chinese,Cheap,Ridgewood,12:30,18:30,2,False
+64,Palm Tree Kitchenette,Mexican,Medium,Brooklyn Heights,11:00,23:30,3,False
+65,Tropical Parlor,Thai,Cheap,Forest Hills,11:30,21:30,4,True
+66,Riverside Deli,Japanese,Cheap,St. George,11:30,19:30,3,False
+67,Aromatic Speakeasy,Italian,Cheap,Riverdale,08:00,14:00,5,False
+68,Satisfying Joint,French,Medium,Flatbush,10:30,16:30,4,False
+69,Delectable Gelato Shop,Chinese,Cheap,Ridgewood,09:00,15:00,2,True
+70,Serenity Spot,Thai,Expensive,Tompkinsville,08:00,15:00,2,False
+71,Savory Taphouse,Japanese,Expensive,Bedford-Stuyvesant,08:00,19:30,2,False
+72,Rooftop Creamery,French,Cheap,Ridgewood,12:00,22:00,5,False
+73,Coconut Cove Diner,Thai,Medium,Williamsburg,10:00,19:30,4,True
+74,Tropical Diner,Thai,Expensive,Brooklyn Heights,10:30,18:30,0,True
+75,Golden Harvest Fish House,Italian,Expensive,Tribeca,12:00,21:30,5,False
+76,Delectable Tearoom,Mediterranean,Medium,Park Slope,09:00,18:30,2,True
+77,Yummy Diner,Thai,Cheap,Prospect Heights,11:30,23:00,0,True
+78,Harbor View Tavern,Italian,Medium,St. George,08:00,15:30,5,True
+79,Palm Tree Taco Shack,Mexican,Cheap,Greenwich Village,11:30,22:00,2,False
+80,Tropical Smoothie Bar,Mediterranean,Cheap,Forest Hills,09:30,15:30,1,True
+81,Aromatic Tearoom,American,Cheap,Ridgewood,12:00,22:30,0,True
+82,Scrumptious Distillery,American,Expensive,Tompkinsville,12:00,20:00,2,True
+83,Heavenly Brewpub,Thai,Expensive,Williamsburg,12:30,20:30,1,False
+84,Wholesome Pub,Mexican,Cheap,Upper West Side,09:00,20:00,0,True
+85,Maplewood Speakeasy,Japanese,Medium,Greenpoint,12:00,19:30,5,True
+86,Mountain View Bar & Grill,Italian,Cheap,Chelsea,10:30,20:30,5,True
+87,Flavorful House,Chinese,Expensive,Harlem,12:00,20:00,1,False
+88,Fresh Hideaway,Indian,Expensive,Stapleton,12:30,20:30,0,False
+89,Satisfying Grill & Bar,American,Cheap,Westerleigh,12:00,19:30,4,True
+90,Family Joint,Mexican,Medium,Upper West Side,08:30,19:00,3,True
+91,Zesty Brewpub,American,Medium,Belmont,12:00,19:30,3,False
+92,Juicy Oyster Bar,Japanese,Cheap,Greenwich Village,11:00,21:30,3,False
+93,Orchid Ramen House,Japanese,Cheap,Stapleton,08:30,14:30,5,True
+94,Delicious Donut Store,Japanese,Cheap,Chelsea,11:00,23:00,5,False
+95,Tasty Grill & Bar,Thai,Medium,Upper East Side,10:30,21:30,4,False
+96,Cherry Blossom Lodge,Japanese,Expensive,Forest Hills,08:00,23:00,3,False
+97,Seaside Place,Japanese,Expensive,Brooklyn Heights,12:30,22:00,4,False
+98,Elegant Joint,Mediterranean,Cheap,Upper West Side,11:30,22:30,3,True
+99,Royal Brewpub,Chinese,Expensive,Hunts Point,11:00,19:00,2,False
+100,Quaint Chophouse,Chinese,Expensive,Greenpoint,12:30,18:00,0,False
+101,Orchid Alehouse,Indian,Medium,Greenpoint,11:30,21:30,4,True
+102,Savory Distillery,Thai,Expensive,Eltingville,09:00,18:00,2,False
+103,Spicy Sushi Bar,American,Cheap,Soundview,09:30,17:00,5,False
+104,Retro Tapas Bar,Japanese,Expensive,St. George,10:30,18:30,2,True
+105,Tropical Diner,Indian,Expensive,SoHo,12:30,21:30,5,False
+106,Oceanfront Juice Bar,Mexican,Expensive,Chelsea,11:00,17:30,5,False
+107,Brick Oven Vietnamese Restaurant,Indian,Medium,Bedford-Stuyvesant,08:00,15:30,3,True
+108,Classic Bakery Cafe,Italian,Cheap,Annadale,08:30,23:30,2,False
+109,Juicy Taphouse,Italian,Cheap,Lower East Side,12:00,21:00,3,True
+110,Charming Bakery Cafe,Chinese,Cheap,Lower East Side,12:30,21:30,3,False
+111,Zesty Speakeasy,Indian,Cheap,Crown Heights,09:30,23:00,4,False
+112,Authentic Smoothie Shop,Mexican,Expensive,Woodside,12:30,18:30,4,True
+113,Golden Harvest Bistro,Mediterranean,Expensive,St. George,12:30,23:30,1,True
+114,Vintage Cafeteria,Thai,Expensive,Morris Park,12:00,19:30,2,False
+115,Quaint Cantina,Chinese,Cheap,Upper East Side,11:00,21:30,4,False
+116,Foggy Cafe,Mexican,Expensive,Greenwich Village,11:00,22:30,3,True
+117,Sandy Beach Kitchen,Mexican,Cheap,Mott Haven,08:00,14:30,1,False
+118,Wholesome Parlor,American,Cheap,Prospect Heights,09:00,15:30,2,False
+119,Palatable Brasserie,Indian,Cheap,Prospect Heights,08:00,20:00,3,False
+120,Aromatic Steakhouse,Thai,Medium,Woodside,11:30,21:30,2,True
+121,Palatable Chophouse,Indian,Cheap,Upper West Side,09:00,19:00,0,False
+122,Zesty Court,American,Cheap,Throgs Neck,10:30,18:00,2,True
+123,Savory Tapas Bar,Chinese,Medium,Greenpoint,09:30,19:30,2,True
+124,Homestyle Coffeehouse,Italian,Medium,Pelham Bay,11:00,18:00,0,False
+125,Family Cantina,French,Medium,Greenwich Village,09:00,19:00,0,False
+126,Spicy Smoothie Bar,French,Medium,Greenpoint,11:00,23:00,4,False
+127,Urban Kitchenette,American,Medium,Flatbush,10:00,17:00,2,False
+128,Foggy Kitchenette,Mexican,Cheap,Harlem,10:30,19:30,4,True
+129,Classic Grill,Japanese,Medium,Midtown Manhattan,08:30,19:30,2,True
+130,Sunset Parlor,Chinese,Medium,Brooklyn Heights,11:30,18:00,0,False
+131,Aromatic Bagel Shop,Japanese,Expensive,Fordham,10:30,22:30,0,True
+132,Flavorful Pub,Mexican,Medium,Jamaica,10:00,21:00,4,True
+133,Hearty Tiki Bar,Japanese,Medium,Park Slope,09:00,17:00,5,False
+134,Bamboo Grove Cantina,Thai,Cheap,Astoria,12:30,22:00,1,False
+135,Sapphire Doughnut Shop,French,Medium,Long Island City,08:00,16:00,5,True
+136,Coconut Cove Oyster Bar,Japanese,Medium,Greenwich Village,08:00,23:30,1,False
+137,Sunny Kitchen,Japanese,Cheap,Greenpoint,12:00,20:30,5,True
+138,Golden Harvest Ice Cream Parlor,French,Expensive,Lower East Side,12:30,21:30,4,False
+139,Wholesome Taco Shack,Japanese,Cheap,Chelsea,08:00,15:30,0,True
+140,Flavorful Parlor,Thai,Expensive,Greenwich Village,10:00,17:30,0,True
+141,Lakefront Sushi Bar,Italian,Cheap,Mott Haven,11:30,17:00,0,False
+142,Gourmet Joint,Japanese,Cheap,Throgs Neck,09:30,15:30,4,False
+143,Zesty Juice Bar,French,Medium,Harlem,12:00,19:00,4,True
+144,Foggy Brasserie,Thai,Expensive,Astoria,08:00,21:00,1,True
+145,Hearty Noodle House,French,Cheap,Riverdale,08:30,19:30,0,False
+146,Moonlight Alehouse,Chinese,Expensive,Tribeca,08:30,20:00,5,True
+147,Savory Chocolate Shop,Thai,Expensive,Throgs Neck,11:00,22:30,4,False
+148,Pineapple Inn,Italian,Medium,Flushing,08:30,15:30,2,False
+149,Zesty Pub,Indian,Cheap,Midtown Manhattan,11:00,17:30,3,True
+150,Flavorful Dessert Bar,Mediterranean,Expensive,Annadale,09:00,21:30,3,False
+151,Firehouse Hideaway,Chinese,Cheap,Hunts Point,12:00,21:30,1,False
+152,Rustic Sushi Bar,American,Cheap,Forest Hills,09:30,16:00,5,False
+153,Sapphire Juice Joint,Chinese,Cheap,Tompkinsville,12:30,23:00,4,True
+154,Rustic Parlor,Indian,Medium,Crown Heights,10:00,18:00,0,False
+155,Aromatic Steakhouse,American,Expensive,New Dorp,11:30,17:30,2,True
+156,Spicy Taphouse,French,Medium,Ridgewood,09:30,20:30,4,True
+157,Crisp Brasserie,Japanese,Medium,Great Kills,09:00,17:00,2,False
+158,Golden Harvest Chocolate Shop,Japanese,Medium,Jamaica,10:00,23:00,4,False
+159,Gourmet Deli,Mediterranean,Medium,Astoria,08:00,18:00,5,True
+160,Fusion Eatery,Chinese,Medium,Bedford-Stuyvesant,10:00,20:00,2,False
+161,Highlands Brasserie,Thai,Cheap,Upper East Side,10:30,21:30,4,False
+162,Rainforest Bar & Grill,French,Cheap,Williamsburg,11:00,18:30,4,False
+163,Oceanfront Cantina,Thai,Cheap,Harlem,10:30,19:00,3,True
+164,Hilltop Brewpub,Thai,Medium,Jackson Heights,08:00,18:00,4,True
+165,Oceanic Deli,Indian,Cheap,Jackson Heights,12:30,18:00,0,True
+166,Family Diner,Thai,Medium,Harlem,09:00,20:00,5,True
+167,Sweet Pea Noodle House,Indian,Cheap,SoHo,12:00,18:30,2,False
+168,Oceanic Seafood Shack,Thai,Medium,Lower East Side,12:30,20:30,0,True
+169,Coastal Vineyard,Indian,Cheap,Pelham Bay,08:00,16:00,0,False
+170,Sensational Speakeasy,Indian,Medium,Woodside,10:00,18:30,0,False
+171,Wholesome Boulangerie,Chinese,Cheap,Upper East Side,09:30,15:30,0,False
+172,Tender Taco Shack,Italian,Expensive,Midtown Manhattan,09:00,18:00,5,False
+173,Savor Frozen Yogurt Shop,French,Expensive,Great Kills,08:30,14:00,0,False
+174,Rainforest Ice Cream Parlor,Chinese,Cheap,Greenpoint,12:30,21:30,0,False
+175,Underground Cookie Shop,Italian,Cheap,Chelsea,09:00,15:00,1,True
+176,Golden Harvest Cuisine,French,Expensive,Chelsea,09:00,16:00,4,False
+177,Zesty Creamery,French,Expensive,Greenpoint,12:30,19:30,2,False
+178,Highlands Kitchen,Japanese,Expensive,Long Island City,12:00,22:00,0,True
+179,Serenity Brewery,American,Cheap,Tottenville,12:30,23:30,1,False
+180,Highlands Pub,Italian,Medium,Brooklyn Heights,12:30,23:00,1,False
+181,Maplewood Winery,Mexican,Medium,Greenwich Village,09:30,19:00,4,False
+182,Gourmet Chophouse,American,Cheap,Eltingville,08:00,19:00,1,False
+183,Vintage Vietnamese Restaurant,American,Expensive,Bushwick,09:30,23:00,5,True
+184,Golden Harvest Burger Joint,Mexican,Medium,Hunts Point,11:00,17:00,4,False
+185,Sweet Pea Chocolate Shop,Thai,Medium,Jackson Heights,12:30,19:30,3,False
+186,Pineapple Court,Italian,Expensive,Jackson Heights,09:30,15:00,5,False
+187,Royal Palace,American,Cheap,Stapleton,11:00,20:30,1,True
+188,Savor Sushi Bar,American,Expensive,Flatbush,08:30,18:30,2,True
+189,Charming Cantina,Italian,Medium,Fordham,08:00,19:00,0,False
+190,Sunset Whiskey Bar,Indian,Cheap,Williamsburg,10:00,17:30,2,False
+191,Spicy Inn,Thai,Medium,Eltingville,08:30,21:00,5,True
+192,Scrumptious Joint,Mediterranean,Cheap,Greenpoint,12:00,23:30,3,True
+193,Gastronomic Vineyard,Japanese,Cheap,Upper West Side,10:30,18:00,3,False
+194,Delicious Cafeteria,Mexican,Medium,Great Kills,08:00,20:00,2,False
+195,Wholesome Taproom,Italian,Medium,Pelham Bay,12:00,18:00,5,False
+196,Valley Kitchen,American,Expensive,Jackson Heights,11:30,20:30,3,True
+197,Tender Vietnamese Restaurant,Japanese,Expensive,Westerleigh,10:00,17:00,2,True
+198,Spicy Tiki Bar,Italian,Expensive,Harlem,10:30,16:00,0,True
+199,Crisp Grill & Bar,American,Medium,Midtown Manhattan,08:30,15:30,5,True
+200,Urban Diner,Chinese,Expensive,Greenwich Village,09:30,17:00,2,True
+201,Sensational Court,Japanese,Medium,Upper East Side,09:00,20:30,0,True
+202,Fresh Cafeteria,Italian,Cheap,Tottenville,09:30,16:00,3,False
+203,Zesty Court,Indian,Medium,Upper East Side,09:00,15:30,2,True
+204,Savory Alehouse,Thai,Medium,Harlem,08:00,15:00,1,True
+205,Delicious Juice Bar,Italian,Expensive,Bedford-Stuyvesant,08:00,23:00,1,False
+206,Juicy Tapas Bar,Chinese,Cheap,Ridgewood,12:30,19:30,1,False
+207,Sizzling Cantina,Indian,Medium,Greenpoint,10:30,17:30,1,False
+208,Quaint Noodle House,Mexican,Medium,Morris Park,10:00,23:30,2,True
+209,Retro Bakery Cafe,Indian,Medium,Morris Park,12:30,21:00,5,False
+210,Quaint Boulangerie,Indian,Cheap,Lower East Side,11:00,23:00,4,True
+211,Fresh Gelato Shop,Italian,Expensive,Greenpoint,12:30,22:30,0,False
+212,Moonlight Donut Store,Mexican,Cheap,Forest Hills,10:00,16:00,4,True
+213,Savory Diner,Mexican,Expensive,Tompkinsville,11:00,23:00,0,False
+214,Moonlight Joint,Indian,Cheap,Lower East Side,12:00,23:00,5,False
+215,Tasty Kitchen,Japanese,Cheap,Harlem,09:30,22:30,4,True
+216,Classic Grill & Bar,American,Medium,Woodside,08:00,20:00,5,True
+217,Mouthwatering Wine Bar,Thai,Cheap,Astoria,08:30,20:00,5,False
+218,Retro Cookie Shop,Mediterranean,Expensive,SoHo,11:00,19:00,4,True
+219,Fresh Taphouse,Chinese,Cheap,Flushing,11:30,19:30,1,False
+220,Tasty Lounge,Indian,Expensive,Upper West Side,12:30,20:30,3,False
+221,Zen Court,Mexican,Cheap,Annadale,08:00,15:00,4,True
+222,Zesty Doughnut Shop,French,Expensive,Belmont,11:00,18:00,1,False
+223,Rustic Kitchen,Indian,Cheap,Throgs Neck,12:00,18:30,5,True
+224,Homestyle Cocktail Lounge,Japanese,Expensive,Lower East Side,12:30,21:30,0,False
+225,Sunny Frozen Yogurt Shop,Mexican,Expensive,Flatbush,09:30,23:30,1,True
+226,Tasty Gastropub,Mexican,Cheap,Lower East Side,12:00,22:30,3,True
+227,Exquisite Taco Shack,American,Expensive,Stapleton,08:00,17:30,0,True
+228,Zen Eatery,Mexican,Cheap,Lower East Side,11:30,19:00,1,True
+229,Aromatic House,Japanese,Medium,Lower East Side,08:30,22:00,1,False
+230,Fresh Chophouse,Mexican,Cheap,Annadale,11:00,21:30,1,True
+231,Delicious Kitchenette,Thai,Medium,Park Slope,08:30,22:30,5,False
+232,Countryside Boulangerie,Mediterranean,Expensive,Annadale,12:00,21:30,0,False
+233,Foggy Gastropub,Chinese,Expensive,Flushing,12:30,20:00,2,False
+234,Golden Gate Yogurt Shop,Indian,Medium,Greenpoint,08:00,19:00,4,False
+235,Delicious Parlor,Japanese,Expensive,Mott Haven,09:00,16:00,2,True
+236,Sweet Pea Cider House,Thai,Medium,Tottenville,10:00,21:30,4,True
+237,Summit Pub,Japanese,Expensive,Long Island City,10:00,17:00,5,False
+238,Exquisite Creamery,Thai,Expensive,Great Kills,11:30,23:00,1,False
+239,Sizzle Cake Shop,Mexican,Expensive,Greenpoint,12:30,18:30,0,True
+240,Brick Oven Smokehouse,American,Cheap,Westerleigh,10:00,16:00,4,True
+241,Golden Harvest Donut Store,Italian,Expensive,Park Slope,08:00,21:00,3,True
+242,Fusion Oyster House,Indian,Cheap,Greenwich Village,12:30,20:30,4,True
+243,Gourmet Pub,Mexican,Cheap,Flatbush,12:00,19:30,3,False
+244,Maplewood Smoothie Shop,Mexican,Medium,SoHo,11:00,23:30,5,False
+245,Yummy Wine Bar,Japanese,Medium,Riverdale,12:30,19:30,4,True
+246,Palm Tree Candy Store,French,Expensive,Flushing,09:30,15:30,0,False
+247,Hearty Candy Store,Chinese,Expensive,Ridgewood,08:00,18:00,0,True
+248,Elegant Wine Bar,Indian,Medium,Tottenville,09:00,21:00,1,False
+249,Irresistible Parlor,Chinese,Expensive,Bushwick,10:00,19:00,1,False
+250,Gastronomic Yogurt Shop,Mexican,Cheap,Forest Hills,08:00,23:00,3,False
+251,Savory Sushi Bar,Mexican,Cheap,Flushing,09:30,19:30,0,False
+252,Moonshine Dessert Bar,American,Expensive,Tottenville,12:00,23:00,0,False
+253,Crisp Smoothie Shop,Italian,Cheap,Hunts Point,09:30,23:30,0,False
+254,Tender Eatery,Mexican,Cheap,Tribeca,11:00,17:00,2,False
+255,Zesty Bakery,Chinese,Medium,St. George,11:30,22:00,1,True
+256,Sapphire Lodge,Mexican,Cheap,Williamsburg,09:00,23:00,3,False
+257,Family Diner,Mediterranean,Medium,Sunnyside,08:30,20:00,3,False
+258,Coconut Cove Frozen Yogurt Shop,Mexican,Cheap,Tompkinsville,10:00,17:00,0,True
+259,Highlands House,Mediterranean,Cheap,Upper West Side,11:00,20:00,1,False
+260,Orchid Pub,French,Cheap,Soundview,10:30,17:30,4,True
+261,Aromatic Brasserie,Indian,Expensive,Brooklyn Heights,08:00,14:30,3,True
+262,Gastronomic Ramen House,Mexican,Medium,Forest Hills,11:00,21:30,0,True
+263,Classic Cider House,French,Expensive,Eltingville,10:00,18:00,5,True
+264,Zesty Pub,American,Medium,Soundview,10:30,19:00,3,True
+265,Scrumptious Grill & Bar,French,Expensive,Fordham,10:00,20:00,2,True
+266,Foggy Pizzeria,Mediterranean,Cheap,Hunts Point,12:30,22:00,5,False
+267,Lakefront Cocktail Lounge,French,Expensive,Prospect Heights,12:00,18:30,5,False
+268,Seaside Cafeteria,Italian,Cheap,Morris Park,12:30,20:00,3,False
+269,Lakefront Tea Room,Mexican,Cheap,Greenwich Village,10:30,19:00,5,True
+270,Tasty Steakhouse,Indian,Expensive,Sunnyside,11:00,23:30,5,True
+271,Authentic Palace,French,Expensive,Williamsburg,09:30,15:00,4,False
+272,Urban Grill & Bar,Thai,Medium,SoHo,08:30,17:00,0,True
+273,Rustic Yogurt Shop,Thai,Cheap,Morris Park,10:00,21:00,4,False
+274,Palatable Hideaway,Indian,Cheap,Jackson Heights,12:30,22:30,1,False
+275,Spice Route Eatery,Chinese,Expensive,Greenpoint,09:30,22:30,2,False
+276,Sunny Tearoom,Mediterranean,Medium,Mott Haven,08:00,23:30,2,False
+277,Bamboo Grove Cider House,Mexican,Medium,New Dorp,11:30,23:30,4,False
+278,Divine Dive Bar,Mediterranean,Medium,St. George,10:30,17:00,1,False
+279,Quaint Joint,Japanese,Cheap,Woodside,10:00,21:30,3,True
+280,Sizzling Cantina,French,Cheap,Pelham Bay,12:00,23:30,5,False
+281,Zen Bistro,Thai,Cheap,New Dorp,12:30,22:00,3,True
+282,Coastal Brewery,Thai,Expensive,Flatbush,11:00,19:00,0,True
+283,Under the Stars Deli,Mexican,Cheap,Soundview,08:30,17:30,2,True
+284,Golden Gate Cider House,Italian,Medium,Fordham,11:30,23:30,0,True
+285,Coastal Place,Mexican,Expensive,Astoria,08:30,15:00,3,True
+286,Elegant Cuisine,Mexican,Expensive,Stapleton,08:00,16:00,2,False
+287,Blue Bayou Dessert Bar,Indian,Medium,Throgs Neck,10:00,19:30,5,True
+288,Highlands Seafood Shack,Indian,Medium,Eltingville,10:30,21:30,1,True
+289,Under the Stars Cuisine,American,Expensive,Sunnyside,08:00,18:30,3,True
+290,Gourmet Court,Indian,Expensive,Chelsea,10:30,23:30,5,False
+291,Fusion Candy Store,American,Medium,Mott Haven,11:30,18:30,2,True
+292,Satisfying Steakhouse,Thai,Medium,Harlem,10:00,22:30,4,False
+293,Heavenly BBQ Joint,Indian,Cheap,Fordham,11:30,22:00,4,True
+294,Zesty Cantina,Italian,Expensive,Pelham Bay,10:30,16:30,3,False
+295,Sizzling Oyster House,Indian,Medium,Ridgewood,08:30,20:30,2,True
+296,Spicy Crepery,French,Cheap,St. George,08:00,17:00,2,True
+297,Seaside Bar & Grill,American,Expensive,Greenpoint,10:00,23:00,4,False
+298,Serenity Doughnut Shop,Thai,Expensive,Jackson Heights,09:00,16:30,1,True
+299,Island Cake Shop,Chinese,Cheap,Astoria,12:30,22:30,0,False
+300,Sizzling Tavern,Japanese,Cheap,Sunnyside,12:30,22:00,0,True
+301,Gourmet Grill & Bar,Italian,Cheap,Morris Park,08:30,19:30,5,True
+302,Irresistible Tearoom,Mexican,Expensive,Mott Haven,09:30,19:30,0,False
+303,Urban Pub,French,Expensive,Eltingville,10:00,22:00,4,True
+304,Rustic Eatery,Mexican,Expensive,Upper East Side,08:00,18:00,0,True
+305,Sapphire Tea Room,Thai,Cheap,Ridgewood,09:30,16:00,1,False
+306,Vintage Speakeasy,Thai,Expensive,Fordham,10:30,18:30,2,False
+307,Rooftop Taphouse,Mexican,Medium,Great Kills,12:00,18:00,0,False
+308,Oceanic Lounge,Thai,Medium,Greenwich Village,08:30,23:30,0,True
+309,Tasty Joint,French,Expensive,Williamsburg,09:00,16:00,4,False
+310,Hearty Creamery,Mexican,Cheap,Soundview,08:30,19:00,1,True
+311,Tender Dessert Bar,Italian,Expensive,Greenwich Village,08:30,19:30,4,True
+312,Coastal Restaurant,Thai,Cheap,SoHo,11:30,19:30,2,False
+313,Firehouse Cantina,Italian,Cheap,Stapleton,09:30,19:30,3,False
+314,Bamboo Grove Sushi Bar,Chinese,Medium,Lower East Side,11:00,17:00,3,True
+315,Harbor View Spot,Thai,Expensive,Sunnyside,12:30,21:30,5,True
+316,Gastronomic Juice Joint,Thai,Expensive,Tribeca,12:30,18:00,0,False
+317,Golden Gate Pizzeria,Indian,Medium,Bedford-Stuyvesant,08:30,19:00,1,True
+318,Quaint Cereal Bar,Thai,Cheap,Long Island City,11:00,20:30,1,False
+319,Sapphire Ramen House,Thai,Expensive,New Dorp,12:30,21:30,3,True
+320,Palatable Kitchenette,American,Medium,Jackson Heights,12:30,23:30,2,True
+321,Oceanfront Pub,Thai,Cheap,Fordham,10:00,22:30,4,False
+322,Serenity Brasserie,Indian,Medium,Jamaica,09:00,23:00,5,False
+323,Irresistible Chophouse,Thai,Cheap,Upper East Side,08:30,20:00,3,False
+324,Fusion Pizzeria,Italian,Medium,Soundview,11:30,23:30,5,True
+325,Sizzling Taproom,Japanese,Expensive,Jackson Heights,12:00,20:30,3,True
+326,Delicious Tea Room,American,Medium,Flatbush,11:30,23:00,3,True
+327,Fresh Tearoom,Mediterranean,Medium,Upper West Side,12:30,19:30,3,False
+328,Mouthwatering Coffeehouse,French,Cheap,Ridgewood,11:30,17:00,0,False
+329,Spicy Cookie Shop,French,Cheap,Chelsea,11:30,23:00,2,False
+330,Gourmet Kitchen,Chinese,Expensive,Eltingville,11:00,19:30,2,True
+331,Pineapple Brewpub,Japanese,Medium,St. George,12:00,18:30,3,False
+332,Vintage Court,Thai,Medium,Jackson Heights,12:00,23:30,1,True
+333,Savory Gelato Shop,Japanese,Medium,Greenwich Village,11:00,18:30,0,True
+334,Aromatic Gastropub,French,Medium,Westerleigh,10:00,23:30,0,True
+335,Spice Route Cantina,Chinese,Cheap,Forest Hills,12:30,20:00,3,True
+336,Charming Alehouse,American,Medium,Astoria,10:00,22:00,1,True
+337,Highlands Lodge,Mediterranean,Expensive,Greenpoint,10:00,22:00,5,False
+338,Delicious Noodle House,Italian,Cheap,Chelsea,11:00,17:00,3,False
+339,Charming Spot,Mexican,Medium,Lower East Side,12:30,22:00,4,False
+340,Golden Gate Bakery Cafe,Italian,Cheap,SoHo,12:00,22:00,5,True
+341,Lakefront Place,French,Cheap,Bushwick,08:30,21:00,0,True
+342,Valley Joint,American,Cheap,Eltingville,12:30,19:30,5,False
+343,Oceanfront Cafeteria,Mexican,Medium,Astoria,09:30,23:00,0,False
+344,Cherry Blossom Cafe,Mediterranean,Cheap,Flushing,08:30,19:00,3,False
+345,Vintage Deli,French,Cheap,Flushing,10:30,17:00,3,False
+346,Highlands Grill & Bar,Japanese,Medium,Chelsea,09:00,16:00,2,True
+347,Foggy House,Thai,Cheap,Greenpoint,11:00,19:00,3,False
+348,Flavorful Grill & Bar,American,Cheap,Prospect Heights,09:30,23:30,4,True
+349,Aromatic Deli,Mexican,Cheap,Tompkinsville,11:00,22:00,2,True
+350,Brick Oven Hideaway,Indian,Expensive,Ridgewood,10:30,20:00,2,True
+351,Savory Coffeehouse,Indian,Expensive,Williamsburg,08:30,14:30,1,True
+352,Zesty Ramen House,Mediterranean,Cheap,Tompkinsville,10:00,22:30,1,True
+353,Savory Speakeasy,Mexican,Cheap,Great Kills,12:30,22:00,4,False
+354,Hearty Vineyard,Mediterranean,Cheap,Pelham Bay,08:30,19:00,4,True
+355,Sweet Pea Smoothie Bar,Italian,Medium,Williamsburg,08:30,22:00,4,True
+356,Under the Stars Pub,American,Medium,Upper East Side,10:00,17:00,3,False
+357,Fresh Diner,Indian,Medium,Throgs Neck,11:00,17:00,1,False
+358,Wholesome Vineyard,Indian,Expensive,Bushwick,10:00,18:30,0,True
+359,Zesty Gelato Shop,Italian,Cheap,Astoria,08:30,17:30,1,False
+360,Vintage Diner,Indian,Expensive,Sunnyside,12:00,21:00,2,False
+361,Delectable Place,Indian,Medium,Fordham,09:00,22:00,0,True
+362,Fusion Bakery,American,Medium,Brooklyn Heights,12:00,20:30,0,False
+363,Sapphire Lounge,Japanese,Medium,Stapleton,09:30,16:30,4,True
+364,Aromatic Kitchenette,French,Cheap,Harlem,11:00,22:30,2,False
+365,Classic Cantina,Italian,Cheap,Brooklyn Heights,11:30,23:30,1,True
+366,Gastronomic Cookie Shop,Thai,Expensive,Greenwich Village,09:30,22:00,5,False
+367,Lakefront Oyster Bar,Italian,Medium,Fordham,09:00,17:30,3,True
+368,Vintage Speakeasy,Italian,Medium,Stapleton,08:00,20:00,0,False
+369,Maplewood Gelato Shop,Indian,Cheap,Bedford-Stuyvesant,11:00,19:00,5,True
+370,Serenity Lounge,Mexican,Cheap,Ridgewood,12:00,23:00,3,True
+371,Zen Bakery,Thai,Expensive,Annadale,08:00,15:30,2,False
+372,Summit Brewpub,French,Expensive,Bushwick,10:30,20:00,2,False
+373,Vintage Place,Mexican,Medium,Upper East Side,09:30,19:00,2,False
+374,Wholesome Gelato Shop,Mediterranean,Cheap,Bedford-Stuyvesant,10:30,20:00,0,True
+375,Heavenly Cafeteria,Thai,Expensive,Prospect Heights,09:30,23:30,5,True
+376,Tropical Joint,Mediterranean,Cheap,Greenwich Village,08:30,15:00,1,True
+377,Sizzling Chophouse,American,Cheap,Eltingville,08:00,21:30,3,False
+378,Quaint Place,French,Expensive,Stapleton,12:30,19:30,5,True
+379,Under the Stars House,Chinese,Expensive,Forest Hills,08:30,22:30,1,True
+380,Family Bagel Shop,American,Expensive,Annadale,10:30,18:00,5,False
+381,Oceanfront Kitchenette,Chinese,Expensive,Flushing,09:30,22:30,1,True
+382,Sandy Beach Wine Bar,Italian,Medium,Bushwick,08:00,18:30,2,True
+383,Moonlight Noodle House,Thai,Cheap,Morris Park,12:30,21:00,0,False
+384,Retro Grill & Bar,Mediterranean,Medium,Upper West Side,08:30,18:30,4,False
+385,Yummy Tavern,Chinese,Expensive,Astoria,12:30,19:00,4,False
+386,Zen Tavern,Mexican,Cheap,Upper East Side,09:30,15:00,4,True
+387,Royal Cantina,Mexican,Expensive,Williamsburg,09:30,15:00,2,False
+388,Maplewood Ramen House,Mexican,Medium,Hunts Point,10:30,18:00,3,False
+389,Aromatic Cafeteria,Chinese,Expensive,Sunnyside,08:30,14:30,3,False
+390,Sensational Grill,Mexican,Cheap,Park Slope,12:30,19:30,5,True
+391,Golden Gate Brasserie,Japanese,Expensive,Belmont,09:30,21:30,5,True
+392,Tasty Lounge,Japanese,Expensive,Midtown Manhattan,12:30,23:00,5,False
+393,Fresh Kitchenette,Mexican,Expensive,Pelham Bay,09:30,22:00,5,True
+394,Savory Doughnut Shop,French,Cheap,Jackson Heights,11:00,17:00,2,False
+395,Countryside Brasserie,French,Medium,Pelham Bay,09:30,16:30,4,True
+396,Sapphire Noodle House,Mediterranean,Cheap,Woodside,09:00,21:00,1,False
+397,Crisp Inn,French,Cheap,Great Kills,11:30,22:00,5,True
+398,Delicious Pizzeria,Indian,Medium,Long Island City,10:30,18:00,5,True
+399,Rainforest Frozen Yogurt Shop,Mexican,Cheap,Brooklyn Heights,12:30,19:30,1,True
+400,Exquisite Cuisine,Indian,Cheap,Forest Hills,10:00,19:30,4,True
+401,Delicious Bistro,Japanese,Medium,Greenpoint,10:00,23:30,4,False
+402,Coastal Deli,Indian,Expensive,Astoria,09:30,19:30,5,True
+403,Moonlight Place,Indian,Cheap,St. George,12:00,21:00,4,True
+404,Satisfying Ramen House,Thai,Medium,Bushwick,08:00,16:00,2,False
+405,Family Bakery Cafe,American,Expensive,Sunnyside,08:00,19:30,3,False
+406,Savor Ice Cream Parlor,Mexican,Cheap,Bushwick,12:30,22:00,1,False
+407,Palm Tree Eatery,Mediterranean,Medium,New Dorp,12:00,23:30,0,True
+408,Golden Gate Lounge,Mexican,Cheap,Bushwick,11:30,19:30,5,False
+409,Exquisite Fish House,Italian,Cheap,Park Slope,11:00,18:00,1,False
+410,Coconut Cove Dessert Bar,Indian,Expensive,Lower East Side,11:30,17:30,3,True
+411,Irresistible Whiskey Bar,Mediterranean,Medium,St. George,08:30,22:30,0,False
+412,Delectable Lounge,Italian,Cheap,Prospect Heights,10:00,23:00,3,False
+413,Classic BBQ Joint,French,Medium,Annadale,12:30,22:30,2,True
+414,Sapphire Kitchenette,Thai,Cheap,Bushwick,08:30,23:00,1,True
+415,Sunny Cider House,French,Expensive,New Dorp,12:30,18:30,5,False
+416,Golden Gate Hideaway,Chinese,Expensive,Stapleton,11:30,17:00,0,False
+417,Summit Cereal Bar,French,Expensive,Sunnyside,08:00,18:30,2,True
+418,Elegant Vietnamese Restaurant,American,Cheap,St. George,08:00,21:00,0,True
+419,Summit Juice Joint,Indian,Cheap,Brooklyn Heights,10:00,17:30,2,False
+420,Gastronomic Diner,Mediterranean,Cheap,Long Island City,10:30,23:30,3,False
+421,Ivy League Cantina,American,Cheap,Brooklyn Heights,09:00,23:30,1,False
+422,Aromatic Parlor,American,Expensive,Tribeca,12:30,19:30,2,False
+423,Summit Gastropub,Chinese,Cheap,Westerleigh,11:00,19:00,4,False
+424,Juicy Taphouse,American,Cheap,Upper West Side,10:30,20:00,2,False
+425,Flavorful Gastropub,French,Medium,Pelham Bay,08:00,19:00,0,True
+426,Delicious Noodle House,Indian,Medium,Flushing,10:30,20:30,1,True
+427,Pineapple Eatery,Indian,Cheap,Jackson Heights,12:30,20:00,4,False
+428,Satisfying Brewpub,Mediterranean,Expensive,Park Slope,12:30,22:30,0,False
+429,Foggy House,Japanese,Cheap,Hunts Point,11:00,21:00,1,False
+430,Fusion Winery,Indian,Expensive,Prospect Heights,11:30,19:30,3,False
+431,Sunny Frozen Yogurt Shop,Indian,Cheap,St. George,09:30,23:00,0,False
+432,Ivy League Wine Bar,Mexican,Cheap,Jamaica,10:00,17:30,4,False
+433,Palm Tree Brasserie,Japanese,Cheap,Fordham,10:30,19:00,0,False
+434,Palatable Cafe,Italian,Expensive,Greenwich Village,08:30,18:30,5,False
+435,Savory Bagel Shop,Italian,Medium,Eltingville,09:00,18:00,4,False
+436,Coastal Bakery,Japanese,Cheap,Woodside,12:00,19:30,2,True
+437,Oceanfront Cider House,Mexican,Expensive,Belmont,10:00,22:00,1,False
+438,Rainforest Dive Bar,Indian,Cheap,Prospect Heights,09:00,21:00,5,True
+439,Seaside Cantina,Chinese,Cheap,Greenpoint,11:00,17:00,2,False
+440,Aromatic Eatery,Italian,Medium,Belmont,10:30,23:00,4,False
+441,Family Whiskey Bar,Chinese,Expensive,Long Island City,10:00,19:30,3,True
+442,Fusion Place,Mediterranean,Expensive,Fordham,08:00,16:00,2,True
+443,Fresh Parlor,Chinese,Expensive,Greenpoint,09:00,17:30,2,True
+444,Brick Oven Tapas Bar,French,Cheap,Upper East Side,12:30,20:00,2,False
+445,Quaint Bistro,Thai,Expensive,Woodside,08:30,19:30,4,True
+446,Zesty Dive Bar,French,Expensive,Hunts Point,10:00,16:00,2,True
+447,Hearty Cafeteria,Chinese,Medium,Bushwick,12:30,19:00,5,True
+448,Golden Harvest Oyster House,Japanese,Expensive,Great Kills,11:30,21:00,4,False
+449,Tasty Palace,French,Expensive,Lower East Side,11:30,20:00,3,False
+450,Orchid Chocolate Shop,Japanese,Expensive,Astoria,11:00,18:00,1,False
+451,Delicious Doughnut Shop,Chinese,Expensive,Morris Park,09:00,17:30,1,True
+452,Sizzle Yogurt Shop,American,Expensive,Westerleigh,09:30,22:30,1,True
+453,Retro Cake Shop,Japanese,Medium,Brooklyn Heights,10:30,23:00,3,False
+454,Under the Stars Bakery,Chinese,Expensive,Morris Park,08:30,20:30,4,False
+455,Mouthwatering Bakery,Indian,Expensive,Tribeca,11:30,18:30,5,True
+456,Bamboo Grove Winery,Mediterranean,Cheap,Brooklyn Heights,12:30,20:00,1,False
+457,Irresistible Doughnut Shop,American,Expensive,St. George,10:00,17:30,5,False
+458,Golden Gate Smoothie Bar,Chinese,Medium,Flushing,09:00,16:30,0,True
+459,Under the Stars Pub,Thai,Medium,Long Island City,09:30,19:30,5,True
+460,Highlands Tearoom,Chinese,Cheap,SoHo,11:30,21:30,0,True
+461,Valley Taproom,Mexican,Expensive,Woodside,12:30,20:00,5,False
+462,Mouthwatering Court,Thai,Medium,Great Kills,12:30,18:00,0,True
+463,Island Bar & Grill,American,Expensive,Greenpoint,11:30,22:00,3,True
+464,Classic Bar & Grill,Japanese,Medium,Tottenville,09:30,15:00,4,False
+465,Tender Burger Joint,Japanese,Cheap,St. George,08:00,15:00,2,True
+466,Flavorful Alehouse,Thai,Medium,Jackson Heights,10:00,17:00,5,True
+467,Underground Eatery,Mediterranean,Medium,Flatbush,09:00,15:30,0,True
+468,Exquisite Taproom,Indian,Expensive,Sunnyside,10:00,20:30,3,False
+469,Tender House,American,Medium,Pelham Bay,08:30,16:00,5,False
+470,Hilltop Sushi Bar,Mediterranean,Cheap,Brooklyn Heights,08:00,18:00,1,False
+471,Tasty Tea Room,Italian,Medium,New Dorp,09:00,20:00,0,False
+472,Pineapple Yogurt Shop,Indian,Expensive,Greenpoint,09:30,18:30,1,False
+473,Harbor View Kitchenette,Chinese,Cheap,Tompkinsville,12:30,23:30,5,True
+474,Zesty Winery,American,Medium,Belmont,12:00,22:30,4,True
+475,Flavorful Cuisine,American,Medium,Belmont,12:30,19:00,3,True
+476,Satisfying Deli,Thai,Medium,Prospect Heights,08:30,19:00,5,True
+477,Fresh Distillery,Mexican,Medium,Upper East Side,09:30,15:30,2,True
+478,Oceanfront Eatery,Italian,Expensive,Westerleigh,08:30,22:00,2,True
+479,Gastronomic Restaurant,Chinese,Medium,Long Island City,09:30,18:30,5,True
+480,Royal Cantina,Italian,Cheap,Williamsburg,09:00,18:30,4,False
+481,Homestyle Cafeteria,Mexican,Medium,Hunts Point,10:30,18:30,4,False
+482,Sensational Dessert Bar,Mexican,Expensive,Jamaica,11:00,17:00,0,False
+483,Homestyle Cake Shop,Mediterranean,Cheap,Ridgewood,09:00,23:30,0,False
+484,Mouthwatering Brewery,American,Cheap,Eltingville,09:30,21:30,1,True
+485,Zesty Cake Shop,Thai,Expensive,Upper East Side,08:00,20:30,2,True
+486,Tasty Yogurt Shop,Mediterranean,Medium,Mott Haven,11:30,17:00,4,False
+487,Hilltop Alehouse,Chinese,Cheap,Woodside,08:30,20:30,0,False
+488,Zesty Smoothie Shop,Chinese,Medium,SoHo,10:00,20:00,4,False
+489,Classic Dive Bar,American,Cheap,Ridgewood,10:30,17:30,5,False
+490,Zesty Noodle House,Thai,Expensive,Stapleton,11:00,23:30,3,True
+491,Fresh Noodle House,Indian,Expensive,Williamsburg,10:30,22:00,3,False
+492,Satisfying Grill & Bar,Chinese,Medium,Midtown Manhattan,08:30,15:00,5,False
+493,Tropical Doughnut Shop,French,Expensive,Lower East Side,11:30,22:00,0,False
+494,Zen Oyster House,Italian,Cheap,Greenpoint,08:30,20:30,4,True
+495,Valley Chophouse,Thai,Cheap,New Dorp,12:30,21:30,5,False
+496,Charming Sushi Bar,American,Cheap,Stapleton,09:00,17:00,4,False
+497,Irresistible Chophouse,Chinese,Cheap,Flushing,11:00,21:00,5,True
+498,Divine Dive Bar,Chinese,Cheap,Riverdale,11:00,20:00,2,True
+499,Tropical Juice Bar,Indian,Expensive,Upper West Side,12:00,22:30,3,True
+500,Scrumptious Brasserie,American,Cheap,Tottenville,08:00,22:30,3,True
+501,Gastronomic Tiki Bar,Chinese,Cheap,Stapleton,08:30,16:30,0,False
+502,Royal Joint,Mexican,Cheap,Forest Hills,10:00,19:30,3,True
+503,Firehouse Gelato Shop,Japanese,Expensive,Prospect Heights,12:30,21:00,3,True
+504,Authentic Pizzeria,Chinese,Expensive,Stapleton,12:30,21:30,3,False
+505,Seaside Taco Shack,Italian,Expensive,Tribeca,08:30,20:30,0,False
+506,Wholesome Court,French,Expensive,Belmont,10:30,19:00,5,False
+507,Delicious Coffeehouse,Mediterranean,Medium,Mott Haven,11:00,18:00,0,False
+508,Gourmet Tea Room,Japanese,Expensive,Soundview,08:30,18:30,0,False
+509,Tasty Parlor,Mediterranean,Expensive,Throgs Neck,11:30,20:00,0,False
+510,Royal Cereal Bar,Chinese,Cheap,Greenpoint,11:00,19:00,0,False
+511,Sandy Beach Oyster House,Mexican,Expensive,Crown Heights,10:00,21:30,2,False
+512,Serenity Tearoom,American,Medium,Eltingville,10:00,16:30,0,True
+513,Authentic Brewery,Mediterranean,Cheap,Tottenville,12:00,23:30,5,False
+514,Cozy Lounge,American,Medium,Soundview,08:00,14:30,4,True
+515,Zen Ice Cream Parlor,Thai,Expensive,Westerleigh,11:00,20:30,1,True
+516,Charming Brewery,American,Medium,Morris Park,09:00,20:30,2,True
+517,Coastal Eatery,Thai,Medium,Stapleton,11:00,20:00,5,False
+518,Sensational House,American,Medium,Stapleton,09:00,16:00,3,False
+519,Mountain View Restaurant,Chinese,Expensive,Throgs Neck,11:00,23:30,3,False
+520,Savor Candy Store,Japanese,Cheap,Sunnyside,11:00,22:30,1,False
+521,Spicy Creamery,Chinese,Medium,Flushing,11:30,20:30,1,True
+522,Mouthwatering Lounge,Thai,Medium,SoHo,10:30,23:00,1,True
+523,Divine Grill & Bar,Mexican,Cheap,Crown Heights,08:00,22:30,5,False
+524,Moonshine Joint,Chinese,Cheap,Mott Haven,09:00,20:30,5,False
+525,Tasty Winery,Japanese,Expensive,Jackson Heights,11:00,20:30,2,True
+526,Ivy League Tea Room,Italian,Expensive,Harlem,11:30,17:00,4,False
+527,Underground Winery,Indian,Expensive,Williamsburg,09:00,23:00,5,True
+528,Palatable Fish House,Italian,Medium,Westerleigh,08:30,21:30,2,True
+529,Cherry Blossom Brasserie,Mexican,Expensive,Brooklyn Heights,10:00,19:30,5,True
+530,Divine Joint,Japanese,Expensive,Crown Heights,11:00,22:00,2,False
+531,Divine Smoothie Bar,Thai,Expensive,Midtown Manhattan,10:00,19:00,5,False
+532,Serenity Cantina,Chinese,Expensive,New Dorp,09:00,20:00,0,True
+533,Zesty Diner,Thai,Medium,Ridgewood,09:30,23:00,3,True
+534,Charming Dessert Bar,Indian,Medium,Hunts Point,08:00,18:30,1,True
+535,Yummy Fish House,Chinese,Medium,Stapleton,12:00,21:00,1,False
+536,Seaside Pub,Italian,Expensive,Hunts Point,12:30,18:30,2,True
+537,Island Ramen House,Mexican,Medium,Harlem,09:00,15:00,4,False
+538,Vintage Pub,Chinese,Medium,Annadale,09:30,19:30,5,False
+539,Elegant Cantina,Mexican,Expensive,Eltingville,12:30,18:00,2,False
+540,Underground Brewery,Japanese,Cheap,Park Slope,11:00,18:30,0,True
+541,Fresh Burger Joint,Mexican,Expensive,Upper East Side,10:30,20:30,3,True
+542,Zesty Cookie Shop,Indian,Medium,Sunnyside,08:00,20:30,1,True
+543,Golden Harvest Chophouse,Thai,Cheap,Throgs Neck,10:30,18:30,2,True
+544,Zesty Doughnut Shop,American,Medium,Tompkinsville,10:30,23:30,4,True
+545,Fusion Eatery,Indian,Expensive,Jackson Heights,10:30,18:30,2,False
+546,Quaint House,French,Cheap,Tompkinsville,11:30,17:00,0,True
+547,Valley Tavern,Italian,Medium,Chelsea,10:30,21:00,4,False
+548,Quaint Grill,Italian,Medium,Jackson Heights,12:30,23:00,4,False
+549,Bamboo Grove Spot,Chinese,Expensive,Belmont,08:30,21:00,2,True
+550,Palm Tree Whiskey Bar,Thai,Cheap,Mott Haven,09:00,22:00,3,False
+551,Ivy League Court,French,Medium,Prospect Heights,10:00,19:00,0,False
+552,Spicy Ice Cream Parlor,Japanese,Medium,Jackson Heights,09:30,23:00,2,False
+553,Pineapple Cocktail Lounge,Mediterranean,Cheap,Prospect Heights,10:00,16:30,2,False
+554,Savory Cafe,Mexican,Expensive,Sunnyside,08:30,18:30,4,False
+555,Royal House,French,Cheap,Forest Hills,09:00,23:30,2,True
+556,Crisp Winery,Mexican,Cheap,Astoria,10:00,22:00,3,True
+557,Sandy Beach Winery,Thai,Cheap,Forest Hills,09:00,21:00,5,False
+558,Flavorful Grill & Bar,French,Cheap,Mott Haven,10:00,21:30,4,False
+559,Rooftop Palace,Chinese,Medium,Jackson Heights,10:30,16:00,2,False
+560,Mouthwatering Gastropub,Mediterranean,Cheap,Stapleton,12:30,20:00,4,True
+561,Delectable Grill & Bar,French,Expensive,Bedford-Stuyvesant,09:30,23:00,2,True
+562,Island Gelato Shop,American,Expensive,Greenwich Village,12:30,23:00,1,False
+563,Wholesome House,Indian,Expensive,Greenpoint,10:30,18:00,0,False
+564,Pineapple Eatery,American,Expensive,Soundview,10:00,22:30,3,False
+565,Royal Tavern,Mediterranean,Cheap,Upper East Side,10:30,18:00,2,True
+566,Coconut Cove Gelato Shop,Italian,Cheap,Great Kills,11:30,21:00,1,True
+567,Orchid Winery,Italian,Medium,Riverdale,08:30,18:00,2,False
+568,Valley Steakhouse,Mexican,Expensive,Astoria,09:30,16:00,1,True
+569,Blue Bayou Pastry Shop,Chinese,Medium,Long Island City,12:30,23:30,2,False
+570,Aromatic Coffeehouse,Mediterranean,Medium,Fordham,10:30,22:00,5,False
+571,Moonshine Gastropub,Mexican,Cheap,Eltingville,12:00,18:30,4,True
+572,Countryside House,Japanese,Cheap,Fordham,08:30,15:30,1,False
+573,Scrumptious Court,American,Medium,Bushwick,09:00,15:00,5,True
+574,Charming Cafe,American,Cheap,Park Slope,12:00,19:00,1,True
+575,Homestyle Pub,French,Cheap,Flatbush,10:00,23:30,4,False
+576,Delectable Steakhouse,French,Medium,Tompkinsville,08:30,16:00,2,False
+577,Sunny Cafe,American,Medium,Flushing,12:30,19:00,2,True
+578,Tender Yogurt Shop,Chinese,Medium,Astoria,11:00,22:30,3,True
+579,Bamboo Grove Sushi Bar,Italian,Expensive,Williamsburg,12:30,22:30,1,True
+580,Underground Doughnut Shop,French,Cheap,Tribeca,10:00,23:30,0,True
+581,Charming Bakery,Indian,Expensive,Park Slope,11:30,17:00,2,True
+582,Charming Bar & Grill,American,Expensive,Jackson Heights,11:00,22:30,1,True
+583,Orchid Vineyard,Mexican,Expensive,Lower East Side,08:30,21:00,0,True
+584,Authentic Smoothie Bar,American,Cheap,Upper West Side,09:00,16:00,5,True
+585,Foggy Cookie Shop,Italian,Cheap,Bushwick,11:30,17:30,0,False
+586,Gastronomic Lounge,Japanese,Cheap,Woodside,10:30,22:30,4,True
+587,Hilltop Taco Shack,Italian,Cheap,Prospect Heights,12:00,18:30,2,True
+588,Savory Fish House,Thai,Expensive,Throgs Neck,10:00,20:00,0,False
+589,Tasty Distillery,French,Expensive,Long Island City,12:30,19:00,3,True
+590,Rooftop Winery,Italian,Medium,New Dorp,10:30,19:30,3,True
+591,Charming Inn,Italian,Medium,Bedford-Stuyvesant,09:30,19:00,1,False
+592,Elegant Yogurt Shop,Mediterranean,Expensive,Riverdale,08:30,14:00,0,False
+593,Fresh Brewery,Japanese,Cheap,Astoria,08:00,17:30,3,True
+594,Zesty Noodle House,French,Cheap,Chelsea,12:30,23:30,2,False
+595,Foggy Noodle House,French,Cheap,Riverdale,11:30,20:00,0,True
+596,Flavorful Fish House,American,Medium,Hunts Point,11:00,17:30,2,False
+597,Heavenly Juice Bar,Mediterranean,Expensive,Fordham,09:00,21:00,2,False
+598,Spicy Pastry Shop,Mexican,Cheap,Upper East Side,10:30,18:30,4,False
+599,Mountain View Tavern,Indian,Medium,Pelham Bay,12:30,21:00,2,False
+600,Rustic Smoothie Shop,Thai,Cheap,Forest Hills,08:30,20:00,4,False
+601,Wholesome Candy Store,Mexican,Cheap,Greenpoint,09:30,21:00,0,False
+602,Sizzle Grill,Mexican,Medium,Upper East Side,11:00,17:00,4,False
+603,Harbor View Winery,Japanese,Expensive,Upper West Side,08:00,16:00,3,False
+604,Rustic House,French,Expensive,Soundview,09:00,17:30,0,True
+605,Delicious Kitchenette,Chinese,Expensive,Astoria,09:00,16:30,1,False
+606,Palm Tree Noodle House,Italian,Expensive,Harlem,09:00,18:00,5,False
+607,Irresistible Chophouse,Japanese,Medium,Prospect Heights,12:30,18:30,4,True
+608,Countryside Taphouse,American,Expensive,Bedford-Stuyvesant,08:00,19:00,5,True
+609,Sizzling Cantina,Japanese,Medium,Bushwick,12:30,19:00,2,False
+610,Orchid Gastropub,Chinese,Cheap,Eltingville,12:00,19:30,1,False
+611,Rustic Creamery,Thai,Expensive,Harlem,11:00,21:30,3,True
+612,Homestyle Sushi Bar,American,Cheap,Crown Heights,09:30,18:30,2,True
+613,Flavorful Distillery,Italian,Expensive,Forest Hills,12:00,18:30,0,True
+614,Tender Deli,French,Expensive,Tottenville,12:00,19:00,0,True
+615,Mountain View Cocktail Lounge,Chinese,Cheap,Eltingville,09:00,18:30,1,True
+616,Sunset Grill,Japanese,Cheap,Eltingville,09:30,20:30,1,True
+617,Moonshine Pizzeria,Thai,Cheap,Jamaica,09:30,15:00,3,False
+618,Oceanic Place,Indian,Expensive,Westerleigh,08:00,20:00,4,True
+619,Harbor View Noodle House,Thai,Expensive,Lower East Side,11:00,18:30,4,True
+620,Valley Deli,Mexican,Cheap,Astoria,08:30,21:00,2,False
+621,Fusion Gastropub,Japanese,Cheap,Great Kills,12:00,23:30,1,False
+622,Oceanfront Doughnut Shop,Italian,Medium,Jackson Heights,11:00,23:00,2,True
+623,Spice Route Whiskey Bar,Thai,Expensive,Fordham,09:00,16:00,3,True
+624,Serenity Tea Room,Mexican,Medium,Soundview,08:30,16:30,4,False
+625,Savory Place,French,Expensive,Fordham,11:00,17:30,5,True
+626,Authentic Juice Joint,Indian,Medium,Fordham,12:00,21:30,1,True
+627,Lakefront Vineyard,Mediterranean,Expensive,Upper East Side,09:00,15:30,5,False
+628,Rustic Tiki Bar,Thai,Expensive,Greenpoint,09:30,22:00,0,False
+629,Tropical Oyster House,Indian,Cheap,Mott Haven,10:00,19:00,2,True
+630,Rainforest Brasserie,Indian,Medium,Sunnyside,10:30,20:30,0,True
+631,Classic Gelato Shop,Thai,Cheap,Hunts Point,09:00,15:30,0,True
+632,Savor Chophouse,Chinese,Medium,Pelham Bay,10:00,17:00,1,False
+633,Tropical Wine Bar,Mediterranean,Cheap,Tribeca,08:30,22:00,0,True
+634,Mountain View Cantina,Italian,Expensive,Chelsea,08:30,23:30,0,True
+635,Authentic Tapas Bar,Japanese,Medium,Park Slope,10:00,17:30,2,True
+636,Palm Tree Eatery,Italian,Expensive,Jackson Heights,11:00,18:00,1,True
+637,Zesty Taco Shack,Japanese,Cheap,Tribeca,08:30,19:30,2,False
+638,Mountain View Alehouse,Mediterranean,Expensive,Williamsburg,11:30,23:30,5,False
+639,Highlands Grill,Thai,Medium,Greenwich Village,09:00,19:00,4,True
+640,Harbor View Pastry Shop,Japanese,Medium,Bushwick,11:30,21:30,2,False
+641,Rooftop Eatery,Italian,Cheap,Ridgewood,12:00,21:30,3,True
+642,Flavorful Juice Bar,Japanese,Medium,Great Kills,10:30,17:30,2,False
+643,Highlands Steakhouse,Mexican,Cheap,Hunts Point,08:00,16:00,5,False
+644,Divine Smoothie Shop,American,Cheap,Tottenville,10:30,18:30,2,False
+645,Aromatic Burger Joint,French,Expensive,Astoria,09:30,16:30,2,True
+646,Seaside Candy Store,Thai,Cheap,Annadale,10:00,22:30,4,True
+647,Savory Crepery,Thai,Medium,Woodside,10:30,16:30,2,True
+648,Gastronomic Dessert Bar,Mexican,Cheap,Harlem,10:00,21:00,5,True
+649,Moonshine Alehouse,Indian,Expensive,Brooklyn Heights,10:30,21:30,2,True
+650,Spice Route Cafeteria,Mediterranean,Medium,Tottenville,09:00,15:30,2,False
+651,Savory Parlor,Chinese,Cheap,Park Slope,08:30,15:00,5,True
+652,Exquisite Yogurt Shop,Japanese,Medium,Throgs Neck,08:30,20:30,3,False
+653,Moonshine Alehouse,Thai,Cheap,Belmont,10:30,22:00,2,True
+654,Savory Sushi Bar,American,Expensive,Morris Park,10:30,20:00,0,False
+655,Retro Gelato Shop,Indian,Expensive,Harlem,11:30,17:00,5,True
+656,Sapphire Bagel Shop,French,Medium,Great Kills,08:30,17:00,5,False
+657,Savory Gelato Shop,Thai,Medium,Eltingville,10:00,20:30,2,False
+658,Zen Speakeasy,French,Cheap,Throgs Neck,08:30,15:30,0,False
+659,Pineapple Taco Shack,Mediterranean,Expensive,Tribeca,08:30,16:30,1,False
+660,Zesty Chocolate Shop,French,Cheap,St. George,11:30,19:00,4,True
+661,Zesty Cantina,Mexican,Cheap,Forest Hills,08:30,22:30,4,True
+662,Riverside Bistro,Mediterranean,Medium,Greenwich Village,10:30,19:30,0,True
+663,Serenity Kitchen,French,Cheap,Woodside,08:30,18:00,1,True
+664,Flavorful Tearoom,French,Expensive,Brooklyn Heights,09:00,16:30,1,True
+665,Gastronomic Cafeteria,Chinese,Cheap,Morris Park,12:30,18:30,3,True
+666,Sapphire Wine Bar,Mexican,Medium,Long Island City,09:30,17:00,3,False
+667,Countryside Crepery,Mediterranean,Expensive,Greenpoint,11:00,20:30,3,False
+668,Tropical Cookie Shop,American,Medium,Astoria,11:00,21:30,1,False
+669,Valley Gastropub,Italian,Cheap,Pelham Bay,10:00,20:00,3,True
+670,Aromatic Cantina,Indian,Cheap,St. George,12:30,18:00,2,True
+671,Golden Harvest Smokehouse,Indian,Cheap,Great Kills,09:30,20:00,5,True
+672,Wholesome Restaurant,Japanese,Medium,Bedford-Stuyvesant,09:00,22:30,0,False
+673,Satisfying Gastropub,Chinese,Expensive,Upper West Side,09:30,22:30,5,False
+674,Sweet Pea Oyster Bar,American,Medium,Ridgewood,10:00,21:00,1,False
+675,Mouthwatering Diner,French,Expensive,Tribeca,09:00,22:00,2,True
+676,Palatable Tearoom,Italian,Cheap,Brooklyn Heights,10:00,20:00,0,False
+677,Countryside Taproom,Mediterranean,Cheap,Pelham Bay,09:30,19:00,5,False
+678,Retro Noodle House,Indian,Medium,Ridgewood,08:30,14:30,4,True
+679,Flavorful Tavern,Italian,Expensive,SoHo,09:30,18:30,2,False
+680,Oceanfront Joint,Chinese,Cheap,Soundview,10:30,17:30,0,False
+681,Brick Oven Brewpub,Italian,Medium,Tompkinsville,11:30,23:30,5,True
+682,Moonshine House,Mexican,Medium,Tompkinsville,10:30,19:00,0,True
+683,Royal Fish House,Indian,Medium,Fordham,09:00,19:00,3,False
+684,Heavenly Tea Room,Japanese,Cheap,Jamaica,08:30,23:00,2,False
+685,Urban Cafeteria,Thai,Medium,Jamaica,09:30,15:00,1,True
+686,Spice Route Crepery,Thai,Expensive,Fordham,08:00,18:30,3,True
+687,Sensational Cafe,American,Expensive,Woodside,11:00,23:00,5,True
+688,Gastronomic Chophouse,Italian,Expensive,Upper East Side,10:30,23:00,4,True
+689,Homestyle Parlor,Indian,Medium,SoHo,12:00,19:00,3,True
+690,Coastal Frozen Yogurt Shop,Thai,Medium,Bushwick,10:00,18:30,2,False
+691,Hilltop Taco Shack,American,Cheap,Tribeca,08:00,17:30,4,True
+692,Mountain View Bakery Cafe,Indian,Medium,Brooklyn Heights,12:30,23:30,4,False
+693,Mouthwatering Cake Shop,American,Expensive,Flatbush,09:00,15:00,2,True
+694,Classic Lounge,Japanese,Expensive,Annadale,08:30,21:00,1,False
+695,Authentic Oyster Bar,Thai,Cheap,Upper West Side,12:30,20:30,2,True
+696,Elegant Pastry Shop,Mexican,Medium,Tribeca,12:30,23:30,4,False
+697,Vintage Cafeteria,Mediterranean,Medium,Bedford-Stuyvesant,11:30,22:00,1,False
+698,Palatable Tavern,Japanese,Cheap,Harlem,08:30,16:00,4,True
+699,Flavorful Tea Room,Mediterranean,Medium,Belmont,11:00,17:00,2,False
+700,Elegant Lounge,Italian,Medium,Flatbush,08:30,21:30,2,False
+701,Urban Wine Bar,Chinese,Expensive,Tottenville,10:00,20:00,2,False
+702,Sunset Pizzeria,American,Expensive,Chelsea,09:00,22:30,3,False
+703,Wholesome Gelato Shop,Chinese,Medium,Woodside,09:30,23:00,3,True
+704,Coastal Kitchenette,Japanese,Cheap,Ridgewood,09:00,19:30,2,True
+705,Sapphire Pub,Italian,Medium,Harlem,08:30,18:30,4,False
+706,Zen Taproom,Japanese,Expensive,Belmont,10:00,22:00,0,True
+707,Rustic Joint,Mediterranean,Expensive,Greenpoint,09:00,18:00,0,True
+708,Irresistible Burger Joint,French,Cheap,Prospect Heights,08:30,15:30,0,False
+709,Serenity Bagel Shop,American,Medium,Harlem,08:00,16:00,5,True
+710,Lakefront Tapas Bar,Thai,Cheap,Long Island City,11:30,22:00,3,True
+711,Blue Bayou House,Italian,Medium,Soundview,11:30,22:30,3,True
+712,Palm Tree Kitchenette,Italian,Expensive,Park Slope,11:30,17:00,2,False
+713,Sandy Beach Inn,Mediterranean,Medium,Annadale,09:00,19:30,4,False
+714,Island Tea Room,Mediterranean,Medium,Riverdale,08:30,19:00,4,False
+715,Palm Tree Fish House,American,Cheap,Ridgewood,11:30,20:30,5,True
+716,Homestyle Chocolate Shop,Mexican,Expensive,Mott Haven,12:00,23:30,3,False
+717,Riverside Tiki Bar,Mexican,Cheap,Westerleigh,09:00,23:30,2,False
+718,Vintage Grill,Thai,Cheap,Bushwick,08:00,17:30,5,False
+719,Lakefront Deli,French,Medium,Riverdale,08:30,23:00,3,True
+720,Gourmet Parlor,Mexican,Medium,Eltingville,11:00,19:30,3,False
+721,Fusion Chophouse,Mexican,Cheap,Flatbush,11:30,23:30,4,False
+722,Zen Deli,Thai,Cheap,Sunnyside,11:30,23:00,0,False
+723,Retro Lodge,Japanese,Cheap,Sunnyside,09:30,19:30,5,False
+724,Exquisite Burger Joint,French,Cheap,Harlem,10:30,18:00,4,False
+725,Retro Bakery,Indian,Cheap,Crown Heights,08:30,21:30,4,True
+726,Delectable Chocolate Shop,Mediterranean,Cheap,Tottenville,10:00,19:00,1,False
+727,Blue Bayou Doughnut Shop,American,Expensive,Lower East Side,09:30,23:00,5,False
+728,Crisp Court,Italian,Cheap,SoHo,12:30,23:30,2,False
+729,Spicy Speakeasy,Chinese,Cheap,Jamaica,09:30,17:30,5,False
+730,Tropical Brasserie,Thai,Medium,Brooklyn Heights,11:00,21:00,3,True
+731,Scrumptious Grill,Chinese,Expensive,Long Island City,08:00,15:30,2,True
+732,Divine Ice Cream Parlor,American,Expensive,Fordham,11:00,17:00,2,False
+733,Palatable Restaurant,Thai,Expensive,Brooklyn Heights,10:30,18:30,2,True
+734,Bamboo Grove Yogurt Shop,French,Expensive,Great Kills,09:30,15:00,0,True
+735,Savory Hideaway,Mediterranean,Expensive,Forest Hills,10:30,20:30,0,True
+736,Brick Oven Noodle House,French,Expensive,Astoria,12:30,20:30,4,False
+737,Charming BBQ Joint,Mexican,Cheap,Fordham,08:00,22:00,0,True
+738,Royal Cookie Shop,Italian,Expensive,Sunnyside,11:30,18:30,5,True
+739,Tropical Steakhouse,Japanese,Cheap,Prospect Heights,12:30,23:00,0,False
+740,Riverside Grill & Bar,Mediterranean,Cheap,Tompkinsville,10:00,23:00,5,True
+741,Rooftop Place,Italian,Cheap,Flushing,08:00,22:30,2,False
+742,Wholesome Joint,Thai,Cheap,Annadale,12:30,18:00,1,False
+743,Maplewood Dive Bar,Italian,Cheap,Morris Park,08:00,22:00,2,True
+744,Coconut Cove Cantina,Italian,Cheap,Chelsea,10:00,19:30,3,False
+745,Succulent Inn,Italian,Medium,Morris Park,11:30,21:30,2,True
+746,Orchid Bakery,American,Cheap,Bedford-Stuyvesant,10:30,16:00,5,False
+747,Ivy League Court,American,Medium,Fordham,10:00,19:30,1,True
+748,Sizzling Cuisine,Japanese,Medium,Williamsburg,08:00,15:00,4,True
+749,Oceanfront Crepery,Indian,Medium,Bedford-Stuyvesant,08:30,22:00,5,True
+750,Fresh Kitchenette,Mexican,Expensive,Flushing,11:30,17:00,2,False
+751,Highlands Lounge,Indian,Expensive,Ridgewood,10:00,22:30,3,True
+752,Foggy Brewpub,Italian,Cheap,Chelsea,09:30,17:30,3,True
+753,Brick Oven Hideaway,Indian,Cheap,Williamsburg,09:00,22:30,5,False
+754,Savory Speakeasy,Thai,Cheap,Throgs Neck,10:00,22:30,3,True
+755,Retro Inn,French,Cheap,Bushwick,11:00,18:30,4,True
+756,Sapphire Gelato Shop,Indian,Expensive,Flushing,12:00,23:00,1,True
+757,Palatable Spot,Italian,Cheap,Upper East Side,08:00,22:30,0,True
+758,Sunny Cider House,Chinese,Medium,Prospect Heights,08:30,15:00,5,True
+759,Juicy Boulangerie,Indian,Medium,Sunnyside,09:30,20:00,2,True
+760,Aromatic Joint,Italian,Medium,St. George,12:30,21:30,1,False
+761,Quaint Deli,Mexican,Expensive,New Dorp,10:30,20:30,3,False
+762,Valley Taproom,Thai,Medium,Greenpoint,12:00,18:30,3,True
+763,Fresh Tea Room,Mediterranean,Cheap,Bedford-Stuyvesant,09:00,19:00,2,True
+764,Flavorful Doughnut Shop,Chinese,Cheap,Flushing,10:30,20:30,4,True
+765,Sunset Parlor,Italian,Expensive,Upper West Side,08:00,19:30,5,True
+766,Golden Harvest Taphouse,Italian,Expensive,Woodside,10:30,23:30,1,False
+767,Scrumptious Bakery,French,Cheap,Westerleigh,11:30,18:00,2,False
+768,Aromatic Fish House,Japanese,Cheap,Lower East Side,09:00,19:30,3,True
+769,Ivy League Lodge,Italian,Expensive,New Dorp,09:30,23:00,5,False
+770,Cherry Blossom Parlor,Indian,Expensive,Greenpoint,08:00,17:30,1,False
+771,Zesty Noodle House,Japanese,Cheap,Chelsea,09:30,17:00,5,False
+772,Juicy Vietnamese Restaurant,Chinese,Medium,Forest Hills,11:30,21:00,3,True
+773,Retro Vineyard,Mediterranean,Expensive,Tottenville,11:30,18:00,5,False
+774,Tender Joint,Indian,Medium,Astoria,08:30,21:30,2,False
+775,Flavorful Bakery,Mediterranean,Cheap,Westerleigh,11:00,23:30,2,False
+776,Riverside Whiskey Bar,Italian,Cheap,Brooklyn Heights,12:00,18:30,1,True
+777,Rooftop Kitchen,Mediterranean,Cheap,Fordham,11:30,18:30,5,False
+778,Elegant Grill & Bar,Chinese,Medium,Morris Park,10:00,23:30,2,True
+779,Zesty Steakhouse,Chinese,Medium,Brooklyn Heights,11:30,23:30,3,False
+780,Family Smoothie Bar,American,Cheap,Greenpoint,10:00,17:00,3,False
+781,Fresh Winery,Chinese,Cheap,Long Island City,11:00,20:00,0,True
+782,Island Lounge,Italian,Cheap,Jamaica,10:00,17:30,5,False
+783,Oceanfront Cocktail Lounge,French,Cheap,Forest Hills,08:00,19:30,0,False
+784,Cherry Blossom Smokehouse,Italian,Expensive,Crown Heights,08:30,14:30,5,True
+785,Sunny Kitchenette,Mediterranean,Expensive,Jackson Heights,09:00,22:30,5,True
+786,Rustic Taproom,Mediterranean,Expensive,Hunts Point,12:30,18:30,0,True
+787,Mouthwatering Cookie Shop,Indian,Cheap,Chelsea,11:00,17:30,2,True
+788,Gourmet Noodle House,Mediterranean,Cheap,Pelham Bay,08:00,19:00,3,True
+789,Golden Gate Pub,Indian,Cheap,Belmont,09:30,18:30,1,False
+790,Maplewood Yogurt Shop,Japanese,Cheap,Harlem,11:00,23:30,0,True
+791,Underground Bakery Cafe,Thai,Medium,Upper East Side,11:00,17:00,0,False
+792,Crisp Crepery,Indian,Cheap,Great Kills,10:30,23:00,4,False
+793,Scrumptious Pizzeria,Italian,Medium,Astoria,10:30,22:00,1,False
+794,Sizzling Cantina,American,Cheap,Flatbush,12:00,23:30,2,True
+795,Hearty Grill,Mexican,Medium,Riverdale,08:30,21:30,4,True
+796,Spicy Winery,Thai,Medium,Greenpoint,09:00,18:00,3,False
+797,Rustic Inn,Mexican,Expensive,Hunts Point,09:00,17:00,2,True
+798,Hilltop Sushi Bar,Chinese,Medium,Stapleton,09:30,20:00,1,False
+799,Heavenly Whiskey Bar,Mexican,Expensive,Morris Park,12:00,20:30,0,False
+800,Sapphire Crepery,Chinese,Expensive,Hunts Point,12:30,23:30,1,True
+801,Family Kitchen,Japanese,Expensive,Bedford-Stuyvesant,11:30,23:00,1,True
+802,Sizzle Diner,Indian,Medium,Long Island City,10:00,16:30,1,False
+803,Valley Tea Room,Italian,Expensive,Williamsburg,10:30,16:00,4,False
+804,Heavenly Cuisine,Italian,Medium,Eltingville,09:30,21:30,5,True
+805,Yummy Cider House,American,Expensive,Belmont,09:00,19:00,0,False
+806,Moonlight Winery,Chinese,Cheap,Upper East Side,09:30,19:30,2,False
+807,Rustic Court,Indian,Medium,Westerleigh,09:30,22:30,5,False
+808,Blue Bayou Juice Bar,American,Expensive,Tottenville,11:30,23:30,1,False
+809,Tender Chophouse,French,Cheap,Greenwich Village,08:00,16:30,1,False
+810,Sapphire Noodle House,Indian,Cheap,Harlem,10:00,22:30,1,False
+811,Spice Route Cookie Shop,American,Expensive,Greenwich Village,10:30,18:30,4,True
+812,Vintage Candy Store,Japanese,Medium,Mott Haven,08:30,14:30,2,True
+813,Spicy Inn,French,Medium,Ridgewood,12:30,21:30,2,False
+814,Tasty Fish House,Chinese,Cheap,Astoria,10:30,22:00,1,False
+815,Rainforest Grill & Bar,Mediterranean,Expensive,Tompkinsville,11:30,21:00,2,True
+816,Golden Gate Sushi Bar,Chinese,Cheap,Ridgewood,11:30,21:30,0,True
+817,Island Fish House,Mexican,Expensive,Bedford-Stuyvesant,10:30,19:00,3,False
+818,Fresh Oyster Bar,Japanese,Medium,Tompkinsville,11:30,23:00,3,True
+819,Palatable Taproom,Thai,Expensive,Flatbush,10:00,19:30,2,False
+820,Bamboo Grove Palace,Indian,Expensive,Prospect Heights,10:00,21:00,3,False
+821,Serenity Kitchenette,Indian,Medium,Long Island City,09:30,18:30,1,True
+822,Underground Court,Japanese,Medium,Park Slope,10:30,21:00,5,False
+823,Rustic Doughnut Shop,Indian,Medium,Flushing,12:00,18:00,5,False
+824,Mountain View Grill,Mexican,Cheap,Soundview,11:00,21:00,3,False
+825,Rooftop Palace,Italian,Medium,Astoria,08:30,21:30,1,True
+826,Retro Tavern,Indian,Medium,Crown Heights,08:00,16:30,3,True
+827,Retro Tea Room,Mediterranean,Expensive,Jackson Heights,12:30,20:00,1,True
+828,Sunset Burger Joint,Indian,Medium,Upper East Side,10:00,18:30,1,False
+829,Moonshine Eatery,Italian,Medium,Crown Heights,11:30,17:00,3,False
+830,Tropical Court,French,Medium,Upper West Side,10:30,17:00,0,True
+831,Ivy League Frozen Yogurt Shop,American,Medium,Morris Park,11:30,22:30,5,False
+832,Sensational Spot,Thai,Expensive,Belmont,09:00,18:00,5,False
+833,Serenity House,Indian,Cheap,Greenpoint,11:30,17:30,4,True
+834,Harbor View Winery,Chinese,Expensive,Bushwick,10:30,19:00,2,False
+835,Vintage Cafeteria,Mexican,Expensive,Greenpoint,10:30,23:00,4,False
+836,Aromatic Bar & Grill,American,Cheap,Mott Haven,10:00,18:00,2,True
+837,Seaside Donut Store,Mexican,Expensive,Soundview,08:00,20:30,4,True
+838,Quaint Court,French,Cheap,Soundview,08:00,15:30,3,False
+839,Flavorful Cuisine,Mexican,Medium,Annadale,12:30,21:30,0,True
+840,Bamboo Grove Lounge,Mediterranean,Medium,Upper East Side,12:00,20:00,2,False
+841,Heavenly Joint,Indian,Cheap,Bushwick,09:30,15:00,1,True
+842,Sandy Beach Bistro,Italian,Expensive,Annadale,08:00,19:00,4,True
+843,Crisp Grill & Bar,Japanese,Expensive,Westerleigh,10:30,21:00,0,True
+844,Coastal Lodge,French,Cheap,Upper West Side,08:00,18:30,2,True
+845,Golden Gate Tea Room,Chinese,Expensive,Tottenville,10:00,18:30,4,True
+846,Satisfying Smokehouse,French,Cheap,Belmont,11:30,21:00,0,False
+847,Flavorful Whiskey Bar,Mediterranean,Expensive,Morris Park,12:00,22:30,0,True
+848,Authentic Eatery,Mediterranean,Expensive,Stapleton,09:30,18:00,5,True
+849,Juicy Alehouse,American,Medium,Woodside,12:00,22:00,2,True
+850,Hilltop Burger Joint,Mediterranean,Expensive,Greenpoint,11:30,19:00,4,True
+851,Authentic Dessert Bar,Thai,Cheap,Crown Heights,12:00,22:00,1,True
+852,Gourmet Taproom,Mexican,Expensive,Stapleton,11:00,22:00,4,False
+853,Serenity Joint,American,Expensive,SoHo,10:00,17:00,2,True
+854,Heavenly Cantina,Mediterranean,Expensive,Great Kills,08:00,15:00,1,False
+855,Wholesome Bakery,Mediterranean,Medium,Woodside,08:30,19:30,2,False
+856,Coconut Cove Place,Chinese,Medium,Bedford-Stuyvesant,10:30,23:30,1,True
+857,Orchid Joint,Thai,Cheap,Belmont,11:00,18:30,3,True
+858,Countryside Pastry Shop,French,Expensive,Lower East Side,11:00,22:00,4,True
+859,Homestyle Grill,American,Medium,Soundview,12:00,21:30,4,True
+860,Spice Route House,Indian,Cheap,Ridgewood,10:30,22:00,0,False
+861,Family Bistro,American,Medium,Greenpoint,08:00,18:30,3,False
+862,Yummy Yogurt Shop,Mexican,Expensive,Astoria,09:30,16:30,2,False
+863,Authentic Lodge,Indian,Cheap,Stapleton,08:30,14:30,0,True
+864,Bamboo Grove Kitchenette,Chinese,Expensive,Jamaica,10:00,16:30,5,False
+865,Sweet Pea Noodle House,Indian,Cheap,Fordham,11:00,19:00,0,False
+866,Hilltop Restaurant,American,Cheap,Woodside,09:00,19:30,2,True
+867,Cherry Blossom Fish House,Mexican,Medium,Williamsburg,12:00,18:30,1,True
+868,Countryside Dive Bar,Italian,Medium,Greenpoint,09:00,17:00,4,True
+869,Riverside Burger Joint,Indian,Medium,Hunts Point,12:00,23:00,1,False
+870,Fresh Cantina,French,Expensive,Mott Haven,09:00,21:30,0,True
+871,Rustic Speakeasy,Mediterranean,Medium,Upper West Side,12:00,21:30,2,True
+872,Seaside Yogurt Shop,Chinese,Expensive,Brooklyn Heights,10:00,20:30,0,True
+873,Rustic Parlor,Japanese,Expensive,Woodside,08:30,22:00,0,True
+874,Homestyle Burger Joint,Italian,Expensive,Greenpoint,12:00,19:30,4,True
+875,Maplewood Tapas Bar,Indian,Expensive,Riverdale,11:30,17:30,4,True
+876,Brick Oven Juice Joint,Japanese,Expensive,Park Slope,09:00,15:00,2,False
+877,Irresistible Vietnamese Restaurant,Thai,Cheap,Bedford-Stuyvesant,10:00,20:30,0,False
+878,Riverside Creamery,Mediterranean,Medium,Mott Haven,09:30,15:30,4,True
+879,Succulent House,Thai,Medium,Prospect Heights,10:30,23:00,5,True
+880,Hearty Lodge,French,Cheap,Tribeca,11:30,17:30,4,False
+881,Classic Eatery,French,Expensive,Tottenville,09:00,15:00,3,True
+882,Retro Lodge,Thai,Cheap,Stapleton,08:30,21:00,2,False
+883,Fresh Cafe,Italian,Cheap,Hunts Point,11:30,18:00,1,True
+884,Blue Bayou Kitchenette,French,Expensive,Williamsburg,09:00,19:30,4,True
+885,Delectable Ice Cream Parlor,Chinese,Expensive,Bedford-Stuyvesant,12:30,20:00,3,False
+886,Delicious Dive Bar,Mediterranean,Medium,Mott Haven,09:00,20:00,1,False
+887,Irresistible Place,French,Expensive,Tribeca,12:30,21:00,0,False
+888,Spice Route Pastry Shop,Mexican,Cheap,Pelham Bay,10:30,18:00,3,True
+889,Spicy Vineyard,Mediterranean,Cheap,Flushing,08:30,14:00,3,True
+890,Rustic Smoothie Shop,Italian,Medium,Hunts Point,11:00,19:00,0,False
+891,Sandy Beach Cafeteria,Mexican,Medium,Morris Park,11:30,22:30,5,True
+892,Aromatic Ramen House,Thai,Cheap,Eltingville,09:00,21:00,1,True
+893,Oceanic Chocolate Shop,Japanese,Expensive,Fordham,11:30,22:30,5,True
+894,Coastal Brasserie,Mexican,Cheap,Bushwick,10:00,23:00,1,True
+895,Family Cuisine,Japanese,Cheap,Brooklyn Heights,12:30,23:30,3,True
+896,Flavorful Restaurant,American,Cheap,Stapleton,08:30,23:00,4,False
+897,Sunset Grill,French,Expensive,Hunts Point,11:30,21:00,3,False
+898,Delectable House,Mediterranean,Medium,Prospect Heights,12:30,19:30,5,False
+899,Tender Vineyard,Thai,Expensive,Stapleton,09:00,17:00,3,True
+900,Palatable House,American,Cheap,Lower East Side,08:30,14:00,1,True
+901,Hilltop Gastropub,Mediterranean,Cheap,New Dorp,12:30,18:30,5,True
+902,Blue Bayou Grill & Bar,Thai,Cheap,Soundview,10:00,23:00,0,False
+903,Cherry Blossom Hideaway,Mexican,Cheap,Astoria,08:30,17:00,3,False
+904,Yummy Cafeteria,Japanese,Medium,Upper West Side,11:30,21:30,1,False
+905,Rustic Grill & Bar,Mexican,Medium,Bedford-Stuyvesant,08:30,23:30,5,False
+906,Rooftop Speakeasy,Indian,Medium,Bedford-Stuyvesant,09:30,19:30,0,False
+907,Hearty Joint,Mexican,Medium,Chelsea,10:00,16:30,0,True
+908,Aromatic Brasserie,Italian,Medium,Greenpoint,08:30,23:00,3,True
+909,Authentic Bakery Cafe,American,Medium,Long Island City,09:30,21:30,4,False
+910,Zesty Cafeteria,Japanese,Medium,Midtown Manhattan,12:30,21:30,1,True
+911,Flavorful Spot,Mediterranean,Medium,Park Slope,09:30,22:00,2,True
+912,Lakefront Parlor,Indian,Medium,Bushwick,10:00,17:00,3,True
+913,Rainforest Yogurt Shop,French,Medium,Eltingville,12:30,19:00,5,False
+914,Cozy Brasserie,French,Cheap,SoHo,12:00,22:00,1,True
+915,Hilltop Ice Cream Parlor,French,Expensive,Woodside,09:30,19:00,2,False
+916,Scrumptious Coffeehouse,French,Cheap,Astoria,12:00,23:00,4,True
+917,Spice Route Speakeasy,American,Expensive,Belmont,09:30,20:00,5,True
+918,Gastronomic Grill,Indian,Expensive,Crown Heights,10:30,18:00,4,False
+919,Orchid Steakhouse,Indian,Cheap,Throgs Neck,09:30,22:30,1,False
+920,Succulent Brewpub,Japanese,Expensive,Park Slope,08:30,20:00,4,True
+921,Flavorful Oyster House,Italian,Medium,Upper East Side,11:30,23:00,4,False
+922,Zesty Brasserie,American,Medium,Tottenville,09:30,22:00,0,False
+923,Royal Burger Joint,Mexican,Expensive,Harlem,10:00,16:00,1,False
+924,Authentic Grill & Bar,Japanese,Expensive,Tompkinsville,08:00,19:30,1,False
+925,Palm Tree Diner,Mediterranean,Cheap,Forest Hills,12:30,21:00,1,True
+926,Wholesome Grill & Bar,Japanese,Expensive,Bedford-Stuyvesant,11:30,17:30,1,True
+927,Vintage Cantina,Indian,Cheap,Westerleigh,09:30,23:30,2,True
+928,Coastal Smoothie Bar,Indian,Cheap,Morris Park,11:00,20:00,2,False
+929,Yummy Tearoom,American,Cheap,Eltingville,10:00,22:30,1,True
+930,Juicy Brewpub,Italian,Expensive,Bushwick,12:30,23:30,5,False
+931,Savory Tapas Bar,French,Medium,Upper West Side,09:30,17:30,4,True
+932,Highlands Cake Shop,Italian,Cheap,Crown Heights,11:30,17:00,3,True
+933,Tender Dive Bar,Chinese,Medium,Flushing,10:30,23:00,4,True
+934,Tender Oyster Bar,Thai,Cheap,Throgs Neck,10:30,18:00,2,True
+935,Divine Lounge,Indian,Medium,Ridgewood,11:30,17:30,0,False
+936,Sunset Lounge,Italian,Cheap,Crown Heights,11:00,20:30,0,True
+937,Delectable Oyster Bar,Thai,Expensive,Park Slope,12:00,21:00,5,True
+938,Blue Bayou Tea Room,American,Medium,Morris Park,11:00,21:30,0,False
+939,Vintage Cookie Shop,Japanese,Cheap,Tottenville,08:30,21:00,5,False
+940,Coconut Cove Diner,Thai,Expensive,SoHo,11:00,18:30,1,False
+941,Spice Route Ice Cream Parlor,Mediterranean,Medium,Chelsea,09:00,16:00,5,True
+942,Aromatic Vineyard,American,Cheap,Chelsea,10:00,22:30,4,False
+943,Scrumptious Cocktail Lounge,French,Expensive,Riverdale,12:00,19:00,0,True
+944,Serenity Eatery,Thai,Medium,Flushing,09:00,16:30,5,False
+945,Cherry Blossom Kitchen,American,Cheap,Greenwich Village,12:30,21:00,3,False
+946,Pineapple Juice Joint,Mediterranean,Expensive,Brooklyn Heights,08:00,18:30,3,False
+947,Sweet Pea Grill & Bar,Mediterranean,Medium,Flatbush,10:30,23:30,1,False
+948,Palatable Creamery,Mediterranean,Expensive,Harlem,10:30,17:00,5,False
+949,Heavenly Fish House,Thai,Medium,Flatbush,11:00,18:30,4,False
+950,Fresh Winery,Mediterranean,Cheap,Westerleigh,09:00,22:30,2,False
+951,Cherry Blossom Vineyard,Japanese,Expensive,Long Island City,12:30,21:00,4,False
+952,Juicy Lounge,Japanese,Cheap,Crown Heights,10:30,19:30,1,True
+953,Palatable Tea Room,American,Cheap,Bedford-Stuyvesant,08:30,21:00,5,True
+954,Seaside Oyster House,French,Expensive,Pelham Bay,08:00,22:00,4,True
+955,Firehouse Bar & Grill,French,Expensive,SoHo,09:00,19:00,3,False
+956,Hilltop Yogurt Shop,Mediterranean,Medium,Hunts Point,08:00,18:30,0,True
+957,Satisfying Chocolate Shop,American,Expensive,Westerleigh,09:00,16:30,0,False
+958,Delicious Restaurant,Italian,Expensive,Lower East Side,12:00,21:30,1,False
+959,Mouthwatering Joint,Italian,Medium,Tompkinsville,10:00,20:00,2,False
+960,Retro Cocktail Lounge,American,Expensive,SoHo,11:00,21:30,1,False
+961,Orchid Fish House,Indian,Expensive,Ridgewood,09:30,16:30,1,True
+962,Flavorful Brasserie,Indian,Expensive,Upper West Side,09:30,17:00,5,False
+963,Moonshine Bakery Cafe,Japanese,Medium,Stapleton,09:30,23:00,3,True
+964,Exquisite Brasserie,Chinese,Expensive,Tribeca,11:30,21:30,5,False
+965,Vintage Chophouse,Indian,Medium,Flushing,11:30,17:30,5,True
+966,Classic Noodle House,Indian,Expensive,Lower East Side,08:30,16:00,3,True
+967,Sandy Beach Deli,Indian,Cheap,Brooklyn Heights,10:30,16:30,2,False
+968,Royal Eatery,Italian,Medium,Brooklyn Heights,11:00,18:30,2,False
+969,Royal BBQ Joint,Japanese,Medium,Soundview,10:30,23:00,0,True
+970,Brick Oven Seafood Shack,American,Medium,Stapleton,09:30,20:30,1,True
+971,Brick Oven Gelato Shop,Italian,Medium,Forest Hills,09:00,20:00,4,True
+972,Moonlight Grill,American,Cheap,Tompkinsville,09:00,17:30,0,False
+973,Spice Route Candy Store,Chinese,Medium,Greenpoint,11:00,19:30,1,False
+974,Island Cake Shop,American,Expensive,Prospect Heights,12:00,22:30,4,False
+975,Sunny Grill,Indian,Expensive,Astoria,09:30,19:30,2,True
+976,Riverside Dessert Bar,Thai,Cheap,Prospect Heights,09:00,18:30,4,True
+977,Spicy Crepery,Japanese,Cheap,Upper East Side,09:30,23:30,4,False
+978,Delicious Lodge,Italian,Expensive,Jamaica,10:30,22:30,0,False
+979,Crisp Cuisine,American,Medium,Upper East Side,09:30,15:00,4,True
+980,Sandy Beach Tearoom,Mediterranean,Medium,Brooklyn Heights,08:30,22:00,1,True
+981,Tropical Doughnut Shop,Italian,Medium,Upper West Side,10:00,22:00,5,True
+982,Yummy Burger Joint,Thai,Cheap,Harlem,11:00,17:30,0,True
+983,Blue Bayou Burger Joint,Italian,Expensive,Tottenville,12:00,19:30,0,True
+984,Foggy Cocktail Lounge,Mediterranean,Cheap,Ridgewood,08:30,16:30,5,True
+985,Elegant Inn,Italian,Cheap,Prospect Heights,10:00,22:30,1,True
+986,Charming Burger Joint,Italian,Medium,Riverdale,09:00,18:30,3,False
+987,Fresh BBQ Joint,Indian,Expensive,Prospect Heights,10:30,22:00,1,True
+988,Satisfying Lodge,Italian,Medium,Jackson Heights,12:30,20:30,2,False
+989,Divine Seafood Shack,French,Expensive,Harlem,10:30,16:30,3,False
+990,Flavorful Gastropub,Mediterranean,Expensive,Greenpoint,09:00,23:30,2,False
+991,Savory Cuisine,Thai,Medium,Upper West Side,12:00,18:30,5,False
+992,Sizzling Kitchenette,Indian,Expensive,Throgs Neck,08:30,23:30,3,True
+993,Sapphire Brewpub,Mediterranean,Expensive,Park Slope,10:30,22:30,5,False
+994,Highlands Brewery,Indian,Medium,Upper West Side,08:00,14:00,1,False
+995,Brick Oven Joint,Indian,Medium,Long Island City,08:00,23:00,5,False
+996,Highlands Ramen House,Mediterranean,Medium,Morris Park,10:00,18:30,2,True
+997,Charming Speakeasy,Thai,Cheap,Harlem,09:30,22:30,5,True
+998,Divine Fish House,Italian,Medium,Jamaica,09:30,19:30,2,True
+999,Yummy Gastropub,Thai,Cheap,Midtown Manhattan,12:00,18:00,2,False
+1000,Rainforest Doughnut Shop,Mediterranean,Medium,Brooklyn Heights,10:30,21:00,2,False
