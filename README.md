@@ -3,7 +3,7 @@
 ## Part 1: Restaurant finder
 Design a database table named `restaurants` that would allow an application that uses it to find restaurants and a table named `reviews` that would hold reviews for any restaurant.
 ### Practice Data
-Here is my practive data which is a mock data named [restaurants.csv](https://github.com/dbdesign-students-spring2024/4-sql-crud-Ruojin-song/blob/main/data/restaurants.csv). In my practice data, there are 9 cloumns including: 
+Here is my practice data which is a mock data named [restaurants.csv](https://github.com/dbdesign-students-spring2024/4-sql-crud-Ruojin-song/blob/main/data/restaurants.csv). In my practice data, there are 9 cloumns including: 
 
 1. ID
 2. Name (name of restaurants)
@@ -150,9 +150,32 @@ SELECT neighborhood, COUNT(*) AS number_of_restaurants FROM restaurants GROUP BY
 
 ## Part 2: Social media app
 
+The social media app you are designing a database for allows Users to share two kinds of content: **Messages** and **Stories**.
+### Practice data
+The first practice data is [users.csv](https://github.com/dbdesign-students-spring2024/4-sql-crud-Ruojin-song/blob/main/data/users.csv#:~:text=restaurants.csv-,users,-.csv). The dataset has 4 columns:
+
+1. user_id
+2. email
+3. password
+4. handle (i.e. username)
+
+The second one is [posts.csv](https://github.com/dbdesign-students-spring2024/4-sql-crud-Ruojin-song/blob/main/instructions.md#:~:text=posts.-,csv,-readme.txt). The dataset has 6 columns:
+1. user_id
+2. recipient_id (when the post_type is 'story' the recipient_id=0)
+3. content (is the text of story/message)
+4. post_type (is divided into "message" or "story")
+5. created_at (is the posted time: the format is "2024-02-02 11:26:58")
+6. viewed (it is random generated. some message is viewed (True) and some message is not viewed(False). All story are not viewed(False))
+
+In addition, there are 1000 rows in the practice data.
+
+### SQL Commands to Create Tables
+When I already have my practice data, I open my terminal and get started. Firstly, I create a database called socialmedia1.db.
+
 ```sql
 sqlite3 socialmedia1.db
 ```
+Then I create two tables: `users` and `posts` in it.
 ```sql
 CREATE TABLE users (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -160,10 +183,6 @@ CREATE TABLE users (
     password TEXT NOT NULL,
     handle TEXT UNIQUE NOT NULL
 );
-```
-```sql
-.mode csv
-.import /Users/apple/Desktop/workshop_sql/4-sql-crud-Ruojin-song/data/users.csv users
 ```
 ```sql
 CREATE TABLE posts (
@@ -178,10 +197,16 @@ CREATE TABLE posts (
 );
 
 ```
+Then I import my practice datas users.csv and posts.csv into them.
+```sql
+.mode csv
+.import /Users/apple/Desktop/workshop_sql/4-sql-crud-Ruojin-song/data/users.csv users
+```
 ```sql
 .mode csv
 .import /Users/apple/Desktop/workshop_sql/4-sql-crud-Ruojin-song/data/posts.csv posts
 ```
+### SQL Queries
 
 **Task 1: Register a new User**
 
@@ -223,7 +248,7 @@ VALUES (1, 'Check out my new story!', 'story', datetime('now', 'localtime'),Fals
 Here is the result:
 | user_id | recipient_id | content                    | post_type | created_at          | viewed|
 |---------|--------------|----------------------------|------------|---------------------|--|
-| 1       |              | Check out my new story!   | story     | 2024-02-28 23:10:11|
+| 1       |              | Check out my new story!   | story     | 2024-02-28 23:10:11|0|
 
 **Task 4: Show the 10 most recent visible Messages and Stories, in order of recency.**
 
@@ -251,7 +276,7 @@ ALTER TABLE posts DROP COLUMN viewed;
 -- Step 4: Rename the new column to match the old column name
 ALTER TABLE posts RENAME COLUMN viewed_new TO viewed;
 ```
-Here is the result:
+Here is part of the result:
 | user_id | recipient_id | content                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | post_type | created_at          | viewed |
 |---------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|----------------------|--------|
 | 1       |         | Check out my new story!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | story     | 2024-02-28 23:10:11  | 0      |
@@ -262,8 +287,8 @@ Here is the result:
 | 577 | 0         | Ullam harum rerum consectetur, rem facere molestias ea quisquam sed rerum, accusantium odio earum quidem porro ex sint quibusdam adipisci laborum voluptatem, officiis consequuntur officia quibusdam quis ullam hic reiciendis natus, expedita illum at eveniet a asperiores eligendi praesentium voluptates doloribus culpa impedit. Labore nihil magni a odio ab iste nisi ea sunt, veniam libero consequatur ea voluptas corporis et officia quibusdam commodi, dicta harum quae ratione sunt ullam. Consequatur quas illum distinctio id, reiciendis cupiditate quia tenetur aut expedita, aspernatur praesentium modi nam ex, ipsum omnis unde deleniti optio dolores facilis esse praesentium repellat, natus amet veritatis facere aliquid iste possimus ipsum commodi in debitis culpa?              | story   | 2024-02-28 22:50:53 | 0      |
 | 86  | 0         | Architecto labore ullam possimus magnam aut culpa tenetur, corrupti error a nam dolores consequatur asperiores repudiandae ipsum. Maiores eaque molestias et nihil excepturi, assumenda ab enim, temporibus ad inventore modi tenetur libero nemo cupiditate fugiat. Explicabo quae id adipisci excepturi vel reiciendis, pariatur culpa error delectus, ea similique sunt ipsa vitae expedita porro adipisci, ad saepe nihil consectetur quos accusantium numquam. Voluptatibus cum aspernatur beatae voluptatem corrupti earum reprehenderit porro commodi fugit, odio cum officiis sequi provident omnis, veniam unde saepe officia in ut a quibusdam libero eligendi qui natus, corporis voluptatem consequatur cupiditate voluptate vitae neque vel distinctio, asperiores assumenda necessitatibus eveniet voluptatem.                                           | story   | 2024-02-28 18:04:12 | 0      |
 | 260 | 0         | Doloribus tenetur sed numquam placeat aliquam illum saepe ad architecto amet, placeat asperiores corrupti veritatis blanditiis eaque error, facere ab ipsa omnis nisi nemo repellat? Doloribus dolor corporis omnis dignissimos totam molestiae eius quae, vel voluptas tenetur ipsam modi dignissimos provident quis possimus ratione, consequuntur provident beatae minima molestiae omnis voluptate aspernatur dolorum? Aspernatur numquam harum impedit expedita quos veritatis perspiciatis nihil recusandae itaque error, inventore iusto blanditiis corrupti odio? Porro unde est libero reiciendis sapiente autem, voluptatem rem possimus deleniti, incidunt id totam nisi esse error nulla atque odit ad? | story   | 2024-02-28 17:56:46 | 0      |
-| 89  | 0         | Voluptate ex explicabo voluptates ipsum, reprehenderit odio perferendis ipsa maiores deserunt, ratione cupiditate porro dolores facilis non nemo, perferendis cum qui. Vel cumque est repellat saepe possimus asperiores ducimus veritatis laborum nemo rem,                                                                                                                                                  | story   | 2024-02-28 16:51:20 | 0      |
-| 548 | 0         | Fugiat velit exercitationem accusantium sit alias iste nostrum minima quibusdam aliquam ducimus, ea laudantium nostrum recusandae deserunt ipsa, ex veniam autem numquam voluptates. Minus quae assumenda harum saepe, modi quibusdam quidem quis dolor sint eaque cupiditate ipsum, nesciunt recusandae est placeat repellat ea beatae, doloribus nam sed nisi ipsam facere, voluptatem fugit porro ipsa nostrum ab rem temporibus reiciendis? | story   | 2024-02-28 15:31:03 | 0      |
+
+
 
 
 
@@ -369,11 +394,11 @@ LEFT JOIN posts ON users.id = posts.user_id
 WHERE posts.user_id IS NULL;
 ```
 Here is the result:
-| Content | Email                    |
-| ------- | ------------------------ |
-|         | aalbrook3a@indiegogo.com |
-|         | aberndtssenfn@mac.com    |
-|         | abirchnerqi@merriam-webster.com |
-|         | abrideau1o@parallels.com |
-|         | acasswelli5@e-recht24.de |
-|         | acatlin6u@slideshare.net |
+| Email                    |
+| ------------------------ |
+| aalbrook3a@indiegogo.com |
+| aberndtssenfn@mac.com    |
+| abirchnerqi@merriam-webster.com |
+| abrideau1o@parallels.com |
+| acasswelli5@e-recht24.de |
+| acatlin6u@slideshare.net |
