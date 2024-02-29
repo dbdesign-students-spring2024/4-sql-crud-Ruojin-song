@@ -7,11 +7,11 @@ Here is my practive data which is a mock data named [restaurants.csv](https://gi
 
 1. ID
 2. Name (name of restaurants)
-3. Category (e.g. Chinese)
-4. Price_Tier (divided into three different types: Cheap, Medium, and Expensive)
-5. 	Neighborhood (neighborhood where restaurants are located)
-6. Opening Hours
-7. Closing Hours
+3. Category (e.g. Chinese, Thai)
+4. Price Tier (divided into three different types: Cheap, Medium, and Expensive)
+5. 	Neighborhood (neighborhood where restaurants are located in New York)
+6. Opening Hours (From 8:00-12:00)
+7. Closing Hours (at least 6 hours after opening hours)
 8. Average Rating (integer from 0 to 5)
 9. Good for Kids (True or False)
 
@@ -27,7 +27,7 @@ Then I create two tables: `restaurants` and `reviews` in it.
 ```sql
 CREATE TABLE restaurants (
     id INTEGER PRIMARY KEY,
-    name TEXT NOT NULL,
+    name TEXT UNIQUE NOT NULL,
     category TEXT,
     price_tier TEXT,
     neighborhood TEXT,
@@ -62,11 +62,12 @@ SELECT * FROM restaurants WHERE price_tier = 'Cheap' AND neighborhood = 'Lower E
 Here is a part of the result of this queries:
 | id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
-| 2  | Charming Cafe    | Mexican    | Cheap      | Lower East Side | 15:30         | 17:30         | 4.0            | True          |
-| 29 | Moonlight Wine Bar | French | Cheap      | Lower East Side | 20:30         | 21:00         | 2.0            | True          |
-| 39 | Scrumptious Court | Japanese | Cheap      | Lower East Side | 17:30         | 19:00         | 1.0            | False         |
-| 54 | Ivy League Seafood Shack | American | Cheap      | Lower East Side | 18:00         | 19:00         | 5.0            | True          |
-| 89 | Hilltop Taproom  | Mediterranean | Cheap     | Lower East Side | 21:30         | 22:00         | 3.0            | False         |
+| 18   | Bamboo Grove Pub | Japanese   | Cheap      | Lower East Side | 08:30         | 18:30         | 1.0            | False          |
+| 109 | Juicy Taphouse  | Italian    | Cheap      | Lower East Side | 12:00         | 21:00         | 3.0            | True           |
+| 110 | Charming Bakery Cafe | Chinese | Cheap | Lower East Side | 12:30         | 21:30         | 3.0            | False          |
+| 210 | Quaint Boulangerie | Indian   | Cheap | Lower East Side | 11:00         | 23:00         | 4.0            | True           |
+| 214 | Moonlight Joint | Indian     | Cheap      | Lower East Side | 12:00         | 23:00         | 5.0            | False          |
+
 
 
 **Task 2: Find all restaurants in a particular genre (pick any genre as an example) with 3 stars or more, ordered by the number of stars in descending order.**
@@ -83,15 +84,16 @@ SELECT * FROM restaurants WHERE category = 'Chinese' AND average_rating >= 3 ORD
 Here is a part of result of this queries:
 | id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
-| 692 | Irresistible Alehouse | Chinese | Medium      | Fordham         | 18:30         | 19:00         | 5.0            | True          |
-| 731 | Authentic Tapas Bar | Chinese | Medium      | Pelham Bay      | 20:00         | 21:30         | 5.0            | False         |
-| 18 | Wholesome Parlor   | Chinese | Expensive  | Tompkinsville   | 12:00         | 13:00         | 4.0            | False         |
-| 50 | Crisp Frozen Yogurt Shop | Chinese | Cheap      | Williamsburg    | 18:00         | 20:30         | 4.0            | False         |
-| 87 | Coastal Cider House | Chinese | Medium      | Forest Hills    | 14:30         | 15:30         | 4.0            | False         |
+| 864 | Bamboo Grove Kitchenette | Chinese | Expensive | Jamaica | 10:00         | 16:30         | 5.0            | False          |
+| 964 | Exquisite Brasserie | Chinese | Expensive | Tribeca | 11:30         | 21:30         | 5.0            | False          |
+| 115 | Quaint Cantina | Chinese | Cheap | Upper East Side | 11:00         | 21:30         | 4.0            | False          |
+| 153 | Sapphire Juice Joint | Chinese | Cheap | Tompkinsville | 12:30         | 23:00         | 4.0            | True           |
+| 385 | Yummy Tavern | Chinese | Expensive | Astoria | 12:30         | 19:00         | 4.0            | False          |
+
 
 **Task 3: Find all restaurants that are open now.**
 
-My current time is 9:02 pm. So I want to find all restaurants that are open now. 
+My current time is 7:24 pm. So I want to find all restaurants that are open now. 
 
 Here is SQL code:
 ```sql
@@ -100,26 +102,26 @@ SELECT * FROM restaurants WHERE strftime('%H:%M', 'now', 'localtime') BETWEEN op
 Here is a part of result of this queries:
 | id | name             | category   | price_tier | neighborhood    | opening_hours | closing_hours | average_rating | good_for_kids |
 |----|-----------------|------------|------------|-----------------|---------------|---------------|----------------|---------------|
-| 5  | Irresistible Juice Joint | Thai | Medium      | SoHo            | 21:00         | 22:00         | 4.0            | True          |
-| 6  | Aromatic Grill   | Mediterranean | Medium | Flatbush       | 19:00         | 21:30         | 4.0            | False         |
-| 16 | Oceanic Court    | Japanese | Expensive  | Greenwich Village| 20:00         | 21:30         | 1.0            | True          |
-| 17 | Fresh Tea Room   | Indian     | Medium      | Westerleigh     | 21:00         | 22:30         | 4.0            | False         |
-| 30 | Maplewood Cuisine | Japanese | Medium      | Belmont         | 20:30         | 21:30         | 0.0            | True          |
+| 2    | Zesty Palace    | Indian     | Medium     | Tribeca      | 11:30         | 21:00         | 3.0            | True           |
+| 3    | Urban Brasserie | French     | Medium     | Great Kills  | 11:00         | 19:30         | 3.0            | True           |
+| 6    | Harbor View Grill | Indian     | Medium     | Crown Heights | 08:30         | 20:00         | 2.0            | False          |
+| 7    | Zen Speakeasy   | Thai       | Cheap      | Throgs Neck  | 09:30         | 21:30         | 0.0            | False          |
+| 9    | Serenity Juice Bar | Italian   | Cheap      | Forest Hills | 11:30         | 21:30         | 1.0            | False          |
 
 **Task 4: Leave a review for a restaurant (pick any restaurant as an example; note that leaving a review has no automatic effect on the average rating of the restaurant).**
 
-I want to leave a review 'Great ambiance and delicious food!' and 4 stars for the restaurant "Classic Burger Joint" in reviews table.
+I want to leave a review 'Great ambiance and delicious food!' and 4 stars for the restaurant "Rustic Ramen House" in reviews table.
 
 Here is SQL code:
 
 ```sql
-INSERT INTO reviews (restaurant_id, review_text, rating) VALUES ((SELECT id FROM restaurants WHERE name = 'Classic Burger Joint'), 'Great ambiance and delicious food!', 4);
+INSERT INTO reviews (restaurant_id, review_text, rating) VALUES ((SELECT id FROM restaurants WHERE name = 'Rustic Ramen House'), 'Great ambiance and delicious food!', 4);
 ```
 
 Here is the result in reviews table:
 | review_id | restaurant_id | review_text                             | rating |
 |-----------|---------------|---------------------------------------|--------|
-| 1         | 1             | Great ambiance and delicious food!      | 4      |
+| 1         | 24           | Great ambiance and delicious food!      | 4      |
 
 **Task 5: Delete all restaurants that are not good for kids.**
 
@@ -137,16 +139,14 @@ SELECT neighborhood, COUNT(*) AS number_of_restaurants FROM restaurants GROUP BY
  Here is a part of result:
  | neighborhood | number_of_restaurants |
 |--------------|-----------------------|
-| Annadale     | 27                    |
-| Astoria      | 19                    |
-| Bedford-Stuyvesant | 29 |
-| Belmont      | 17                    |
-| Brooklyn Heights | 21 |
-| Bushwick      | 11                    |
+| Annadale     | 15                 |
+| Astoria      | 31                    |
+| Bedford-Stuyvesant | 27 |
+| Belmont      | 19                    |
+| Brooklyn Heights | 32 |
+| Bushwick      | 23                    |
 | Chelsea      | 22                    |
-| Crown Heights | 28                    |
-| Eltingville  | 32                    |
-| Flatbush     | 29                    |
+
 
 ## Part 2: Social media app
 
